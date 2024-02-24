@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://avkb.short.gy/jioepg.xml.gz, https://raw.githubusercontent.com/bebawy6/EPG/master/allEPG.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://avkb.short.gy/epg.xml.gz, https://avkb.short.gy/tsepg.xml.gz, https://aqfadtv.xyz/epg, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="1440" max-conn="1" refresh="24" billed-msg=" Premium User Only "Welcome To Original Astro BB.OTT "
-#vod_library="https://ott120.dbproject.xyz/bbliblary"
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://avkb.short.gy/jioepg.xml.gz, https://raw.githubusercontent.com/bebawy6/EPG/master/allEPG.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://avkb.short.gy/epg.xml.gz, https://avkb.short.gy/tsepg.xml.gz, https://aqfadtv.xyz/epg, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="1440" max-conn="1" refresh="24" billed-msg="| Username : Haziqdanial | Expiery date : 2024-02-29 17:24:32 | "
+#vod_library="https://ott120.dbproject.xyz/bbliblary?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3"
 #####################################################################Astro Channel###############################################################################
 
 
@@ -9,13 +9,6 @@
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
-#EXTINF:-1 ch-number="100" tvg-logo="https://marginfull.github.io/logo/themaskedsinger.png" group-title="BB.OTT | Astro Channel",100 The Masked Singer
-https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
   
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="BB.OTT | Astro Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -31,58 +24,37 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 http://startv365.com:80//live/D85A79B4/55A7743D/13490.ts
 
 
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
-#EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" ch-number="104" group-title="BB.OTT | Astro Channel",104 Astro Ria 01
-https://ott120.dbproject.xyz/bbottria1
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="BB.OTT | Astro Channel",104 Astro Ria 01
+https://ott120.dbproject.xyz/bbottria2?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
 #EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" ch-number="104" group-title="BB.OTT | Astro Channel",104 Astro Ria 02
-https://ott120.dbproject.xyz/bbottria2
+https://ott120.dbproject.xyz/bbottria1?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" ch-number="104" group-title="BB.OTT | Astro Channel",104 Astro Ria 03
-#https://ott120.dbproject.xyz/bbottria3
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310":"8412f444ffbe350cf2ece051f9152e90"}
+#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="BB.OTT | Astro Channel",105 Astro Prima 01
+https://ott120.dbproject.xyz/bbottprima2?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
+
 
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310":"8412f444ffbe350cf2ece051f9152e90"}
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="BB.OTT | Astro Channel",105 Astro Prima 01
-https://ott120.dbproject.xyz/bbottprima1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTINF:-1 tvg-id="105.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="BB.OTT | Astro Channel",105 Astro Prima 02
-https://ott120.dbproject.xyz/bbottprima2
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="BB.OTT | Astro Channel",105 Astro Prima 03
-#https://ott120.dbproject.xyz/bbottprima3
+https://ott120.dbproject.xyz/bbottprima1?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
 
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="107.astro" tvg-name="WARNA HD" group-title="BB.OTT | Astro Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna 
-http://50.7.234.10:8278/Warna-O/playlist.m3u8
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="BB.OTT | Astro Channel" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ch-number="108",108 Astro Citra
-http://50.7.234.10:8278/Citra_xue/playlist.m3u8
 
 
 
@@ -92,43 +64,34 @@ http://50.7.234.10:8278/Citra_xue/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="BB.OTT | Astro Channel",106 Astro Oasis 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
 #EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="BB.OTT | Astro Channel",107 Astro Warna HD 01
-https://ott120.dbproject.xyz/bbottwarna1
+https://ott120.dbproject.xyz/bbottwarna2?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
 #EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="BB.OTT | Astro Channel",107 Astro Warna HD 02
-https://ott120.dbproject.xyz/bbottwarna2
+https://ott120.dbproject.xyz/bbottwarna1?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="BB.OTT | Astro Channel",107 Astro Warna HD 03
-#https://ott120.dbproject.xyz/bbottwarna3
 
 
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="BB.OTT | Astro Channel",108 Astro Citra 01
-https://ott120.dbproject.xyz/bbottcitra1
+https://ott120.dbproject.xyz/bbottcitra2?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
+
 
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="BB.OTT | Astro Channel",108 Astro Citra 02
-https://ott120.dbproject.xyz/bbottcitra2
-
-#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="BB.OTT | Astro Channel",108 Astro Citra 03
-#https://ott120.dbproject.xyz/bbottcitra3
+https://ott120.dbproject.xyz/bbottcitra1?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
 
 #EXTINF:-1 tvg-id="122" ch-number="122" tvg-name="TVS" group-title="BB.OTT | Astro Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS Sarawak
@@ -243,14 +206,14 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="Astro Vinmeen HD" group-title="BB.OTT | Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png?20201217154605",202 Astro Vinmeen HD 01
-https://ott120.dbproject.xyz/bbottvinmeen
+https://ott120.dbproject.xyz/bbottvinmeen?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="Astro Vinmeen HD" group-title="BB.OTT | Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png?20201217154605",202 Astro Vinmeen HD 02
-#https://ott120.dbproject.xyz/bbottvinmeen2
+#https://ott120.dbproject.xyz/bbottvinmeen2?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
 
 
@@ -260,7 +223,7 @@ https://ott120.dbproject.xyz/bbottvinmeen
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"} 
 #EXTINF:-1 tvg-id="241.astro" ch-number="BoxOfficeThangathirai" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="BB.OTT | Indian Channel", 241 Box Office Thangathirai 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my 
-https://ott120.dbproject.xyz/bbottthirai
+https://ott120.dbproject.xyz/bbottthirai?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -268,7 +231,7 @@ https://ott120.dbproject.xyz/bbottthirai
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"} 
 #EXTINF:-1 tvg-id="241.astro" ch-number="BoxOfficeThangathirai" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="BB.OTT | Indian Channel", 241 Box Office Thangathirai 02
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my 
-#https://ott120.dbproject.xyz/bbottthirai2
+#https://ott120.dbproject.xyz/bbottthirai2?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="BB.OTT | Indian Channel" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6645e2e786014bc482c4835a8f97e1bd/version/0", Bollywood Prime
@@ -482,6 +445,18 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelindia_all/playl
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/161x0-icon.png" group-title="BB.OTT | Indian Channel",And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2023/02/IBC-Isai.jpg" group-title="BB.OTT | Indian Channel",IBC Isai
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logo_IBC_GLOSSY.png/120px-Logo_IBC_GLOSSY.png" group-title="BB.OTT | Indian Channel",IBC Tamil
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -999,7 +974,11 @@ http://epg.112114.xyz/douyu/252802
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://epg.112114.xyz/douyu/4505431
 
+#EXTINF:-1 group-title="BB.OTT | Movies & Entertainment " tvg-logo="https://i.imgur.com/8kWnyqn.png",Star Movies FHD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
+#EXTINF:-1 group-title="BB.OTT | Movies & Entertainment " tvg-logo="https://i.ibb.co/Xt7p9Xb/SGN-08-30-2023-1693391060946.png",Star Movies Select HD
+https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=353
 
 
 
@@ -1524,17 +1503,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BB.OTT | Indonesian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png", Indosiar 01
+#EXTINF:-1 group-title="BB.OTT | Indonesian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png", Indosiar
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BB.OTT | Indonesian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png", Indosiar 02
-http://50.7.234.10:8278/Indosiar/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/400px-RCTI_2015.svg.png" group-title="BB.OTT | Indonesian Channel",RCTI HD
@@ -2451,11 +2421,35 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 tvg-id="Sensasi" ch-number="123" tvg-name="Astro Sensasi" tvg-logo="https://i.imgur.com/BVbyCAo.png" group-title="BB.OTT | Astro Channel" tvg-id="" tvg-name="",123 Astro Sensasi B
-http://50.7.234.10:8278/Ria/playlist.m3u8
+
+#################4K SPORTS##################******
+
+#EXTINF:-1 tvg-id="805.astro" tvg-logo="https://i.imgur.com/5vpaYNF.png" group-title="4K SPORTS" group-logo=" https://bit.ly/3SLNEMm", Astro SuperSport UHD
+https://7pal.short.gy/astrouhd
+
+#EXTINF:-1 tvg-id="Bein Sport Real 4K" tvg-logo="https://i.imgur.com/q5k3gDX.png" group-title="4K SPORTS",beIN 4K
+https://7pal.short.gy/bein-uhd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAcE44P.png" group-title="4K SPORTS",BT Sport Ultimate
+https://7pal.short.gy/BTUltimate
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5EqG1Y.png" group-title="4K SPORTS", Now Sports 4K 1
+https://7pal.short.gy/nowsport4k
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/nWHxKJz.png" group-title="4K SPORTS",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/S9CUOYQ.png" group-title="4K SPORTS",Sky Sports Main Event Ultra HD
+https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-id="V sport ultra HD (T)" tvg-logo="https://i.imgur.com/S3IXhWw.png" group-title="4K SPORTS",V Sport Ultra HD
+https://7pal.short.gy/VSportUHD
 
 
-#####################################################################Sky Store Premium###############################################################################
+
+
+
+#################SKY STORE##################******
 
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/SkyStore.png" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/SkyStore.png" group-title="SKY STORE", Sky Store Premiere 1
@@ -2497,37 +2491,7 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/skystore/sky18.m3u8
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/SkyStore.png" group-title="SKY STORE", Sky Store Premiere 19
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/skystore/sky19.m3u8
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/SkyStore.png" group-title="SKY STORE", Sky Store Premiere 20
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/skystore/sky20.m3u8
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/SkyStore.png" group-title="SKY STORE", Sky Store Premiere 0 info
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/skystore/skyinfo.m3u8
-  
 
-
-
-
-
-#################4K SPORTS##################******
-
-#EXTINF:-1 tvg-id="805.astro" tvg-logo="https://i.imgur.com/5vpaYNF.png" group-title="4K SPORTS" group-logo=" https://i.ibb.co/Tc8rCrB/Logo-Maker-23092023-150553.png", Astro SuperSport UHD B
-https://7pal.short.gy/astrouhd
-
-#EXTINF:-1 tvg-id="Bein Sport Real 4K" tvg-logo="https://i.imgur.com/q5k3gDX.png" group-title="4K SPORTS",beIN 4K
-https://7pal.short.gy/bein-uhd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAcE44P.png" group-title="4K SPORTS",BT Sport Ultimate
-https://7pal.short.gy/BTUltimate
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5EqG1Y.png" group-title="4K SPORTS", Now Sports 4K 1
-https://7pal.short.gy/nowsport4k
-
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/nWHxKJz.png" group-title="4K SPORTS",Sky Sports F1 UHD A / B
-https://7pal.short.gy/SSF1uhd
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/S9CUOYQ.png" group-title="4K SPORTS",Sky Sports Main Event Ultra HD
-https://7pal.short.gy/SSMEuhd
-
-#EXTINF:-1 tvg-id="V sport ultra HD (T)" tvg-logo="https://i.imgur.com/S3IXhWw.png" group-title="4K SPORTS",V Sport Ultra HD
-https://7pal.short.gy/VSportUHD
 
 
 
@@ -4462,6 +4426,8 @@ https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Munafik.mp4
 
 
 
+#EXTINF:-1 type="movie" group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kUKEwAoWe4Uyt8sFmtp5S86rlBk.jpg", Creation of the Gods I Kingdom of Storms (2023)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Creation%20Of%20The%20Gods%201%20Kingdom%20Of%20Storms%20(2023).mp4
 #EXTINF:-1 type="movie" group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wzblS6RZaFhyTBNQRBr9Q6iYIV9.jpg", Champion (2018)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Champion.mp4
 #EXTINF:-1 type="movie" group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWiwxqAtP09fBfYyzH85u8nFwOH.jpg", Bleach (2018)
@@ -5631,13 +5597,13 @@ https://hello-si-kacak.buntai.workers.dev/0:/movie/Asean/themysticnine.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/lWfhrSr1gqfCIEYnZaMZOpc3F17.jpg", Deadly Puppet 2021
 https://hello-si-kacak.buntai.workers.dev/0:/movie/Asean/Deadly.Puppet.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/97nEMqXvr5STlFuhACmL8xSrH8f.jpg", Death Note 2006
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Sequels/Death%20Note/Death%20Note%20(2006).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Death%20Note.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wd0Ri3v8tyRdWuA5PRS2rODOlIa.jpg", Death Note : The Last Name 2006
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Sequels/Death%20Note/Death%20Note%20%20The%20Last%20Name%20(2006).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Death%20Note-%20The%20Last%20Name.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aTV14kh4YVXafBZtyNjQ2GrWsNh.jpg", Death Note : L Change The World 2008
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Sequels/Death%20Note/Death%20Note%20%20L%20Change%20The%20World%20(2008).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Death%20Note-%20L%20Change%20The%20World.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cDBV5mIMc8h0dsRHF43rUUk3I0O.jpg", Death Note : Light Up The New World 2016
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Sequels/Death%20Note/Death%20Note%20%20Light%20Up%20The%20New%20World%20(2016).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Death%20Note-%20Light%20Up%20the%20New%20World.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://walter.trakt.tv/images/movies/000/672/549/posters/thumb/5e3a02f4d6.jpg", Monkey King The One and Only 2021
 https://hello-si-kacak.buntai.workers.dev/0:/movie/Asean/Monkey%20King_%20The%20One%20And%20Only%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1OGY4OTYtZTE4OS00YzljLTlhODAtZTc1ZDU3MWM3NzQ5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Deep 2021
@@ -5929,7 +5895,8 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Lampor-%2
 
 
 
-
+#EXTINF:-1 type="movie" group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jJ8TnHvWHaVadW5JJjGYsM07j9i.jpg", Cars 3 (2017)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/Cars%203%20(2017).mkv
 #EXTINF:-1 type="movie" group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mKYkNro2btaWMsnYSuyqrBdHQo3.jpg", The Adventures of Tintin (2011)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/The%20Adventures%20of%20Tintin.mp4
 #EXTINF:-1 type="movie" group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg", Cars 2 (2011)
@@ -5993,13 +5960,13 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Tarzan%20And%20Jane%20(2
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg", Leo (2023)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Toon/Leo.2023.1080p.WEB-DL.MalaySub.@ceritasarikatamelayu.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg", Toy Story (1995)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Toon/Toy%20Story.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/Toy%20Story.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MFIhZAW0CVlEQrFyqwa4U6zqJP.jpg", Toy Story 2 (1999)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Toon/Toy%20Story%202.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/Toy%20Story%202.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg", Toy Story 3 (2010)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Toon/Toy%20Story%203.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/Toy%20Story%203.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg", Toy Story 4 (2019)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Toon/Toy%20Story%204.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/Toy%20Story%204.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg", The Incredibles (2004)
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Toon/The%20Incredibles.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg", Incredibles 2 (2018)
@@ -6303,11 +6270,11 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/New%20Gods-%20Nezha%20Re
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_UY268_CR3,0,182,268_AL_.jpg", Stand by Me Doraemon (2014)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Stand%20by%20Me%20Doraemon.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg", Kungfu Panda
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Kung%20Fu%20Panda.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/Kung%20Fu%20Panda.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg", Kungfu Panda 2
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Kung%20Fu%20Panda%202.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/Kung%20Fu%20Panda%202.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Kung_Fu_Panda_3_poster.jpg", Kung Fu Panda 3
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Kung%20Fu%20Panda%203.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Toon/Kung%20Fu%20Panda%203.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3116.jpg", Deathstroke: Knights & Dragons - The Movie
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Deathstroke-%20Knights%20&%20Dragons%20-%20The%20Movie.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/7124.jpg", The Legend of Hei
@@ -7685,6 +7652,16 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/The%20Wife.mp4
 
 
 
+#EXTINF:-1, type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mSBUClLuB70a2unFvW4m48OG9VF.jpg", Diary of a Wimpy Kid: The Long Haul (2017)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Diary.of.a.Wimpy.Kid.The.Long.Haul.2017.mp4
+#EXTINF:-1, type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7pTvjELxw0f0E6sUPGtPEl4WD0S.jpg", Diary of a Wimpy Kid: Dog Days (2012)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Diary%20of%20a%20wimpy%20kid%20dog%20days%20(2012)%20Malay%20hardsub.m4v
+#EXTINF:-1, type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k54R3ag1sLu93Wbfo4quw9sSFyj.jpg", Diary of a Wimpy Kid: Rodrick Rules (2011)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Diary_Of_A_Wimpy_Kid_Rodrick.m4v
+#EXTINF:-1, type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iLAGiPnSuODt9cn332bkFElrRig.jpg", Diary of a Wimpy Kid (2010)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Diary_of_a_wimpy_kid_2010720p.m4v
+#EXTINF:-1, type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vjsEi2JytAT76qrtUHPIhXExZAm.jpg", Captain Phillips (2013)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Captain%20Phillips.mp4
 #EXTINF:-1, type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cVLfO3CbVg8p5Qcaifq6AidOe2w.jpg", Quicksand (2023)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Quicksand%20(2023)-1080p.mp4
 #EXTINF:-1, type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kQgnptYNK9wGW50KGwSavEGSnPd.jpg", Apocalypse Clown (2023) 
@@ -8108,7 +8085,7 @@ https://hello-si-kacak.buntai.workers.dev/0:/movie/English/The%20Last%20Voyage%2
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg", The Boogeyman (2023)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/The%20Boogeyman%20(2023).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg", Champions (2023)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Champions.2023.1080p.BluRay.MalaySub.bymovieclub.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Champions.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg", Dog Gone (2023)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Dog%20Gone%20(2023).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zZH0sAUV0nfEEDBUdWBMLjs2XnN.jpg", Killer Book Club (2023)
@@ -8158,7 +8135,7 @@ https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Stone.Turtle.2023.MAL
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg", IT (2017) MalayDub
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/IT.2017.1080p.MALAY.HDTV.RAW.x264.DD2.0-alif.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg", The Flash (2023)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/English/The.Flash.2023.1080p.WEB-DL.MalaySub@bymovieclub.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/The%20Flash.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmDJhZIq1xnu5ZiMOlb0nHJH1qb.jpg", Simulant (2023)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Simulant.2023.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbyhg1DxQkkKUmQ60x7dqGxPvt1.jpg", The Flood (2023)
@@ -8256,7 +8233,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Peter%20Pan%20&%20Wen
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uCg2HPY7rBCrh1YGpXam9LH1xKZ.jpg", Aquaman (2018)
 https://worker-kasyah.buntai.workers.dev/0:/movie/English/Aquaman.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg", Ant Man and the Wasp Quantumania (2023)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Ant.Man.and.the.Wasp.Quantumania.2023.1080p.WEB-DL.MalaySub.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp-%20Quantumania.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3FrGhwhyZdNtdZRXS6jQbFw9KYB.jpg", Above The Shadow (2019)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Above%20the%20Shadows.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg", 80 For Brady (2023)
@@ -9195,8 +9172,8 @@ https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupe/Home%20S
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Netflix/Red%20Notice.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg", Red Notice (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Netflix/Red%20Notice%20free.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg", James Bond No Time To Die (2021)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/James%20Bond%20No%20Time%20To%20Die%202021.mp4
+#EXTINF:-1 type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg", James Bond No Time To Die (2021)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ef5cQtsmPsZHt2DMEeHe8WsBbwAsXs7oriVOKzxaZO2unA
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg", Shang-Chi and the Legend of the Ten Rings (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021..mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg", Venom Let There Be Carnage (2021)
@@ -9402,7 +9379,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Rescue%20Dawn%20(2006
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg", Paper Lives (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Paper%20Lives.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc0NWIwOTYtNzEwYi00YmUyLTlmYWYtYjJiZjRjN2RjMjAxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", Malignant (2021)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Malignant.2021.720p.WEB-OMG.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Malignant.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/BzVjmm8l23rPsijLiNLUzuQtyd.jpg", Coda (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Coda.2021.720p.WEB-OMG.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg", The Voyeurs (2021)
@@ -9653,8 +9630,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Below%20Zero%20(2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Rising%20Wolf%20%5BAscendant%5D%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNkZmJiZTAtY2M3MC00ZTNjLThkYmQtNmMxMTg3ZTJlNDA4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg", The Last Mercenary 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The.Last.Mercenary.2021.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jFo94MnRCfkjFgvvT1vVbyudKGK.jpg", Jungle Cruise 2021
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jungle%20Cruise%20(2021)%20Subs%20Indo.mp4
+#EXTINF:-1 type="movie" group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jFo94MnRCfkjFgvvT1vVbyudKGK.jpg", Jungle Cruise 2021
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWVqw52IWPRFqe8MPSZOHFUBltMphK9CIugQsuKbobm8LA
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg", Fractured 2019
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Fractured.2019.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hzH7fwaTyQNITLo40Hu3R7cVMqv.jpg", God of Egypt 2016
@@ -10010,25 +9987,25 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo%20(2008).
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg", Rambo Last Blood
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo_%20Last%20Blood%20(2019).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg", Insidious
-https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Insidious.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Insidious.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg", Insidious Chapter II
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious%20Chapter%202%202013.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Insidious-%20Chapter%202.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg", Insidious Chapter III
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious%20Chapter%203%202015.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Insidious-%20Chapter%203.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg", Insidious The Last Key
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious-%20The%20Last%20Key%20(2018).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Insidious-%20The%20Last%20Key.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/mc6B4XxCUsY29M5qU0BEBhxBa7t.jpg", The Amazing Spiderman
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/@Msn83_The.Amazing.Spiderman.2012.720p.BrRip.x264.YIFY.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg", The Amazing Spiderman 2
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/@Msn83_The.Amazing.Spider.Man.2.2014.720p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg", The mummy [1999]
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/The%20Mummy%20(1999)%20Subs%20Malay.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/The%20Mummy.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg", The Mummy Return [2001]
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/The%20Mummy%20Returns%20(2001).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/The%20Mummy%20Returns.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg", The Mummy Tomb of Dragon Emperor [2008]
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/he_Mummy__Tomb_Of_The_Dragon_Emperor_2008.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/The%20Mummy-%20Tomb%20of%20the%20Dragon%20Emperor.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg", The Mummy [2017]
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/%2523NPRH22%20The%20Mummy%20(2017).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/The%20Mummy_2.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg", The Fast and The Furious [2001]
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/1%20The%20Fast%20and%20the%20Furious.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg", 2 Fast 2 Furious [2003]
@@ -10360,9 +10337,9 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Transcendence%20(2014
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1566.jpg", 6 Underground (2019)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/6%20Underground.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/2786.jpg", Ant-Man (2015)
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Ant-Man%20(2015).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3262.jpg", Ant-Man and the Wasp (2018)
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Ant-Man%20and%20the%20Wasp%20(2018).mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/955.jpg", The Avengers (2012)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/The%20Avengers.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1806.jpg", Avengers: Age of Ultron (2015)
@@ -10555,56 +10532,59 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 
 
 
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9HsemSsBEHN5eoMble1bj6fDxs.jpg", Dr No (1962)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Dr.%20No%20(1962).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg", From Russia With Love (1963)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/From%20Russia%20With%20Love%20(1963).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6fTzum7gSpLWww26WvWjETNqfD9.jpg", Goldfinger (1964)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Goldfinger%20(1964).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xqwIF0mOCoXUr5HAGXSOLisrMUj.jpg", Thunderball (1965)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Thunderball%20(1965).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sLNpeApvLD8DBKmWxy8BZt9AoVK.jpg", You Only Live Twice (1967)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/You%20Only%20Live%20Twice%20(1967).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVzJLLhBwuWJBR9BYEMurShu2WT.jpg", On Her Majesty Secret Service (1969)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/On%20Her%20Majesty's%20Secret%20Service%20(1969).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b9amPumf5ywprEajNJUHhyJCDXB.jpg", Diamonds Are Forever (1971)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Diamonds%20Are%20Forever%20(1971).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yypEVnEzpDKrL6v5RBI3BfA8SVc.jpg", Live And Let Die (1973)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Live%20And%20Let%20Die%20(1973).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zULDLrGE42iTiizMJKDoTGbIKlu.jpg", The Man with the Golden Gun (1974)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/The%20Man%20with%20the%20Golden%20Gun%20(1974).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cY2DF1kcaHkiEzetylxBn7fvlIn.jpg", The Spy Who Loved Me (1977)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/The%20Spy%20Who%20Loved%20Me%20(1977).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg", Moonraker (1979)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Moonraker%20(1979).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJujEakubr0CigTjvYb0nCMggKW.jpg", For Your Eye Only (1981)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/For%20Your%20Eyes%20Only%20(1981).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zhoAL4o1STGgLbLxJ9r1ijfyHC9.jpg", Never Say Never Again (1983)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Never%20Say%20Never%20Again%20(1983).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yoosZitM9igSk3Sd0sBXIhKlAh1.jpg", Octapussy (1983)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Octopussy%20(1983).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/arJF829RP9cYvh0NU70dC5TtXSa.jpg", A View to a Kill (1985)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/A%20View%20to%20a%20Kill%20(1985)l.mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jcP0sarQXmx7XgwNoxJtqbllNyM.jpg", The Living Daylights (1987)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/The%20Living%20Daylights%20(1987).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bFzjdy6ucvNlXmJwoSoYfufV6lP.jpg", GoldenEye (1995)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/GoldenEye%20(1995).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWXNZHE4k4jlQhGhBEiLwYa2rIt.jpg", Tomorrow Never Dies (1997)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Tomorrow%20Never%20Dies%20(1997).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzHuGbDwubzhOt68DjQq8JPVVaJ.jpg", The World Is Not Enough (1999)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/The%20World%20Is%20Not%20Enough%20(1999).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i67gII3CoM4bpyTGuZb1TiRKUbZ.jpg", Die Another Day (2002)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Die%20Another%20Day%20(2002).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg", Casino Royale (2006)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Casino%20Royale%20(2006).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg", Quantum of Solace (2008)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Quantum%20of%20Solace%20(2008).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izrHg2UzxG3YXTBcKFaUbYp9LWA.jpg", Skyfall (2012)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Skyfall%20(2012).mp4
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/672kUEMtTHcaVYSVY4eiHEliHFa.jpg", Spectre (2015)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/Spectre%20(2015).mkv
-#EXTINF:-1 group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg", No Time to Die (2021)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/James%20Bond%20Collection/No%20Time%20to%20Die%20(2021).mp4
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9HsemSsBEHN5eoMble1bj6fDxs.jpg", Dr No (1962)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdYFzoXsvipChrlEQ4Ob0ZEBKyjO7I_2YbGmVnlYijN76g
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg", From Russia With Love (1963)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETA0GmSU831JtexOxWVO1nsBTXyHwZXRBZ-uDOOtBGbMUw
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6fTzum7gSpLWww26WvWjETNqfD9.jpg", Goldfinger (1964)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EY5OjwjxSslHnbdgPRhoiZMBtrbDwEcqitcuox-qpGQ5SA
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xqwIF0mOCoXUr5HAGXSOLisrMUj.jpg", Thunderball (1965)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbOeHMkvQzRPnJE4RJ-HGgUB52sxkr8g-44LFqTcAIoBkw
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sLNpeApvLD8DBKmWxy8BZt9AoVK.jpg", You Only Live Twice (1967)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESDmLtUjo6xAm6qZYQGhTA8Bqud3oxCm03eozZThApv0Fw
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVzJLLhBwuWJBR9BYEMurShu2WT.jpg", On Her Majesty Secret Service (1969)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERJgiHF95VdOrqs6_f-8pIABq0F0JAvyNrlTxcV_PI0yBw
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b9amPumf5ywprEajNJUHhyJCDXB.jpg", Diamonds Are Forever (1971)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EczP6OsBO4REhwl3F6sZ0HcB4kK00fiFfdhyTQD_AyCdrw
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yypEVnEzpDKrL6v5RBI3BfA8SVc.jpg", Live And Let Die (1973)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdxVHA2mgY5Gn8zg1RVg-BQBWBvodgFA5oF43yKB3tiV3A
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zULDLrGE42iTiizMJKDoTGbIKlu.jpg", The Man with the Golden Gun (1974)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXOgO_pZHSZCqXF-azFiaewBKsK0N-bos0MxoyU6ZACjwQ
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cY2DF1kcaHkiEzetylxBn7fvlIn.jpg", The Spy Who Loved Me (1977)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESOO4wgZg2hKqAdiUe9XEsYBduwL5EdwRLj9RaBDgaAJoA
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg", Moonraker (1979)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfJu5z-9S3dHjVLMFCndYBUBNpnLKAoWuWXrL-AsvCpdFQ
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJujEakubr0CigTjvYb0nCMggKW.jpg", For Your Eye Only (1981)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETfqRMpujJdNvANpSRDMXeABdyNZvXFzzvRy71I4FBjD0w
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zhoAL4o1STGgLbLxJ9r1ijfyHC9.jpg", Never Say Never Again (1983)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EY1AAyixfrBKisq_dOewSR0B0kZQV3IL4VZkQ81C8p0mgw
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yoosZitM9igSk3Sd0sBXIhKlAh1.jpg", Octapussy (1983)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfA2L-DvJ6VPikWjSu05pDEB2EWfkTcYqGfZobpVk9lBOw
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/arJF829RP9cYvh0NU70dC5TtXSa.jpg", A View to a Kill (1985)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EY8ZUnSxUqpJnxTGdO001wwByCCnAdIIJaQvkUxDSNNY_g
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jcP0sarQXmx7XgwNoxJtqbllNyM.jpg", The Living Daylights (1987)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETCOpFrN0ipGrFwxSohpWQ8BJAdQhuyuiII7qLN6YwaDng
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8nzJve63EXA79HGAyidZwivZrQ2.jpg", Licence to Kill (1989)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWnKc080Bv9JiM1QRogEWpMB7e7YqbnmurIFwFOzzo2XcQ
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bFzjdy6ucvNlXmJwoSoYfufV6lP.jpg", GoldenEye (1995)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EV7h3aGvCHJLuW8W5UuBXJgBNRMnOeoO8n_qv03XkTEQ_w
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWXNZHE4k4jlQhGhBEiLwYa2rIt.jpg", Tomorrow Never Dies (1997)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVy8nTcsT7lMgS0tkGVul2gBOBTqOGGspUBILrQSwG7w8w?
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzHuGbDwubzhOt68DjQq8JPVVaJ.jpg", The World Is Not Enough (1999)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfzJenwHUVJGvmDJpleT4XkBPtwFSbLNQFgk6vQMAzLobw
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i67gII3CoM4bpyTGuZb1TiRKUbZ.jpg", Die Another Day (2002)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EY7CJ0j4GPJAh7lc6wvBCdgB86y95RY9Ul_i_NfXJQOpsg
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg", Casino Royale (2006)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbWF7XmtTUZHmK42AlWTutsBaLVmuhBbBTC8JEfwKa4a2w
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg", Quantum of Solace (2008)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbyZjRmLL0JCu-Sk3oDjG5MBLDUPbdf0iuFO6ah22gX_-Q
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izrHg2UzxG3YXTBcKFaUbYp9LWA.jpg", Skyfall (2012)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Efr3tXvkzohCodW4SSoBqu4B0XaurkLY7dx_uKoRfuEzyA
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/672kUEMtTHcaVYSVY4eiHEliHFa.jpg", Spectre (2015)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWMFkQWOMFVMuip7aXXlAcUB_Nnvo1_IKV_JsPemKa5Y2A
+#EXTINF:-1 type="movie" group-title="JamesBond" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg", No Time to Die (2021)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ef5cQtsmPsZHt2DMEeHe8WsBbwAsXs7oriVOKzxaZO2unA
+
 
 
 
@@ -12804,6 +12784,7 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Solo%20Leveling/S
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg", Solo Leveling (2024) S1 E06
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Solo%20Leveling/S1/OPLOVERZ%20PLUS%20-%20SLV%2006%20%5Bx265%201080p%5D_2.mkv
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg", Solo Leveling (2024) S1 E07
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Solo%20Leveling/S1/OPLOVERZ%20PLUS%20-%20SLV%2007%20%5Bx265%201080p%5D.mkv
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg", Solo Leveling (2024) S1 E08
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg", Solo Leveling (2024) S1 E09
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg", Solo Leveling (2024) S1 E10
@@ -13804,6 +13785,28 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Menanti%20Senja/%
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Menanti%20Senja/Menanti%20Senja%20(2024)%20EP15%20Akhir.mp4
 
 
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E01
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUqr0BElRx9GpEAFvtnndlsBAKuwRTLLFavHdvdybl_tjg
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E02
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERVfl9RQccpCpbWT4oMws9MBytJy9jfcm4s1Z_JvcaN9tw
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E03
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EffwJt7vNWVDizQ73bggzfsBwxLQ7bhHAYDpVCT9w1lEtg
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E04
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdjYjPU969ZDuJdmzqMq-70BvXhMhBoW3Bkhj9Mu5CeOrA
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E05
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESlebi3vO11FqFW8VcJl4doBPA2ilCHA7uctDZ6LjF4swA
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E06
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbnafcxmvcJDkvAokBE1VqgBGBqyOTLsbsDwNqck6BU0mg
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E07
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUmZxePbNvNMj9uBojOqt-EBRTIuHfAQxAgJmMCU7eg7AA
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E08
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Eb_1fLrxjwFFpZH-Fm4dFr0BEOa0sZkXRFMnG3YXBCMmjA
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E09
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXnMVpAGjlhOtwkOXqku4pQBOc4izS35ALivVbXUHQvS-g
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmHOADn8SNoH9podetaf6TEOqKU.jpg", RIOT! (2023)  S1 E10
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETB-VKyYYUhKvGYwbQxpK6QB7n848o7Fmlj3EiglcswwMg
+
+
 #EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E01
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYDNUgn4_k1IrkvYEzPy4NYBz0-P7lYmWYNUvGHv8auxaw
 #EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E02
@@ -13869,6 +13872,7 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Rampas%20Cintaku/
 #EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p6kK4rO56o8yNBACB2LIcs2SAuG.jpg", Rampas Cintaku (2022)  S2 E08
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Rampas%20Cintaku/S2/Rampas%20Cintaku%20S2%20(2024)%20EP8.mp4
 #EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p6kK4rO56o8yNBACB2LIcs2SAuG.jpg", Rampas Cintaku (2022)  S2 E09
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Rampas%20Cintaku/S2/Rampas%20Cintaku%20S2%20(2024)%20EP9.mp4
 #EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p6kK4rO56o8yNBACB2LIcs2SAuG.jpg", Rampas Cintaku (2022)  S2 E10
 #EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p6kK4rO56o8yNBACB2LIcs2SAuG.jpg", Rampas Cintaku (2022)  S2 E11
 #EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p6kK4rO56o8yNBACB2LIcs2SAuG.jpg", Rampas Cintaku (2022)  S2 E12
@@ -13892,6 +13896,65 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Projek%20Anchor%2
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Projek%20Anchor%20SPM/Projek%20Anchor%20SPM%20Episod%2007%20HDTV@PH.mp4
 #EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/76Yae0N3gK0tO6sPYm54L6o8Cso.jpg", Projek: Anchor SPM (2021)  S1 E08
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Projek%20Anchor%20SPM/Projek%20Anchor%20SPM%20Episod%2008%20Akhir%20HDTV@PH.mp4
+
+
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E01
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%2001%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E02
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%2002%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E03
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A003%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E04
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A004%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E05
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A005%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E06
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A006%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E07
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A007%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E08
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A008%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E09
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A008%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E10
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A010%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E11
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A011%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E12
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A012%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E13
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A013%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E14
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A014%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E15
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A015%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E16
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A016%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E17
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A017%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E18
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A018%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E19
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A019%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E20
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A020%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E21
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A021%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E22
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A022%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E23
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A023%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E24
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A024%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E25
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A025%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E26
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A026%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E27
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A027%20WEB-DL@PH.mp4
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/1/1a/Kerana_Terpaksa_Aku_Relakan.jpg/250px-Kerana_Terpaksa_Aku_Relakan.jpg",  Kerana Terpaksa Aku Relakan (2014)  S1 E28
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Kerana%20Terpaksa%20Aku%20Relakan/Kerana%20Terpaksa%20Aku%20Relakan%20Episod%C2%A028%20Akhir%20WEB-DL@PH.mp4
+
 
 
 #EXTINF:-1 group-title="Drama" tvg-logo="https://i0.wp.com/iluminasi.com/img/upload/hawt-fellas-drama.jpg", Hawt Fellas (2024)  S1 E01
@@ -18538,6 +18601,7 @@ https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/down
 #EXTINF:-1 type="series" group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4uI3VfubinCGzatlZcRcjrLyZ1.jpg", MASHLE S2 E05
 https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EbBwzcX5E71Ao5RisUWEj9ABFAyAjf5fHCJISkkdN8ixKw
 #EXTINF:-1 type="series" group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4uI3VfubinCGzatlZcRcjrLyZ1.jpg", MASHLE S2 E06
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EXuxNhpmaKZLhoczvVrJ_hsBS-rBFirNvKTzDwo04OAp3Q
 #EXTINF:-1 type="series" group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4uI3VfubinCGzatlZcRcjrLyZ1.jpg", MASHLE S2 E07
 #EXTINF:-1 type="series" group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4uI3VfubinCGzatlZcRcjrLyZ1.jpg", MASHLE S2 E08
 #EXTINF:-1 type="series" group-title="Anime" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4uI3VfubinCGzatlZcRcjrLyZ1.jpg", MASHLE S2 E09
@@ -20633,37 +20697,37 @@ https://calm-rain-70b4.buntai.workers.dev/0:/series/Blind/S1/Blind.EP15.720p.WEB
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Blind/S1/Blind.EP16.720p.WEB-OMG.mp4
 
 
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E01
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E01
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EY7Z6Z10BKNHvAW_vBqIpZYBUknFlaIQgdmhbV1vd-xNCQ
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E02
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E02
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQZNOhbY-7JGpR36I7Ybk7YBfRBd1dFIqJRsi70mQyptAQ
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E03
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E03
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVFET4lGjpVOnCcc49TYSI4B2wiG4SqgV-nSz3kOVhFQEw
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E04
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E04
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZ0upsgcQbdIsdWHXT84n8oBTKvnomSTgpR2fj-wFh57Pg
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E05
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E05
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESDFVz0UkeFNmLM83_1DinUBKO5nWR4sZk-ffS7KJkfvCA
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E06
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E06
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ES3y2ustZYpDiUY6_VQb2XgBUe2WmKYET3qyao5n8Istew
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E07
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E07
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ea_jMXI8BLBAsz_JvtVqIF0BMZsydniw6khiEz-9tKdzOw
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E08
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E08
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUHop8zoDdhIiIZKlRcaS3UBC5fN9Sanqinx9qmd2wf-Yw
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E09
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E09
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERZjkqI-L2ZCjAJmZ9QH3DgB7_gdsP_HRCf27-0VtiojHg
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E10
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E10
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETAx8bFZNI5AuRXn6aXJRo4BEYxRmGsYJF3tigP3vaqv8A
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E11
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E11
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EalrgZg_LOtHh1oNk8xEaBgBpK3UaApAcFEZAT89xS32xg
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E12
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E12
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXxYX0D93PVBkznqcYFbnfEBebz4c1oLsVUywBQm-0SFEw
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E13
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E13
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQb68UU-OcFCpZDd0D_Y-sQBvR2JnPVuG5C3bNsOmmq06g
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E14
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E14
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYSlnZU7a7FNuAlasr0onOEBR1tcsCA8MY8D8tSNxpLBzw
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E15
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E15
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaSO4tD9mtBIhrbLNJrdZJUB4l_ZFtMpn0XbpGmFJsrIIw
-EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E16
+#EXTINF:-1 type="series" group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsvYA33F4vwMDbNscdvt6r9zCZe.jpg", Love All Play S1 E16
 https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERXO6YgrQVVLmJHaJUYe9jQBRv3P0MapGWmP3XLHK5KuRA
 
 
@@ -20814,23 +20878,22 @@ https://calm-rain-70b4.buntai.workers.dev/0:/series/sepahtu%20reunion%20live%20t
 
 
 
-#EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E01
-https://hello-si-kacak.buntai.workers.dev/0:/series/One%20Cent%20Thief/One%20Cent%20Thief%20EP01.mp4
-#EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E02
-https://hello-si-kacak.buntai.workers.dev/0:/series/One%20Cent%20Thief/One%20Cent%20Thief%20EP02.mp4
-#EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E03
-https://hello-si-kacak.buntai.workers.dev/0:/series/One%20Cent%20Thief/One%20Cent%20Thief%20EP03.mkv
-#EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E04
-https://hello-si-kacak.buntai.workers.dev/0:/series/One%20Cent%20Thief/One%20Cent%20Thief%20EP04.mp4
-#EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E05
-https://hello-si-kacak.buntai.workers.dev/0:/series/One%20Cent%20Thief/One%20Cent%20Thief%20EP05.mp4
-#EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E06
-https://hello-si-kacak.buntai.workers.dev/0:/series/One%20Cent%20Thief/One%20Cent%20Thief%20EP06.mp4
-#EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E07
-https://hello-si-kacak.buntai.workers.dev/0:/series/One%20Cent%20Thief/One%20Cent%20Thief%20EP07.mp4
-#EXTINF:-1 group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E08
-https://hello-si-kacak.buntai.workers.dev/0:/series/One%20Cent%20Thief/One%20Cent%20Thief%20EP08.mp4
-
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E01
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfvRCiv0wJlMnC9ZcubOzXsBQMTsnE7e1KOESMiwGKuA6w
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E02
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZ5kG8I-fH5Nllp4L0VytssBomMttgbJJ6Z71I6kxBefbw
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E03
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecrg2EcLf_9EvmSOXKUtLPQBLlFl5ngDbBSTh2D6Z2-goA
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E04
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETYeCGruoslEqkPNnhYuURABVCsadD00kzS2ypSK7Z6AeA
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E05
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EcPTAM-RA15Arwg7VTF-SH4BFQplwp1oMFxZr7qZZxwnzg
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E06
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZLZy7YkiE9GviuB0gWFn9sB0MzFODTClh9_f2LBtf-36g
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E07
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYYFq_71XcNEi09j4jbPEikBNYphYcxJqkFmmWIzUDmO4w
+#EXTINF:-1 type="series" group-title="Drama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqX022pdApy2SxDN5tEb6Ou26ER.jpg", One Cent Thief S1 E08
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EU1PApmliF1GtiMsj9LAb7gB9mjNMs7_j7MXegBOhk9bRg
 
 
 
@@ -22974,42 +23037,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/series/KAKEGURUI%20TWIN/S1/KAKEGURU
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E01
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/KnY%20S201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E02
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/KnY%20S202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E03
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/KnY%20S203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E04
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/KnY%20S204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E05
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/KnY%20S205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E06
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/KnY%20S206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E07
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/KnY%20S207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E01
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S201P2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E02
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S202P2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E03
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S203P2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E04
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S204P2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E05
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S205P2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E06
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S206P2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E07
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S207P2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E08
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S208P2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E09
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S209P2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E10
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S210P2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E11
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202%20Part%202/KnY%20S211P2.mkv
 
 
 
@@ -24022,58 +24049,119 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Sepahtu%20Reunion
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E01
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~001%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E02
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~002%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E03" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E03
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~003%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E04
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~004%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E05
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~005%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E06" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E06
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~006%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E07" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E07
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~007%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E08" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E08
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~008%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E09" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E09
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~009%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E10" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E10
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~010%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E11" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E11
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~011%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E12" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E12
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~012%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E13" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E13
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~013%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E14" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E14
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~014%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E15" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E15
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~015%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E16" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E16
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~016%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E17" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E17
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~017%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E18" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E18
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~018%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E19" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E19
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~019%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E20" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E20
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~020%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E21" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E21
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~021%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E22" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E22
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~022%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E23" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E23
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~023%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E24" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E24
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~024%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E25" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E25
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~025%20Kimetsu%20no%20Yaiba.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E26" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E26
-https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%201/Anime%20Lovers~026%20Kimetsu%20no%20Yaiba.mp4
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E01
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Ea04b4rQchdEl4AR0y0wVvoBCQL0M0sKTMAR8FCzmY8BIw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E02
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EWXyIHUgwytMm4wg0IqqnwcBH6YmiuO9T_Tt4789SvimVw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E03" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E03
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EVFCA8usLnlJubtRrRzK5yEBRMTyGuQn4TnW2r_j6xZmHw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E04
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EQBb9EkPLbpInMnqKLTpLNoBbou2C7IiuL0aH_-B4PLvFg
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E05
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EcQXc8-XN4NPubdXZir00pQBe8GxevF2-rvAcA93OFsI2g
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E06" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E06
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EfyHVx6AcIRHhGbdl5cdrEUBgcnRy5vKP8Q9xithz955kA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E07" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E07
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ERWCxMh3DNBKrvK0T4P_tyAB79NxFGmP_QKYTs8mZ55pBQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E08" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E08
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EQPaf5miYIFIgDQgHkdy_VoBe-EpLh25e2NkWD6kSVn6oQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E09" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E09
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EXv9638uNylNnbzkKvt1-jIBRFSu4Y7KAaAO00tSJxlpdQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E10" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E10
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EUuilTWVHp1Hs0mAoddvx_8BUPxkoYpf0_Z0iXBRGpvRDA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E11" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E11
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Eev7sfRkq-5JgHNhzI8anRoBYLNyhON94v2KOorfKEjlcQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E12" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E12
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EbVUoNjpNaxIgjQC-R3uq9MB525lHf_c5y5dWwJ4zkrNOg
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E13" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E13
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EYX2K-dyFKpLkUUy2RvyfQwBTc2l07xXXxo1knvsojZ6HA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E14" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E14
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ETrMICvOMoJJlH17jfc_Dd0BpN8Y_VHgi-RyS5RlwRuGrw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E15" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E15
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EVJGyKGBSXRPl4cTsbshmzUBGqbv5FItKf8uIa5VXHfhvw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E16" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E16
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Ef6bChqBkU9NmoxdQbLmjuIB671C9asJ4PlAUJMpuTGeuA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E17" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E17
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EaGmccw9Tk5FlFY1WxQ0KLIBMaN0C8NgBj8A81IEopS_YA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E18" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E18
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ERD7q-yxL0tPvqcKX8e4TfABH92VBE1iS_bQynQl3-dXHQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E19" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E19
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EQwoMlVEw7pFjSZDaDM-KpgBGml5BmPv02oL-Zs1hpSAvQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E20" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E20
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EeMbX1rrTVJKnNnefoTdDWIBxkhJSA-GarCy5oXQ26NcKA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E21" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E21
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EW5LFHEnCSpLtuESD7ZZ9JcBunoiEWCs1cVNhwVXp9uUUw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E22" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E22
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Efg_KfxAdClKgsfkknCvaKQBL6yhIA9FCvvvbenatGu6Wg
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E23" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E23
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ERbYknHSKYxCtt5kw3hgUm4B9F_gVuQoFiSXswFXtC-7YA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E24" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E24
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EZdmD3gqa9BDtrVOMMEBrQ4B2ZXMNw1WuINDlLcHWyRqgg
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E25" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E25
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EfcEI_2PtTZNiehXdo8BvRwBNjv1SnGDweT3qbEt-tHgMw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E26" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E26
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EePuJTGfNqhButjMNhNZj1sB7pQgCKnpwWI-ugsyZdMVoQ
+
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E01
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EcO_oe_HpOJImZFRCf3b6K0BQqPeCd9_BAOccQ89Bl28cw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E02
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EXmf0o0Zsv5Ptya1Od6PSdQBkSuktaoROTl-nzXLnQnwKw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E03
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Ecnb-nVGjplOp-Fv2-dpzy8B5PfZ_Dqp6Rhtm6Y2QYZEKQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E04
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EcQ95bAmm9VNo6e8pY-8SRYBQEergGoiE980IVrjOPyHZw
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E05
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EcxRNi-ynsRPkViBxUUwLVEBAswhIoCZR3BhnLV-j1QgHg
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E06
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EUW5jApEh9RIltZb8WdBRMMBPmcCaD7SCLj9Y6-B5spq9Q
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S02 E07
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EUmwzA5SzU1NhaJ39n3cEgkBBiXFqzmwlkBPmEjYlZZpNA
+
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E01
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EUKsRyV8dB5JjQmKRC9Y6IsB58D0tzxsvU1PTFD5mSiR7w
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E02
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EedueFQ1KkpFmeP-ufGbbQcBaOtH7awk3kVjQHfBNMC2KA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E03
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Ebgx4FxmufJHqLbzdWI1wXUBI0kN6gQHTK3fNFkmEWTCng
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E04
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Eb8IGtWKs_pNortaCr_5hQQBfL_YcZeA4YrFyfQS0YD9Yg
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E05
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Ea8pQxMHskNArnBYFhw11tkBbBDYBnbwq9s44F0f6PdSbA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E06
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ESdbiki2GElBvNvwDbu1e_sBhvMI7EaQjI7QyaAHeyu8BA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E07
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EUBV4C3N3ENEsiJIL3dILqEBXROjLBB3UTjRKHqekIlbwQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E08
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EbcikMx_sGZAjJrkeKuH98cBeDW4WfHX_ycfWz0l4Zeqig
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E09
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EQle1P4pqONNnYtq8ocGq6MBFAmya-H8Lalz34bQzBm0Ng
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E10
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EQHwEQukCnRPvMrFqTG_2S8BLWuXWG_8DyAmplD0HXtZOg
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/taT33NroOl2Fn8bUGj8bwdmNw3G.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S03 E11
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EX5DfrYCv_dJunXg9bqS-XoBdR9T9R8F1bsObaCFEsQX_w
+
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E01
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EQSd1VOXu4tMoE9qv9MRGpEBlYbjiZzm2j3TNfYfFQVWmQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E02
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EUsr7BUUlGdBuLFmdWAB2C0BiY0EKcF6XaoZVbFtMfzFvA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E03
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ERIAsKstH65MrxcNBaz6JUkB4SmysR60KF6fSRupdh4SjQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E04
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=Eeuqa_OjNn9EhWVSq5EwMqgBLO_nma5pN_5m2hqJe83ZiA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E05
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EcIbZp9IyGtChfuotNAYTvIBYthzMktspO4fadPjB6eghA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E06
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EWxJjPry1lNOlPv1normRd4BEmynBB5Iv2nRFmc25qN9CA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E07
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EVG33X5EoGxFs4h0Dcng9GsBYK8GHNQHtbUrZg9XadTCuA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E08
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EZHDr1MLjs9Br1TA57b5-LgBMcYxg0VTl4GCfPkB36M5dQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E09
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EcdDk_xsGvVFtzhRncsKrhUB0rzQiNxcGpIUw31VJfQTpA
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E10
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EagvB7xqxatMoguuGodt874Bx5bsK53vF-4MvXe_FXdeFQ
+#EXTINF:-1 type="series" tvg-name="Demon Slayer: Kimetsu no Yaiba S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S04 E11
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ETHg5L7NxCZOqw9wpFd-BkcBd-u0McdUxoycuyR-4T7Y3w
 
 -= Startup =-
 
@@ -25169,5 +25257,3 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/Chuck/Chuck%20
 
 
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/nWHxKJz.png" group-title="4K SPORTS",Sky Sports F1 UHD
-https://7pal.short.gy/SSF1uhd
