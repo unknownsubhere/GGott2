@@ -20,7 +20,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="Sensasi" ch-number="123" tvg-name="Astro Sensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="BB.OTT | Astro Channel" tvg-id="" tvg-name="",123 Astro Sensasi (Staging)
+#EXTINF:-1 tvg-id="Sensasi" ch-number="123" tvg-name="Astro Sensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="BB.OTT | Astro Channel" tvg-id="" tvg-name="",123 Astro Sensasi (Staging) 01
 http://startv365.com:80//live/D85A79B4/55A7743D/13490.ts
 
 
@@ -202,13 +202,13 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mp
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Sensasi" ch-number="123" tvg-name="Astro Sensasi" tvg-logo="https://i.imgur.com/BVbyCAo.png" group-title="BB.OTT | Astro Channel" tvg-id="" tvg-name="",123 Astro Sensasi B
+#EXTINF:-1 tvg-id="Sensasi" ch-number="123" tvg-name="Astro Sensasi" tvg-logo="https://i.imgur.com/BVbyCAo.png" group-title="BB.OTT | Astro Channel" tvg-id="" tvg-name="",123 Astro Sensasi 02
 http://50.7.234.10:8278/Ria/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="Sensasi" ch-number="123" tvg-name="Astro Sensasi" tvg-logo="https://i.imgur.com/BVbyCAo.png" group-title="BB.OTT | Astro Channel" tvg-id="" tvg-name="",123 Astro Sensasi 03
+http://50.7.234.10:8278/Sensasi/playlist.m3u8
 
 
 
