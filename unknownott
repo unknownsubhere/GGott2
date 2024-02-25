@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://avkb.short.gy/jioepg.xml.gz, https://raw.githubusercontent.com/bebawy6/EPG/master/allEPG.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://avkb.short.gy/epg.xml.gz, https://avkb.short.gy/tsepg.xml.gz, https://aqfadtv.xyz/epg, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="1440" max-conn="1" refresh="24" billed-msg="| Username : Haziqdanial | Expiery date : 2024-02-29 17:24:32 | "
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://avkb.short.gy/jioepg.xml.gz, https://raw.githubusercontent.com/bebawy6/EPG/master/allEPG.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://avkb.short.gy/epg.xml.gz, https://avkb.short.gy/tsepg.xml.gz, https://aqfadtv.xyz/epg, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="1440" max-conn="1" refresh="24" billed-msg="Premium User Only  "
 #vod_library="https://ott120.dbproject.xyz/bbliblary?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3"
 #####################################################################Astro Channel###############################################################################
 
@@ -999,6 +999,13 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 group-title="BB.OTT | Movies & Entertainment " tvg-logo="https://i.ibb.co/Xt7p9Xb/SGN-08-30-2023-1693391060946.png",Star Movies Select HD
 https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=353
+
+
+#EXTINF:-1 group-title="BB.OTT | Movies & Entertainment" tvg-id="HBOSignature" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",416 HBO Signature FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
 
 
 
