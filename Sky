@@ -5,3 +5,12 @@ http://w.nasvpn.xyz:8080/live/best/best/22663.m3u8
 
 
  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="BB.OTT | Astro Channel",104 Astro Ria 1
+https://ott120.dbproject.xyz/bbottria2?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="BB.OTT | Astro Channel",104 Astro Ria 01
+ https: //free-iptv-bawahtanah.jabicin297.workers.dev/?channel_id=1004
