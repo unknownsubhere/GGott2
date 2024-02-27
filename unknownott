@@ -20,6 +20,13 @@ https://ott120.dbproject.xyz/470d0a996865af085fcd80524568d98d08bb04d55c35f7130ff
 #KODIPROP:inputstream.adaptive.license_key=https://ott120.dbproject.xyz/8ccb6f2633221204863dbf39f7d591e9df735d8f240c3dee2312cb860dff1fe40c3391b19accbdcf034c2551aaaf2d37203263369bc9886518c12c0ada01c8768b02351be0e115b2fdaf372d6aebc94c795567ed286288f743f26b8ac876cdbfa3eef3e6c55dcf3be0c60797ed5c0150504a6622ef356457e4650bef76d3edde?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 https://ott120.dbproject.xyz/77597a27e9836769cb92c42677aeb92e965f4933f226183fea42c05193d8022bb6e38c924acd39ee619215eb12dd26aa3ac675d16045e0531cf7f7bf50acc1ab.mpd?uuid=020e7063-aceb-4afe-aeb3-2f094bb752e3
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="BB.OTT | Astro Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" ch-number="103",103 TV3 FHD
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+
+
 #EXTINF:-1 tvg-id="Sensasi" ch-number="123" tvg-name="Astro Sensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="BB.OTT | Astro Channel" tvg-id="" tvg-name="",123 Astro Sensasi (Staging)
 http://startv365.com:80//live/D85A79B4/55A7743D/13490.ts
 
