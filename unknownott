@@ -2506,6 +2506,10 @@ https://7pal.short.gy/SSMEuhd
 https://7pal.short.gy/VSportUHD
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
+#EXTINF:-1 tvg-id="809.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="BB.OTT | Sports Channel",Astro Supersport Plus
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 
 
 
