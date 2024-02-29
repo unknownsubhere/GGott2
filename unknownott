@@ -720,7 +720,7 @@ http://startv365.com:80//live/D85A79B4/55A7743D/378760.ts
 #EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",Star Movies HD
 #http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
 
-#EXTINF:-1 tvg-id="StarMoviesSelects" tvg-logo="https://i.imgur.com/0rFA2Cx.png" tvg-name="StarMoviesSelects" group-title="BB.OTT | Movies & Entertainment",Star Movies Selects HD
+#EXTINF:-1 tvg-id="StarMoviesSelects" tvg-logo="https://bit.ly/3IfGD1F" tvg-name="StarMoviesSelects" group-title="BB.OTT | Movies & Entertainment",Star Movies Selects HD
 #http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -830,7 +830,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mp
 #http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
 
 
-#EXTINF:-1 tvg-id="StarMoviesSelects" tvg-logo="https://i.imgur.com/0rFA2Cx.png" tvg-name="StarMoviesSelects" group-title="BB.OTT | Movies & Entertainment",1000 Star Movies Selects HD
+#EXTINF:-1 tvg-id="StarMoviesSelects" tvg-logo="https://bit.ly/3IfGD1F" tvg-name="StarMoviesSelects" group-title="BB.OTT | Movies & Entertainment",1000 Star Movies Selects HD
 #http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
 
 
@@ -839,24 +839,24 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mp
 http://103.166.150.12:6500/play/a02c/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Movies Now" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",1102 Movies Now  HD
+#EXTINF:-1 tvg-id="Movies Now" tvg-name="Movies Now" tvg-logo="https://bit.ly/3P0BG0o" group-title="BB.OTT | Movies & Entertainment",1102 Movies Now  HD
 http://103.166.150.12:6500/play/a01j/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="StarMoviesSelects" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",1003 Star Movies Seleted FHD
+#EXTINF:-1 tvg-id="StarMoviesSelects" tvg-name="StarMoviesSelects" tvg-logo="https://bit.ly/3IfGD1F" group-title="BB.OTT | Movies & Entertainment",1003 Star Movies Seleted FHD
 http://103.166.150.12:6500/play/a02d/index.m3u8
 
 
-#EXTINF:-1 tvg-id="&FLix HD" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",1004 &FLix HD
+#EXTINF:-1 tvg-id="&FLix HD" tvg-name="&FLix HD" tvg-logo="https://bit.ly/3IkQ6Vn" group-title="BB.OTT | Movies & Entertainment",1004 &FLix HD
 http://103.166.150.12:6500/play/a020/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MN+ HD" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",1006 MN+ HD
+#EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://bit.ly/3uQFYAs" group-title="BB.OTT | Movies & Entertainment",1006 MN+ HD
 http://103.166.150.12:6500/play/a02b/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MNX HD " tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",1007 MNX HD
+#EXTINF:-1 tvg-id="MNX HD " tvg-name="MNX HD" tvg-logo="https://bit.ly/3wISa6P" group-title="BB.OTT | Movies & Entertainment",1007 MNX HD
 http://103.166.150.12:6500/play/a01i/index.m3u8
 
 
