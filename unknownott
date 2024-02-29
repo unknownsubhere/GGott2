@@ -62,7 +62,7 @@ https://ott120.dbproject.xyz/bvr1?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
-#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="BB.OTT | Astro Channel",104 Astro Ria 
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="BB.OTT | Astro Channel",104 Astro Ria USER
 http://newlife3.wanicelife.com:8880/48mms160009/41184478/1705
 
 
@@ -85,6 +85,14 @@ https://ott120.dbproject.xyz/bvc1?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id="Astro Oasis HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="BB.OTT | Astro Channel",106 Astro Oasis 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
+#EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="BB.OTT | Astro Channel",107 Astro Warna MULTI HD
+http://newlife3.wanicelife.com:8880/6mss290029/41737315/1706
+
 
 
 
