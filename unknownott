@@ -52,13 +52,13 @@ http://50.7.234.10:8278/Citra_xue/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="BB.OTT | Astro Channel",104 Astro Ria 01
-https://ott120.dbproject.xyz/bbottria2?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
+http://mku0414.oknirvana.club:8880/live/6mmk050023/37168895/1705.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
 #EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" ch-number="104" group-title="BB.OTT | Astro Channel",104 Astro Ria 02
-https://ott120.dbproject.xyz/bvr1?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
+http://mku0414.oknirvana.club:8880/1msk040017/44321694/1705
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
@@ -70,14 +70,15 @@ http://newlife3.wanicelife.com:8880/48mms160009/41184478/1705
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310":"8412f444ffbe350cf2ece051f9152e90"}
 #EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="BB.OTT | Astro Channel",105 Astro Prima 01
-https://ott120.dbproject.xyz/bbottprima2?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
+http://mku0414.oknirvana.club:8880/live/6mmk050023/37168895/1702.m3u8
 
 
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310":"8412f444ffbe350cf2ece051f9152e90"}
 #EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="BB.OTT | Astro Channel",105 Astro Prima 02
-https://ott120.dbproject.xyz/bvc1?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
+http://ktpremium.com:2095/AsyrafMahayd/39214329/25862
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -100,13 +101,13 @@ http://newlife3.wanicelife.com:8880/6mss290029/41737315/1706
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
 #EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="BB.OTT | Astro Channel",107 Astro Warna HD 01
-https://ott120.dbproject.xyz/bbottwarna2?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
+http://ktpremium.com:2095/AsyrafMahayd/39214329/25867
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
 #EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="BB.OTT | Astro Channel",107 Astro Warna HD 02
-https://ott120.dbproject.xyz/bvw1?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
+http://mku0414.oknirvana.club:8880/live/6mmk050023/37168895/1706.m3u8
 
 
 
@@ -114,14 +115,15 @@ https://ott120.dbproject.xyz/bvw1?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="BB.OTT | Astro Channel",108 Astro Citra 01
-https://ott120.dbproject.xyz/bbottcitra2?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
+http://ktpremium.com:2095/AsyrafMahayd/39214329/25852
 
 
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="BB.OTT | Astro Channel",108 Astro Citra 02
-https://ott120.dbproject.xyz/bbc1?uuid=1262af10-5619-4c1c-97d7-ca8a279835a6
+http://ktpremium.com:2095/AsyrafMahayd/39214329/25852
+
 
 
 #EXTINF:-1 tvg-id="122" ch-number="122" tvg-name="TVS" group-title="BB.OTT | Astro Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS Sarawak
