@@ -115,7 +115,7 @@ http://mku0414.oknirvana.club:8880/live/6mmk050023/37168895/1706.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="BB.OTT | Astro Channel",108 Astro Citra 01
-http://ktpremium.com:2095/AsyrafMahayd/39214329/25852
+http://ktpremium.com:2095/F614E/2887/25852
 
 
 #KODIPROP:inputstream.adaptive.file_type=mpd
