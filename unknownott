@@ -731,7 +731,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155729&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment", Star Movies 
+#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMoviesFHD" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",Star Movies FHD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 
@@ -2482,26 +2482,30 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/mast
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0005fad32eb7fe7f488093e851d71c5f":"6342118978914afbc5fec26e93168b64"}
-#EXTINF: -1 tvg-id="skysports main event" tvg-name="Sky Sports Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" group-title="BB.OTT | Sports Channel", Sky Sports Main Event
+#EXTINF: -1 tvg-id="skysports main event" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="BB.OTT | Sports Channel", Sky Sports Main Event
 https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0005f05c21a77f9475e05b177e70111a":"ca009f546f9348a3659d877e3f67ee19"}
-#EXTINF: -1 tvg-id="sky sports premiere league" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="BB.OTT | Sports Channel", Sky Sports Premier League
+#EXTINF: -1 tvg-id="sky sports premiere league" tvg-name="Sky Sports Premier League" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="BB.OTT | Sports Channel", Sky Sports Premier League
 https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
 
 
-#EXTINF: -1 tvg-id="sky sports football" tvg-name="Sky Sports Football" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Football.png" group-title="BB.OTT | Sports Channel", Sky Sports Football
+#EXTINF: -1 tvg-id="sky sports football" tvg-name="Sky Sports Football" tvg-logo="https://pbs.twimg.com/profile_images/1605131097284788224/CfksO7n7_400x400.jpg" group-title="BB.OTT | Sports Channel", Sky Sports Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0005598a4d0f91328444c6fcdea04acb":"ab03caec7a18da1fa6a8f306d91715a1"}
 #EXTINF:-1,Sky Sports Football HD
 https://linear019-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
 
 
+#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Football.png" group-title="BB.OTT | Sports Channel", Sky Sports Football
+https://linear019-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0005b57b9b4712e29641ac981ba8d3c2":"ca13cdd1b96bf1877d2c7ad9ee37d52e"}
-#EXTINF: -1 tvg-id="sky sports f1" tvg-name="Sky Sports F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" group-title="BB.OTT | Sports Channel", Sky Sports F1
+#EXTINF: -1 tvg-id="sky sports f1" tvg-name="Sky Sports F1" tvg-logo="https://marginfull.github.io/logo/skyf1.png" group-title="BB.OTT | Sports Channel", Sky Sports F1
 https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
