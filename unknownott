@@ -2499,8 +2499,8 @@ https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 https://linear019-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
 
 
-#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Football.png" group-title="BB.OTT | Sports Channel", Sky Sports Football
-https://linear019-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
+#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://pbs.twimg.com/profile_images/1605131097284788224/CfksO7n7_400x400.jpg" group-title="BB.OTT | Sports Channel", Sky Sports Football
+http://watchindia.net:8880/live/72695/24354/2093.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
