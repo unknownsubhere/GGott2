@@ -3633,6 +3633,7 @@ https://aqfadtv.xyz/live/radio/bestfm
 
 
 
+
 #########################################################################################################
 
 MOVIE SECTION
@@ -6124,6 +6125,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/That_Time_I_Got_Reincarn
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/The_Magicians_Elephant_2023_1080p_NF_WEB_DL_MalaySub@bymovieclub.mp4
 #EXTINF:-1 group-title="Cartoon/Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eUDTunmBCLlsGqDxVj7teijIN2w.jpg", Mechamato Movie (2023)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Mechamato.Movie.2023.1080p.WEB-DL-ms.en-PENCURiMOViE.CFD.mp4
+#EXTINF:-1 type="movie" group-title="Cartoon/Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eUDTunmBCLlsGqDxVj7teijIN2w.jpg",Mechamato Movie JP Audio(2023)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f6969948580d78774899bdc986594e10":"07ff68a646e5845f0af144b96649875d"}
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b993ed38-e1f6-5a2d-98ec-9d5aed2b8da9/default.mpd
 #EXTINF:-1 group-title="Cartoon/Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w0aUclwuzAiCuDjqwLAN9eKUYTc.jpg", Home (2015)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Home%20(2015).mp4
 #EXTINF:-1 group-title="Cartoon/Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGND34rY6WtaNOpLdwFSFLNVVMh.jpg", I Am What I Am (2021)
@@ -25391,6 +25396,7 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/Chuck/Chuck%20
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/Chuck/Chuck%202007%20Season%205%20Complete%20BluRay%20720p%20x264%20%5Bi_c%5D/Chuck%20S05E12%20Chuck%20Versus%20Sarah.mkv
 #EXTINF:-1 type="series" group-title="Netflix" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hdBp6Sya1w1DiKMKdJ6vdb0QOPS.jpg", Chuck (2007) S5 E13
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/Chuck/Chuck%202007%20Season%205%20Complete%20BluRay%20720p%20x264%20%5Bi_c%5D/Chuck%20S05E13%20Chuck%20Versus%20the%20Goodbye.mkv
+
 
 
 
