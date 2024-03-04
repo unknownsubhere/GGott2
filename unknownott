@@ -854,7 +854,7 @@ http://watchindia.net:8880/live/72695/24354/2169.m3u8
 http://watchindia.net:8880/live/72695/24354/2180.m3u8
 #EXTINF: -1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Select
 http://watchindia.net:8880/live/72695/24354/2170.m3u8
-#EXTINF: -1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="English Movies", Sky Cinema Thriller
+#EXTINF: -1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Thriller
 http://watchindia.net:8880/live/72695/24354/2178.m3u8
 
 
