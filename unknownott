@@ -483,8 +483,7 @@ http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6693/index.m3u8
 
 
 
-#EXTINF: -1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="BB.OTT | Indian Channel", Star Vijay Super
-http://watchindia.net:8880/live/72695/24354/2190.m3u8
+#EXTINF: -1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="BB.OTT | Indian Channel", Star Vijay Superhttp://watchindia.net:8880/live/72695/24354/2190.m3u8
 
 
 
@@ -829,54 +828,35 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
-
-#EXTINF: -1 tvg-id="andflixhd" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="BB.OTT | Movies & Entertainment", & Flix HD
+#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="BB.OTT | Movies & Entertainment", & Flix HD
 http://watchindia.net:8880/live/72695/24354/2088.m3u8
-
-
-
-EXTINF: -1 tvg-id="moviesnowhd" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="BB.OTT | Movies & Entertainment", Movies Now HD
+#EXTINF: -1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="BB.OTT | Movies & Entertainment", & Prive HD
+http://watchindia.net:8880/live/72695/24354/2103.m3u8
+#EXTINF: -1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="BB.OTT | Movies & Entertainment", Movies Now HD
 http://watchindia.net:8880/live/72695/24354/2102.m3u8
-
-
-#EXTINF: -1 tvg-id="skyaction" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Action
+#EXTINF: -1 tvg-id="romedynow.in" tvg-name="Romedy Now" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" group-title="BB.OTT | Movies & Entertainment", Romedy Now
+http://watchindia.net:8880/live/72695/24354/2188.m3u8
+#EXTINF: -1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Action
 http://watchindia.net:8880/live/72695/24354/2176.m3u8
-
-
-#EXTINF: -1 tvg-id="skycinemacomedy" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Comedy
+#EXTINF: -1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Comedy
 http://watchindia.net:8880/live/72695/24354/2177.m3u8
-
-
-#EXTINF: -1 tvg-id="skydrama" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Drama
+#EXTINF: -1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Drama
 http://watchindia.net:8880/live/72695/24354/2179.m3u8
-
-
-#EXTINF: -1 tvg-id="skyfamily" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Family
+#EXTINF: -1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Family
 http://watchindia.net:8880/live/72695/24354/2173.m3u8
-
-
-#EXTINF: -1 tvg-id="skygreats" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Greats
+#EXTINF: -1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Greats
 http://watchindia.net:8880/live/72695/24354/2172.m3u8
-
-
-#EXTINF: -1 tvg-id="skyhits" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Hits
+#EXTINF: -1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Hits
 http://watchindia.net:8880/live/72695/24354/2171.m3u8
-
-
-#EXTINF: -1 tvg-id="skypremiere" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Premiere
+#EXTINF: -1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Premiere
 http://watchindia.net:8880/live/72695/24354/2169.m3u8
-
-
-#EXTINF: -1 tvg-id="skyscifi horror" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Sci-Fi/Horror
+#EXTINF: -1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Sci-Fi/Horror
 http://watchindia.net:8880/live/72695/24354/2180.m3u8
-
-
-#EXTINF: -1 tvg-id="skyselect" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Select
+#EXTINF: -1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Select
 http://watchindia.net:8880/live/72695/24354/2170.m3u8
-
-
-#EXTINF: -1 tvg-id="skythriller" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Thriller
+#EXTINF: -1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="English Movies", Sky Cinema Thriller
 http://watchindia.net:8880/live/72695/24354/2178.m3u8
+
 
 #EXTINF: -1 tvg-id="sonypixhd" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="BB.OTT | Movies & Entertainment", Sony Pix FHD
 http://watchindia.net:8880/live/72695/24354/2101.m3u8
@@ -2514,7 +2494,7 @@ https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0005f05c21a77f9475e05b177e70111a":"ca009f546f9348a3659d877e3f67ee19"}
-#EXTINF: -1 tvg-id="sky sports premiere league" tvg-name="Sky Sports Premier League" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.svg?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="BB.OTT | Sports Channel", Sky Sports Premier League
+#EXTINF: -1 tvg-id="sky sports premiere league" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="BB.OTT | Sports Channel", Sky Sports Premier League
 https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
 
 
