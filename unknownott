@@ -830,32 +830,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mp
 
 #EXTINF: -1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="BB.OTT | Movies & Entertainment", & Flix HD
 http://watchindia.net:8880/live/72695/24354/2088.m3u8
+
+
 #EXTINF: -1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="BB.OTT | Movies & Entertainment", & Prive HD
 http://watchindia.net:8880/live/72695/24354/2103.m3u8
+
 #EXTINF: -1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="BB.OTT | Movies & Entertainment", Movies Now HD
 http://watchindia.net:8880/live/72695/24354/2102.m3u8
+
 #EXTINF: -1 tvg-id="romedynow.in" tvg-name="Romedy Now" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" group-title="BB.OTT | Movies & Entertainment", Romedy Now
 http://watchindia.net:8880/live/72695/24354/2188.m3u8
-#EXTINF: -1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Action
-http://watchindia.net:8880/live/72695/24354/2176.m3u8
-#EXTINF: -1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Comedy
-http://watchindia.net:8880/live/72695/24354/2177.m3u8
-#EXTINF: -1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Drama
-http://watchindia.net:8880/live/72695/24354/2179.m3u8
-#EXTINF: -1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Family
-http://watchindia.net:8880/live/72695/24354/2173.m3u8
-#EXTINF: -1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Greats
-http://watchindia.net:8880/live/72695/24354/2172.m3u8
-#EXTINF: -1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Hits
-http://watchindia.net:8880/live/72695/24354/2171.m3u8
-#EXTINF: -1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Premiere
-http://watchindia.net:8880/live/72695/24354/2169.m3u8
-#EXTINF: -1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Sci-Fi/Horror
-http://watchindia.net:8880/live/72695/24354/2180.m3u8
-#EXTINF: -1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Select
-http://watchindia.net:8880/live/72695/24354/2170.m3u8
-#EXTINF: -1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="BB.OTT | Movies & Entertainment", Sky Cinema Thriller
-http://watchindia.net:8880/live/72695/24354/2178.m3u8
 
 
 #EXTINF: -1 tvg-id="sonypixhd" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="BB.OTT | Movies & Entertainment", Sony Pix FHD
@@ -3010,8 +2994,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 
-
-
+#################SKY CINEMA##################******
+#EXTINF:-1 tvg-id="SKY CINEMA" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/bltc98e68ce0fdb9494/603d748df9273750f1ac95bc/Cinema_ModalChannelLogo.png" group-title="SKY CINEMA" group-logo=" 
+http://watchindia.net:8880/live/72695/24354/2176.m3u8
+#EXTINF: -1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="SKY CINEMA", Sky Cinema Action
+http://watchindia.net:8880/live/72695/24354/2176.m3u8
+#EXTINF: -1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="SKY CINEMA", Sky Cinema Comedy
+http://watchindia.net:8880/live/72695/24354/2177.m3u8
+#EXTINF: -1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="SKY CINEMA", Sky Cinema Drama
+http://watchindia.net:8880/live/72695/24354/2179.m3u8
+#EXTINF: -1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="SKY CINEMA", Sky Cinema Family
+http://watchindia.net:8880/live/72695/24354/2173.m3u8
+#EXTINF: -1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="SKY CINEMA", Sky Cinema Greats
+http://watchindia.net:8880/live/72695/24354/2172.m3u8
+#EXTINF: -1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="SKY CINEMA", Sky Cinema Hits
+http://watchindia.net:8880/live/72695/24354/2171.m3u8
+#EXTINF: -1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="SKY CINEMA", Sky Cinema Premiere
+http://watchindia.net:8880/live/72695/24354/2169.m3u8
+#EXTINF: -1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="SKY CINEMA", Sky Cinema Sci-Fi/Horror
+http://watchindia.net:8880/live/72695/24354/2180.m3u8
+#EXTINF: -1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="SKY CINEMA", Sky Cinema Select
+http://watchindia.net:8880/live/72695/24354/2170.m3u8
+#EXTINF: -1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="SKY CINEMA", Sky Cinema Thriller
+http://watchindia.net:8880/live/72695/24354/2178.m3u8
 
 
 
