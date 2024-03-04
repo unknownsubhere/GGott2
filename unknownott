@@ -730,6 +730,14 @@ http://startv365.com:80//live/D85A79B4/55A7743D/378760.ts
 #EXTINF:-1 tvg-id="StarMoviesSelectsFHD" tvg-logo="https://bit.ly/3IfGD1F" tvg-name="StarMoviesSelects" group-title="BB.OTT | Movies & Entertainment",Star Movies Selects FHD
 #http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment", Star Movies 
+#http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3IfGD1F" group-title="BB.OTT | Movies & Entertainment", Star Movies Selects
+#http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -2997,6 +3005,7 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 
 #################################################################English Movies##################################################################################################
 
+#EXTINF:-1 group-title="English Movies" group-logo="https://raw.githubusercontent.com/akuhaa021/gambar/main/Movies%20n%20Ent.png"
 
 
 #EXTINF: -1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="English Movies", Sky Cinema Action
