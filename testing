@@ -7,6 +7,11 @@ https://tv.sxtr.me/B6UVdZro_XxFggZD2w8ryatvAvFhttmH6qQ6EQlsRT3z2ZwnbbGFFmP4HSVRy
 https://tv.sxtr.me/B6UVdZro_XxFggZD2w8rycnFtUgBz77Fy4L_YmNxIduOdCOJ0wpiy-kxqeB8DvwXMbp8-_ManSVLgFfd4fWMCVm9U2efPix9ax9bNx_COXhjqDnk_UNVY3lom_GZryZk51ttZKSY_fZgiINvOflukmEVmqj7qBuFzVN61IqFUCy55dG4GXGE6ibew1qMp6-72WMi_UeIMXmDhfO41dX6fd8iw1NdNlORrxcHaHoB5b8C6ZSS36qgeU-wSG1G9L0qtlgqcW6bH1-9C5Gm9x_r206OO09hUPvi0q754EylH6hGOvDYn5Eo9bIu6AUpgXAmhY4PnwDImDiH9PLdgiM0Fw/hehe.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.sxtr.me/license/wKnHo4aMe9pq_xGdRut9l89cKr0vtWtViEnpJEetNjK-uW6dl9SNUZirstr6ZqIR5ul0XTZhPKZaDVWSsDZGjH9C0yPo1LVQlAXIh3YfONjqTN-y5b0--TeWreCOFHx2UBjsVNtD
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" ch-number="104",104 RIA
+https://tv.sxtr.me/ZyVOwVkjaLZMLY_7bnRxxMaxDilwAC4O4oX-zDz0nP5YzhLDmLgMgMd__TrdsiA6otBX88l278PsweJ0dz2B3yuBFmI82srnM5ZAKP2_mJzLYw7z05J9pcZDuk1aeJQ/channel.mpd
+
 
 #EXTINF:0 tvg-id="Star Movies" tvg-name="" tvg-logo="https://i.postimg.cc/G27bvKyt/download-5.png" group-title="Movies Campuran",Star Movies (A)
 taruk-link-sendiri.com/d30f6691-13a0-53f4-b911-76bb8a0c8eb8/default_primary.mpd
