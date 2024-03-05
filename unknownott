@@ -728,15 +728,7 @@ http://startv365.com:80//live/D85A79B4/55A7743D/378760.ts
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesSelectsFHD" tvg-logo="https://bit.ly/3IfGD1F" tvg-name="StarMoviesSelects" group-title="BB.OTT | Movies & Entertainment",Star Movies Selects FHD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155729&extension=ts
-
-
-#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMoviesFHD" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",Star Movies FHD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3IfGD1F" group-title="BB.OTT | Movies & Entertainment", Star Movies Selects
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155729&extension=ts
+http://king4k.tv:80/b9d4aaebf7/29f40f6629/441215
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
