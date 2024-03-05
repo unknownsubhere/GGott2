@@ -845,7 +845,7 @@ http://watchindia.net:8880/live/72695/24354/2188.m3u8
 
 
 #EXTINF: -1 tvg-id="sonypixhd" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="BB.OTT | Movies & Entertainment", Sony Pix FHD
-http://watchindia.net:8880/live/72695/24354/2101.m3u8
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 
 
