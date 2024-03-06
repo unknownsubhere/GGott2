@@ -1,13 +1,770 @@
+#EXTM3U: url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml" billed-msg="Playlist Percuma Jangan Kena Scam | 5/4 | f | Exp: 6 Hari" refresh="301"
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="99.astro" tvg-name="ANDA BAYAR - KENA SCAM !" ch-number="99",ANDA BAYAR - KENA SCAM !
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViAwmBTCATPeRza-3nMhceDcjC3J4oXJcm6hpG5ObJ45mHKkYksT-lJRBejFKXjB--sW3-09Po9LcYUpfZq25exdJXLJTMmxjZH872Z50fquvxAri-Q6XvexPpym6s-TaHov16hCC4JOQkZajJ37oQmPncnK040k0sWT_iebIgpWRH0VpJuxotdaf5t5MaBwYm_H3Yy9qxSEDzitpGywVP475EDe5tOHeu2a1eGer10_iccQOwbogX2VBw3Zl-DDpV5IXYSoXEQN6p0F63qSwJMVlaGq5Bea6JodK9XGYISeY_B6ua7sUyjMCQUSh8GMV7rXFSKNWOl8Tov87buytK-SgMZKIOzUegzFVn5Q0pbvS/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="100.astro" tvg-name="LONG LONG Fun" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LongLongFunV1.png" ch-number="100",100 LONG LONG Fun
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPYB8VJP4jkNRDVuFYD2-xY8KLFBmqR0sYC3b7HJ7BCkJOc4fFNUAZBla1C0Z8gb0Du-KpAobGj9Exzwy39Jb_09YaGvD8gV861AehzOLANrivDNpnGyYCUD-i_CNeUit3KOc9tZ6MvXt_oqes9Y4NSgIeXGRTQGGq6F0D8jzzvidSCQrEAvfsNS_aEdV9EMHDIYbRhZ1qMtSldYKU4EO3glVxeLEbSirr9oUhbS81m3ik5GvKJ-s8XEQS2NZyiJGTfRHlX1ny8Fn08rtiTn_ljSAgpuANC0tCI1HbV48yXPOgS3eKncEWx_YkfDAj3MVGvkL2FsEPMWAlZjsVq7oak/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="101.astro" tvg-name="TV1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" ch-number="101",101 TV1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViK27KJVU2nap8ySgGlrxB2fXwT863I4y9K9EdeC_QM375iwONMldBUV9C-PHlPCo3CIfqbGWccmgFMKxJcpdaRPe8sjQ1hMlkokRnEMbKtH3J7_HxKKW5-oTWnxEXo9W59BoYjN8cS_zQvDSgWJVIMpAKB0Y1XjbX4jd3fuEJ2eZgbdcJFDAuzdTexgAhi8iypEpWaaThWzVVvr4jTsFM-TwXAWzRUcqFGPBW4MQibGko6IMQrIBHuU6JJoVpDiis3rMgk4DZc6YC_fb_P2XOhnX9xP-4TRk13Ad1SENgfhuMy2fTvRRyS6ta7q7-mJijnKiPsnjJJ39u7Yw_YtS3Fk/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="102.astro" tvg-name="TV2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" ch-number="102",102 TV2
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViAvH0DbfbPEhzwvCw4zeJLWB8vU25gt4mowv34EoR52ds2yrIWnhTBOzK8WPYJfW3l1P4AWJUboYzAuhEfX--zujRATBwoc7J7AC4JSHn8XqmXpSjXAGEC8rxEOgD7D8OuBlvUsQMK-_67uUcWLXFnfqIXDmy5Bt9QTja91zVqIS-N-SOCxg0jVargDodmpZCSYxYxf1PwwBao5umQ6xSn7nnJLy-YlYey5JBFuwXmfQ2otjj2uolbzacKNnzoWTXyH9A_lZvgH89nKKuhzy-doxyxyIr82Tp4az8CKITWGC_pXaIQ7nan2vb5h3WRnoBmXs7weCbThPKJC7GeikD8Y/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" ch-number="103",103 TV3
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViO8kTW9Y91M1NmdXiVPv3BEyh-PaYGMDqCeK8IvFRf695utEjUd78_6Oik0jWhg35eej6eXxf8HkPMBj1xkuuvJWKz4_RkJ2hemOWuo611T2mQpSfEP3jZL0uXYFfBDCUMVrETbTMfutuDqJMgEgMcOaNP8Ot09UYwM_N_wq5XNQzMw7QI7Y-dg1hy28QRhvdlMNtjfEZkAt8jGRCMj2vOQ7XVMu9LbtY-Ii3aafojazE9iGTxn6qGPcQdWP7QcXwMnT5SCwlZVoeVTH-cAad0299-RMsrhu3uutLkU0MJMjlEgG6jWs77GffC5F6UrucA/hehe.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="104.astro" tvg-name="RIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" ch-number="104",104 RIA
 https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViOduKwX1_ovHa3AsB_LsP8LTVXodGmlnWPdQT9pz3Av5g3_Sie8DMSNSnub_P652x78VOnWzwq7-6-clqd8en-iJg3GEerhHOlb8sP2EA8DxfPZdTwby5In3_qJ7Yqz2qaQV-KX3bWRM1cM-LC9Ews7A72d2wbnDVi72TTLrwDFRWLT02nFPD_OJdkCkDxO8eeGJI_8N83sw_SNKil3kwbKfzWY02oMh2ly-K42buKAH0SAC9iOWZ0bt66oAF3ACadp-VW0PCap-SkkYuDwTz29pLx6PeLhxvDM9fALEtTgSYfrCTrz5VQ9LGMHNvwZljlJk7Zr6rA3mCpCff6x6VqfxwOMP-mgTbOZ15kDN5JeLarBGy3P7YiFA21ZxHYpFLTrmnruh4wcqNr2PME3T-TntQ70jbsPkead_cL2yPGDGQyjcmBisYskhONaQZwO8hITJ7DyuUi8xc6zIYTaWdfXQWZ_W8-iBMiJg28b73_FFUstWus-ixFrgX1T77Tbj2cjQ-uYt750zcO7fTGT5_6l0GWhE7beFa90SGbyHBJaYZcKFK4K6Y8yxKr51ltN29FI-z0hNkoSdRvtLr1EzMReMutnbJg3AB-ndV012cfODrDhPv_cIUxsx4A8q-nBPGgrntl9LESl8f5GmrGfRNCCb9qdVqzIDv5blv0Trwo9fR5DTlC0fhqEkdUgWwGmyFWVsIl3JrhqWXXGPzs5L485L2AX-L3f0grMZYGaoMt1yRBGxv2SuOgmyj5UON2gHQRTcAyYuHd3U4LeRPXlOI0ySfdWSL3SOsiCFMOA0Rcm9jVROhLUEvf9kZsKVLUwrJ7xaeNrYLcHEMXACj_UQZhfEWO2tJ2rfMqRPv4dn9cp6/hehe.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA " tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" ch-number="105",105 PRIMA 
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKxPqfo10yNWxw-z6RPa2WOjNj9RX1Mic7qfF6K1gLm6Ts4PHozAG5p6mCmgru_0mFejyGXpA4QO7XWlVrgmEPE7C0atzKfn2DWF1uBwzcwY0GAMxJfKZucXOlihdJSzI5eX9LKSOAbxPyfhxYKrfboGFfbMwAv5pdlvgccub97MoJq0Ct-D3uZDJb-Mz22joFKBRp8PrthugYRAdUmHX8eUHRepf1ofh6J8g-8rZnXjlPoZQ7NTVSQKcLkBiKIG4-erm6PQaqM-Kl7PMUuyIW91abvU9pbUX60jWsFps6vfZMArPzRn-OIKgCB62-ivhP2hjtWNm0KNKQ-nvzl2-pilacldAFoo2N2UJvMhBu_LNmuWRCHTu_-pRtchR9hLxairWC0N1gnCH2fhj-uf4KbK7iuNFRJ50_mXPx-UOZhm6Hk3Hubs0isS6SbRYMPnDiVQkLKnylo5Edp2-pVK13QpEuSvUeP9wDpLfFTeOkSGQcJrVoIn9t0AnuU6RTaz1pDlmGE8kA8gK_DSkVIi2Z1ZwR8rky2VxHMP8Rrj5rXpc0EBu2R6FRJhVXe_vQ7cxtEyMx5CXYEZpYxQwH0_v3cttNQdPdlNeSMNVWKersCjNjjfKzZKmtEE9GUSQpHvUeSvQFfX6t-GCz8UoxNft96s75vNm4ppME-VlBZkO__deCk4rAJvLSc1G6ebAowg328rb95vp02CNOfnWqlE3d2RWnOEMaFq28TEwNe_OlVyzA_tkXBd_s4kOpuYH9OmQJmIFTgIRZtuy6v6jPhD1bV20xIJ2ssOTBRplFD_lIMTLW8mYNot4W7bo_pdr3k20IcUx2niX1M9vxMnynY4hsMe8M3Zmefmm4v8f87MoxqM/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="106.astro" tvg-name="OASIS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" ch-number="106",106 OASIS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKe24JuPZWb0-lsDEZE9a-Pm1e1P-Fjk2VaKUiZiZOgSQNnGL3fYHX5E7swJEHn4l54FHTMLQRt3p4aeQi0gszLlJUf_s3QuybER286BdfbdP02eJUjcxNdeBUsrChhjzZoi8KK33MD-mIwZvpgRJGFqGH6IGsEP-Xzir86tx3FVWfFACa1PtgPwofMy2r0RjLkC5ymcIdBwrTcJ9EHaCFPsfgae4IRuMPVeEx-n9H3mEkGQJ-BAlu5l7qyOk1zixJxY_aU4dDto6pEYOMwKZJVxCOw4mvocIbyrkdl1G2j8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="107.astro" tvg-name="WARNA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" ch-number="107",107 WARNA
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKnMC9fiGEegq-oGdoLoSL7qG9PraeSC25_8dTXE91HlX-XNyB_bsH3t8eZXP8phch_FA4xW0j4lFRviTjT8Syi0GS_If_unnKhvTl1M9XHjR-52EK6jOLw2XDI3V8EyPIxIfY5tO-WmJzCRjWwlXVPWyTKeOuIMiHNN7DaLRy8Sa9iy62cDjfiITd22WxuGPC4_158uH6xjtEI3uVQNQyw9V3HVF4p3TgcUJQURBDxw5ncZ5hcSVqpVSUEKx56oqMSAjqWKzORPnEMzXlm1KoPxijmUaREmuP-v_hSYOxvZgRLlJChb1ygJGXjsyKbUjGVWayuyA_gOm663cI4mu1vvYk9anLPwUdpI--Yn3JHy1qgfF-ZDEG5e72hCM6C7feeOH311NaLK-wRllyXy7QGp-fmoy-PjW9EfXd0of2lYlHjAv-jMSkf0kKmTHn1zE-Rxopcylu3CGR8vN1XUq1LQuh2XQtO0Er1NeWBFFvwTxzzhF-AtX0-gfvBULf1nDZNtFHWxE2mtESubc0Pwnf9q0IFpqqzYhibmt7ZFOnJayRX_OjR4ZtTdALdocqdyLrwi--9V-DZx7jMZU6WGD-RWIPqOZmm2DvBr93Vmo9QoED0028gaqVtwbfEjZVUbkWstvyMeUNCQxXko0RuAJ8nUFwidnloOog8Sa6De8oVDmNdks9cwLVmf2r0SL9z7uNwcQH-6iam6u54Db0HTO_E_fuil20dovsPhvQvwsmvY-hp7vb6p_bPxEm8S_FG-rwyali9vIsvZMXwwoeBoWDZkwrybMLVlKrO6H6O4im-lfSULyHPorb87BCivzGQAqxEw-wXSp9QLmEMOnH-TM9Mh92QQrgVXnhk8eyfktNMx/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" ch-number="108",108 CITRA
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViMjQwjv_HVobx8UEyyiBCheT6-OnM9AzThJ0uzynTBUTiji8NWBEd68IXzk6k6j6uWv_QJgBaLDhW_y1ddR3xlNF_fjksPV-z_FVKwBmrXbK3WVtattiS7Z4jQQi0D7XZ0QS4iwez5My2p-Q2JDiF75dtOJEJQiMO6EfX0gLqPjp_GC6OLwAZdHPSILjIR25rEODI_4PdktKhO8VOLdR2SaY3HI7qlI68WW5hFjnpGco0sB2THTlv5LIk514t1cTowNI_D_gN-pzt7Sm2WgwoVzxbXGJE9BKB_KJktWr2onvQZdoJX8wHLIuCr7TNy69xCoTXrG2Mpnn21-sxrFPYFeRrFK17XbNyKsRaQqWpdTeu3gcwumhKq6UTKGEuqO-qgW_3HhWEimi9722Xm-g-36Eg0IH7ZVIi536ulh5QR5uD4X_9c2FoRGF87N-79VYzt32vXsEcL6dQAEAXHxfijf-9E5kqtTEQh6gw1RAPnxkU9ShNiSLPZOP-RHw7KmTi0lJdhriHkkvnU8zWkdyovUgV3PyB6TSpIJ-2wYbdARmLxhZ8beX0IwnR05CFPOIdEMLpe2v6x_GnJh8N1Z2Lg5ZjfVQPgEKV2ulZW1l9CRqXCcnl5YKKxZbS-vhn-gmKUBZp8ezO6qZAKbrbKoAJXfSaihRDU9SHe97r9gT1DGImqqgasYeaNF3ji_C26SREVrcBsYyrvDEqNrySJzC_HTR2cF327pOQpDI8P5lX6mTquMR2zwQFRs3n--fKiEDtWHw_Z3kBqfNRbVOOeda3IXCtsrZYF0rt6YSyHo-txUQXdEGVmInG1cyLeWw9RfyjXqF1-U9Y3P93WvOYYgPMNq0kPjoRbn3hbndZwwjWio7/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="112.astro" tvg-name="RANIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" ch-number="112",112 RANIA HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViAffckDWlBAUKuuWptgjq3ZuTZ5Nd6mytHceJzg_x25ME4VjHPFuYLAo-6zQ3sxTGQ-9ONigi_NIEHwOYC0KeyMbyvZ79QKZn0gfC1aEYJn--2vOaN9c53TH4GO2m2so_3KAz2ra9lE3vaQN0Y7Skgw9uKdOgUAMyiq52oBkPDw3S_X65dZwF70a9vOmiloYH_DluG3fWQYjAhcyX7Bl_SQpSmkwyFnseCvMJ-QdCLG3TRJ-Z-t0K9JpSmMaPLQ_P_t6zDVUOfHXptxS_eYvn6bHa7gq54yGhl7eHRqYIdu8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="113.astro" tvg-name="AURA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" ch-number="113",113 AURA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJRClMkaLhvBtMLaXc-yghmg1EzGHgr-BIIoRmwlDz_8ZVI3hKpXt4Hu5361mGc7L-ux7O18DKcH6izBkmJKZeLyKNa7eCR-C7HamXJD8h5QWQocy0nNksgr58J6fAWv8Ebmk_0lXpL1xkT0quVRwPHXWa6GI2B2vf99_VMuEbhydRfw5fd5NxkSV0z4dDo-Hyt8VttrKygSezKB7A4RkUuwgj1UUz6kFzN1u0d6oZj8clDhIb8eRWYxCPC_9j5nPipWN4dXiUZETokALPNP0rGL7pTqc_aFcvewIZJkuqLSEKMRupJmY27XvmfHKxZoEeEjduSsP8ICWKtOb_9FnewMK6fyzWwqqQj9o5HJo73Dmre_C988F6eKRF4xB_4ElL2LqogIZbu_VDrExA2ChtrpQKYLS5OIzbtJ349G_cY9Ar51r6h9X6COYc7fkswwXtVsQePm2JtIx9sh7fsI6ui6MrdiHd7XOZbI-IDczOh1x_t-kNheFecd9T014pibgNztPpnF8X7tgxQNFAdaMOK1hREu6nHVkHfsEiSf8WZ53GcFvIjoATTuOIkNyTiSLtGZHLjlIdENdTjgCCk5z3uYwnzwRNVKogElTOgN1aCwvNk2yT6jI34l3MoawzI1IrSigdICRHEKXQ62aNeN5RFrv60xx5vi1Wl2K0QX0SwfKCNC2UvjkPit_NUOAv50szRYhmuNAoqfkz3dmGF9sNu7CGB_4_fBsEphhztVC00eLaWWuXYvDkc9Ii3xU4acaQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="114.astro" tvg-name="TV ALHIJRAH" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" ch-number="114",114 TV ALHIJRAH
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViA6WmUcawTexa_tr7ZmkTHhU_smGj1KJE3ySJZHUoJ4Zj3tri10Oj2CW8412A7zQvdv74ZgzGuUzAwP_8X5DatT5KUGqZQ8gODbg-jn6LBMJOZoXQkPQqstD0UmdgUYvSbEL_NqyLmDBbPlcJ7YLUyMLvKxt5JA-Hd_zvlxAdsFCMM5O1vBpGuXa_RD1hcqXz34NmaSfc_tpYR0nXj1Z09Sv2nugtd0HtldeRuXL-slAdEGVmMmXaTb4IjLm2ZN9cvKkX4Uh-k2QzmN13hismJzrhrHrCKQ4EZV7GRvH_2pYsHpJvyc3vvbM0DCo5s-ANKZk02KW15zQtRugdhbRv5U/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="116.astro" tvg-name="COLORS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" ch-number="116",116 COLORS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFYks5PDizt5CPubKERSi5dQQRwPl2xpv6_GrMsLnsCl8x90qlxug5TFqZAOtuN2dfujAUi3Bcrz-sAAWyhAaSPMUzWS1vCqptlVyFKzBkOe0TytX-T_D1FIZQFP4wwlL-wccPdrvsDjHpcTPp7IVFFnBa3Me302KA43nMNztz5N_DzB7F5ZHWbAaeMBdku8FBZgiFBmkQqge2I1_92WaNwiBM19mZkxAnwk28CrTFBmBGvn48K9qVd-W7LQcDg2mszozE9_aTz4X7XgswgJQ1XYihQFzZ2rNTTuPeSqtq0CJtuKqPDjvchzwM8Z7D23vUsZsCbp-G7KcXPVLT9nH_A/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="122.astro" tvg-name="TVS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" ch-number="122",122 TVS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFQHuS5rgqVLKPytdbWSJQPChLcKa8-nWtBkpXW7jPqE56TB_wMzLjJA5bfLof7dIErLDYju3hodoHe3HH66_ggB8rx1yroHQPVDBrBjVzQYec0joA59LcNlv-UVtmiyVnaFxLzpqVrPA6WwTwC3ibQ12rUUHxUi2EgeJYwuz7sOAminzvlmyjy2nRavdHegEeXWk_aeP0kS5tDe8cFj2dD-8IjIiMsegPqqXr0hmUQF0wp1T_G_DZse9w3CXFEfwuHvFfHH4ydz5kHxmFiYr_QQsXCmDjm6R_YcFHbnDsIfWJ9wAU1vQCyJqeRkJWnvzLFMs1zeTLEMf9YTRF6osnA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="123.astro" tvg-name="Awesome TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AwesomeTV2.png" ch-number="123",123 Awesome TV
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViGW65Mfe_Y_itIQWchfhPMj_NB-deRY6_EBTwNPouObrJjd3RWKf3F98xzThXbtokrWSDt5U1YHd3yBPzgdG6LAwXmZ8OHvtR_3-vruM1GlVjlOAIBN4pKSwEvaG7kTCq2idT-_QxiBs9eW_ntfcrLqHNQpgAgHZpTJi0hnVB2KEY5vwIRLXU656n3V62PBBZIFNqNogbirWYZuuuFRKRSMcewHdL0OWr5_Qivzsp10xtLyXjwhTnLjyTxApz-qTZHRn7Y8cQgaqjLYndTAIor2QO4KjdjvioNJZizD23tI0hjlf4AHZbgI9Z_7Cl5o2QGtQ76htCiLEveQ0rK_UbsM/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="124.astro" tvg-name="TVB Magic" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVB_Magic.png" ch-number="124",124 TVB Magic
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViAm8oHBxajY1McNEGnEySVywUhw3S_oaYog2X3b1Ri-Xx41hVT_aWK4ktzyikjuMUF-_oGd4UO4JCgRxccijESb6t98tBruhuSygXeF17l8xhj2yZU9nERROIVkNY33H9aP8Tdf0ci660M3hHrg2p9zIpFCTNjHyqlYHE4wWxmFVi9L_um-zq3ImfOQoRlsWT9iLTKpnZcaUJQTMmig4qQO5oa_G-uAwK0UyXPkvZaj60LwdwKxMdGoCsjfc7aTmiS1R9prQTeVLLwEsk9nMQTBwlpOzl85WJyW1DCwLOKgjwpRJpCSoLoLqOJoi7f1vPa_NLk8kvaqPqC9RIzbbcKU/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="146.astro" tvg-name="TV OKEY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Okey_v1.png" ch-number="146",146 TV OKEY
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViNFhcpaY1MBdggUQTq0eGTBurf3ZJy4QBn1wz8nuwpqmGvvAW1zGE9OFMe_kTWzjBUCq9MLORHcRp_qpT6BDKW6_fJCkzX7ex8n6s8Ks5VPV4kUHNO6mSpVRSk8R1-9udeaLQrKaWohOrIcIwwBiRA0J6etJiq7Yvr0VM0NyocULAf_ckGAvv-e0rSXpp4tABmYWWo_xu64alhN3c4i03dWzdvVM93vqT7gjdoPAgm3OJ63PJlSMhIkl0PgYovSB5kZQFu5yOqH8MgvqNWYfyOvaF8La3Q4NDC7rcvInPIFpOhPiAx_ZrAllN4xvLoBfOb-NK6-c1-n0GuWxXepY4f0/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="147.astro" tvg-name="NTV7" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NTV7_v1.png" ch-number="147",147 NTV7
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDZYFbcSeLF0TKCL6KvwfkwbaUZRHLp_Fj_BxtBO4ygqNn73IO3vR2548qUCdAMuHgfeqAjINQBeIu1IlcfiEdtrQV_vRfNk0bOYzy1quQoKTaSrwSfI3WGeA3x4CH3ztTxTH-DPgQdTr4xNuuw7OxOYjkFKhC4JRqy1yPZSWAudU3C0IQw0ODWkJsIK70szhHceohMoWR6LeHyYcsQhT-yS_jgF6L3po_zcbNcXYEP_QbFI_WfcyIjiDmK_nVGGoLgm8WQ8F4TP6DQ4BrD7Up0yfaaThoPM5SVt7yWdpEkZWLaFLGpkFbaNSknEjFH9Saff8oJMrGXOAb_CJ8mPs-Q/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" ch-number="149",149 TV9
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFDcvYb9kMR6GNTQ-lCkOky0ziCAE18C6aqBrvMz4rPQbt5-2kNWiY1aLv7r51MNlLkpwkuN8fXYUy08CKYVAHLK6YPXqPaSym2GYkE73SgCIxXGl8mWzL75p_etT1m59nIhK0eneNC8skbS78y1JZtuzANCM63lYX7nNpe0eebrbLBhTR5yVyrdcexzZGrJKj7KNTldOozWU5xlQb5JNwscDQB9fOXVhLa0AvJhY78a2dcszkQ-xaxELBofopVFej_JGofyyputh8yAZVRb5Ye_cAheTDgs1OddsuJ6Fz5Y4AOqxDITCqK7EIsW4dJidQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="201.astro" tvg-name="VAANAVIL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" ch-number="201",201 VAANAVIL
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViEUvzmX9dP7PvT-xqW-d_X5ottvVNCKjSun-EGcOu9m9WzjxnLKdhsMxO75VIpaSTJSLQBNe1jIWEjH-QG-N7l5G6fPkSffHv9KTL-yeAyVsyC1Lc-aHAJBmndQYIYZC2hGcfXE1GgJclMCuNOfrm3zSbP85MZkIzOHNbIzOG0AsdvKUDQFAto_xQqpLrBGJMV4wo3tA24q6rK6D5vdodKvjgaP6ZjDAz4XgXu6Rv998aIK2oexD6JIkxiBwhdEL0tX6f6XuZFIqWScaFufGAgofjaz9sDPLyC7McUZTd6aRNshfKRDn0hA4lc2LGeWko2LeS7L_8lFBG5tXDAAa1aMw7c3l5fAh_cojXZFlzKmOV38fZmpYtKblawjFxdjGu-e7dLyKRYi36UTWFT687d2HQ3z_0YoC2HlfboChXG_tiEQbPFqlWXHhtpCmni18BdVIoa9VcRXzulFbaqD30USbdwqv7L_Aac_djh3oMD7XEx5SgBZi1-NoJVmLNoBLi1K2C5UhpumHsbZunXpo_P5yl7wlvkNEDC2lZx-s1jWYtUM20Vh1i-xWDH-513Yi7wIYzEDxshN72g7Qqb7lHibtq3cIAdhkkb76bLhy9zoOWbtj3rDkFRyDiyRinVo__oM49CUtk5nJ8RqfYPBDMR-6uR95xDxOX5lt7Jm7hcYo9y3raAMwm-0kXqSa4XX7jIq1TZwUIqg5clSFYLON5Yz2f85V1CVXn111t7cmkV2aWvN-gs8co_CRAUCE8OOIuA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="202.astro" tvg-name="VINMEEN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Vinmeen2024.png" ch-number="202",202 VINMEEN
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJMCrb-iyKcQtN4A-L-CUOGNDNz0jdskebLh39WSTP0u3-bh_Va3Z5i94rndqajDQiZumrvUAzsP-SgFIU_fUcXvcXVeoH9JRbD4CxyS6T1fJk0OAlFe9KF0vkdbNYnyHRKsu2zyQpg6UGx-B1l2OA5IdTH7byRN2ZQ2v9Fa7P0cfRKWb0GCM84NrzmNjZITK8BKBIEkG76YSbfzhZbFFMzGFFSCkujTmnQj-swpUMyyKUnKRJKbsLHdgB1pV0qgtU_oXFUvcHTHYmt1bOiJiRnMsbTdVD8k1QE529u8IF0l5wCrGrChFgLBoJDiWTgecKgqWKWYRGMvvSHkGKUut9QsGCZxF-q7CuMSeMV0HpJbQe9hFbX14VPLnyw1f6puP9Isbmf7zoCaQik_zEZ641o09lLgemPAD8LhCb2Rtqyl1G3wxTSW2lFfXh18D739sxk0KKSOFOERl98S3-dvcGCBdv1D-7d94VRubYXM12zNg2Pr0-aWVvy-eVGLIklhSdRSIYrkpIM5A1c0jd8aNX4U0Dd0XtgxhJ7cSHAMJWByHhgv1b2ukizcWR-M9W-i08vm1ljKVLmjK3GLNcRVfq7x6OxNrWDsPOmYhA6SK_pHwtZBfTK56Y9CEvaF4NS6VatAhV_yQ-iPTk5-DE3WP603CYUbmVk_tJmurmZQM1NvfMv9fJd77zoQTI1wFdqPvJKEZQnrs166yHTRs34EtaJWZonAwcatVfto24JSo78OKxoCLhxA89NojpLU_V6rLmWdpFbPfStLkql5BJqqxtfOfYan9HT7lpRRXVRDV0QXxwVp3l3DGBf3QRf7_gqHn-d4yW_C6M1v2BWh3Fbksva2n08jWkY5S2OVaLYE-cbY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="203.astro" tvg-name="Vellithirai " tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png" ch-number="203",203 Vellithirai
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViEcCdwPlwiyZazL1VEihjeXWu6zUYObtbhah_tQldTq_Tz2P0AxBWOQqAQMhws7nuqU0naracM6ra9ostZOBGEQgqqTGrnf-VfVNrwuWLpEzZMQTznlc6l6UCBU8hjILzjTOyKYeu-juP8i25Xv33eQ4MBMc2w4RSVtDI8-sDWG7zCiTIR6a6hUTCVeTWHSL8sHmhVScLjC-ru0Wg0u8y0u0SxfiImw-l4e0zU-ArLjospeHOaI4TqyZuhxSz9i-oVZKQWPx6GloaFIb-9DaH9NHZKXnOe-uR_ir1KTMJPrY8Oyty-XlgBsQnz8fTuTxaY9IpHVcFlEtEhsEksKymmQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="211.astro" tvg-name="SUN TV HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png" ch-number="211",211 SUN TV HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViClYbvEsy-FpPXgleQ1Meihnk-3meDrudl99to3I6yZHrXRFrKWu0zLWGoF4XhOs_uM_Ai_3jB5iL07RbIGa-DTEkutOD6GR9EnhBDOylU4S5hsyOn257oc4ZQOnu0GQUCT-BZubMdmZuoSMnLIBgvFl_9KW1mjdq3DhXIiyWz_rtPiiOqWWUXG9sWVJrcq4dQCJnWR9DbvvHTYy0FhNGv6bwT6DaQGE0yueIMlhXZf9QIvFzrlvoxKbdeqENTVtvL2p_lVKvQ6vIuEuKydl9CExv5B-unko1YiqxFVUjd0J1b9JzMBvTvkkGDYZjn-HkD2AVRrEffN--qawPp9rK5c/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="212.astro" tvg-name="SUN MUSIC HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sun_Music_v1.png" ch-number="212",212 SUN MUSIC HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViB-Q8alaPnSPVZ9AGIOwcvEbW_UAnpdAKvo88ywbwHuZ3jrF6vjReZNJRDnDo_b0yKjRla6px6q5b8YlXju-9Y1_rBjzZJ616SwKFyZBbK63RcmwxJajnE1bgLCPxwCBr1qe-nID6wXw67Eb0YO8oMwBd7YVNLXTgOCvaLqK29QzBhLhk-wiqsYiHujUk1hpn4mAaHYBfj1-73ijQzhGk4PkiY7NSZado2yZZa5-uwFCBw1-8v6sanFy4rwaTjUPJkOgm5CcrrHZfRdwNkmXUckwELB2qgEXcSJRrz2sxSslNMjGBXybDOiIJU11x6_o7H-JpnLR0hqjBz5EWXX6JdU/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="214.astro" tvg-name="ADITHYA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" ch-number="214",214 ADITHYA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPpz0A9vHodZ1zajsACeD8FQ5SCD8QikkaFS0YzCIUCm23T0p2uEVEoXKAxDfUnfTwqLa5-JhjrLx2gpa6McTZehpGa4jnW3eJbHQnhGyVb6r3NThUdNcG76XAMKo395AjF77BkBU_jZTOz55ocLDva2mRWFhu2RdI72JiPDw0N2ZQrBwe4xZe4XL9uDQkkDkw4BeptI3qP1IpjEDUhU2hIuhT-B3ARh-sDwJVdyMytRlYNSJq5GT3QETxkP9AvDUibe1fKMPrRm-WTWZ8RMaBvMPK-yJWaICh_iYnihFLBbHy1J1va3qE98fufXJ5ck9kNf3e1o6qmOKnJDgfn1ndY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="215.astro" tvg-name="Sun News" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sun-News.png" ch-number="215",215 Sun News
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViP0y5lNDG1xpuDofefVuXTNA5TdXDcRq9EsxM8MOOCb--FhbGw4WHB52EvCXIoK4fjCUfp63EqkVRZPiPBStDALl8qwxPSh5pQVLqeiU2Fd1bnG3WLzqLJCvvJ-E7E89LcnEylUI1WfGKnxNOPcOpK1EL6Ed798BXTqYZZIcM0yS5kMYny3UcvKEBDROHiReP7ezsrFQZBU2PWkrVlGqrAKNBZFDD85h-dEPNIIgDZWs0iq1YO2dr2Ae2UK1YOYuPF_uxezdvw_k62HBPzZ5Ze1lzT_VYrruTaAohvLMnBb8GttOsqNpKcjiSurMC9kYlT-qDiTH_tB6M0SYUKsEUw4/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="216.astro" tvg-name="KTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KTV.png" ch-number="216",216 KTV
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDRHSUL2vz_vCmRlQWu3z9Fn9nbcA6z9pQ1S9fD6M38sBlf84POrB7z2HQQL1_G8s-UomrR9yf30LwGyvVfaiqSJnJBLOY_6loAlg7gfNKlU7KB8hoDBwVebPuTxsU-ZOmP3dRS6E5C_A0mvvr0Bszlr_zAguGjspXoX-KB57wudzbSAzuZBSswrZCnINJmNKSKO4eEh-9PGJsMMJd9LVOs5p5tiRxfETzPVC9FuQzdooD_iFuzXw3Q01nYmzbgcPJHj92-eEJkFMlMWErte8763rfHcTOmAObdjetkZuzTijSM3Q5M2eO1QeyxuWaw8IhWNRPAolJfu9SzuB97M_FE/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="217.astro" tvg-name="Sun Life" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sun-Life.png" ch-number="217",217 Sun Life
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViI-ifObO_kkQBmzXd_CBm6LS5FXeWGeEXAUfoKoDNBYytuGjyUOj_HLKF2djFOV1BFx_F1MwcE5wAmjpo9LrFkMY2ygEBPY13CqDQnwhAhD3WNyqmDVlE5PfQuNHJJoBYztjsuclbAJERNNARF_Cx29gYjA3W8jvUsLY4elVzPLl-GTcC1RelGOLrkkOT8Xj89j4ArfQ67u1my7S7vsShbvUaxBXkNGt-V1xN1lxnskwD9sGnneLc-gEecGtfeDyECwn4pWenXggJ8kCjBM9aR0J7yKCPvy-HzSj5U1z-qF4czNUN6js9v399vLe3RliXNgs0E7d532V-0w8vkDONbY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="221.astro" tvg-name="STAR VIJAY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" ch-number="221",221 STAR VIJAY
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViABwcH70qjTMI7wWjlk6LIDUeODuCFSkzg-lt08yxxwKcDLwlPdH48agCyGL5a6tzKF8BrRW3FWWwCbF3W0ykyxhExXLA8rXDvn7XQOcY9iA28gDU2XXF-RBu3SBuNfADX9_AQyVEoz4zrIySPmGmtf70yq-SWRyMzmRz8VK2HffsATTmEqsCNLfQaM-a7Y-tEf2FGTTFVG1zlRAx9Y7LwNPIoeoov6puwI5xPv3es8glgKsE1YbrUcV_-ScQUVD-NoR9gOb-tQ0XBKkuhzLybEARbxfRgMUhCYI1rxUJGYrs5UiBTcJ7HnMn4swjQ_W2lV7yoI8IhtLDJ3TcPi_gdI/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="222.astro" tvg-name="COLORS TAMIL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png" ch-number="222",222 COLORS TAMIL
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViE8HfvZw_gS5XmmuuOPjoWqKECXvRoni7DrEICt5x1oQqYIlj_s8vHgIEoxF6P5gUQCp7LqkKq2mic8_7zo5zNNEr9EsnpQCAp-Ixw5rBz503qO8ZpnbNBea8wPukslwxjZM8SA1ohT7l0YPPmjIuFfHUCkfWDMESIfIeT0oG4QZYjkgq2iNnPbfnD3FgbMwNR_4r71W4-2Ze1JLT5oYbJJxPQYLFr7l1Qgbsm-sOviov52FPlNhZ7WMIbNMsKVnnu_SO1IYGneltAvwuX3-PxPXIOWpmmq4iW-N32azKn-76xrBEPUxrJv-_V1DKQD5cynen5z4I3mBw74Kc18DQ2k/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="223.astro" tvg-name="ZEE TAMIL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png" ch-number="223",223 ZEE TAMIL
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViBKXCpV1I1i3TVZiFHKmGNLcaqpqPS4cXPKQJXzq5ZGnHofdlvddODA-1m9TmZ0eS6lktUW0U0cCjk_73uKEiSqkHRO0e6WSLIWbkfPLY78tT-Wz9bIQdck1GCght3hXkCI1oFlSI0CXr6sq4DYDh1F4AVg0xmL8Eif_d9m4JY63gYttGfGtSyF2qtpDUDEqFj9E_KWiWBQdbrpRjE6QgYrBLMhP7oBteIRLVBeroMjm41SHQNrt1BR7crGGG7qJvuQq9715FKyJnbyMfEAEgy0Iqnb5Gr3JbkZ04_4SPaCgg7so7chOBX4yvVqcNJV7WobpRE4vMLUpDv_3Lb_zn9U/hehe.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="241.astro" tvg-name="THANGATHIRAI HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" ch-number="241",241 THANGATHIRAI HD
 https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFeqMMvKZmthpVsc0XqqDnJM7x8ftplM8sK9xxD-Zy0BY_zKI19ce5_Oq_ovQOd6Fp_IarEcG4VEdTblXkDiaJB-eMqdZiiYN2iFed6n3cxE161HbVgoLKwaL93YPxCgXTGA18qzKJpT0_qILqkaL-mGnyz2USIaiVY71XHyHe95iAYgI2SG-cpdCsPWG_JBJqQ4c8xaWvjljCv6UE652SiEwz1_FwXGdxSQhsS-YWHHgOkuW0MDXJCIo-TFA5PphiHP8PzF6OJBakCV_1xU3PB0XVLusX71QLXylVz5ucEUkiYgfrReaIfLJ6kNfI03T2kLClBrkbtKH1HV3dkH9kgtJt1qwRSh0D3uyZ5FsHlGqXRTsSb6WTXGdZKjrgEJU-ye96sfXmrsA7lOzU3cCYCakyiVyyDxx_3fCAj-U_gH4W0qnoi4FM-W4NMtHZqBs8NVmRuY0OL1B-oqwn2zPZB7xFn1n93PmbMArBwe5vv0J6wktD0lcmmWUbpsAvdmlkAvktxrh9hlLTzJt4orQ0apVBJdJ0IJoYN9XGqnTOiJyJ63kpuXI29Z8QU5Iov6lk15MLOPBFhl0z-QHbZ6Odw7y2JVxE5kNCRqhzxTVFfe0oPV0P6BXO5jX1HgLfkBdeQMOUfj68TccEoCpeddjzRhm4bdzsZ5UwaSKjjMZXPXoj7pgHF2dg-SDiUNe6Rd5M4z5fNsBGI2EYygsXyRJkWVDHl-UXubYxwfQz-f0d0GNbSSlHmxHbl0btaNjYGOVUBi-63EZea2R6L5rDYOXstH5fR4A-U2fsDUct2kJ3TLRZaS9Pilwf1kib7IjtHv2fk3edaxG3c1zeWbTrB1MymJMu_dCjgqbF7IHHFFS0zaKMty7un4ofRLTkayR9rDRQ/hehe.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="251.astro" tvg-name="Zee Cinema " tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" ch-number="251",251 Zee Cinema 
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPLtkSdcuoDv0ZQ2EF-JHfaydSYYi1uGCwneAY97Ee3IQTCSPaGB7A7qCMaJEdHkuUN8Yjxjp2kMTjrSh_sM4mOQ6wPIQVq2YGQV-rPcIZMkOhxUD-PabBXEGe7ryC5Wnwg411wtFE3xU8dkMWLiwLuhP548YdnRssH9pzampAqrZEQFI5rwb_-n65e2b3JeQb33N1xErGVuBHnfw1iSqyfoVOx8_scSyzLTgCJWVvSW0mD2OB9Sb8hoeHKbr9a95A_Doz8WWi-9iRkZgx9WXejgJRTXeH8sHt1ThTTcinnjDKiArU617T7fIGGqJdTiQQWU5KcmApClz9osbOzB2KY/hehe.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="202.astro" tvg-name="VINMEEN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Vinmeen2024.png" ch-number="202",202 VINMEEN
-https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJMCrb-iyKcQtN4A-L-CUOGNDNz0jdskebLh39WSTP0u3-bh_Va3Z5i94rndqajDQiZumrvUAzsP-SgFIU_fUcXvcXVeoH9JRbD4CxyS6T1fJk0OAlFe9KF0vkdbNYnyHRKsu2zyQpg6UGx-B1l2OA5IdTH7byRN2ZQ2v9Fa7P0cfRKWb0GCM84NrzmNjZITK8BKBIEkG76YSbfzhZbFFMzGFFSCkujTmnQj-swpUMyyKUnKRJKbsLHdgB1pV0qgtU_oXFUvcHTHYmt1bOiJiRnMsbTdVD8k1QE529u8IF0l5wCrGrChFgLBoJDiWTgecKgqWKWYRGMvvSHkGKUut9QsGCZxF-q7CuMSeMV0HpJbQe9hFbX14VPLnyw1f6puP9Isbmf7zoCaQik_zEZ641o09lLgemPAD8LhCb2Rtqyl1G3wxTSW2lFfXh18D739sxk0KKSOFOERl98S3-dvcGCBdv1D-7d94VRubYXM12zNg2Pr0-aWVvy-eVGLIklhSdRSIYrkpIM5A1c0jd8aNX4U0Dd0XtgxhJ7cSHAMJWByHhgv1b2ukizcWR-M9W-i08vm1ljKVLmjK3GLNcRVfq7x6OxNrWDsPOmYhA6SK_pHwtZBfTK56Y9CEvaF4NS6VatAhV_yQ-iPTk5-DE3WP603CYUbmVk_tJmurmZQM1NvfMv9fJd77zoQTI1wFdqPvJKEZQnrs166yHTRs34EtaJWZonAwcatVfto24JSo78OKxoCLhxA89NojpLU_V6rLmWdpFbPfStLkql5BJqqxtfOfYan9HT7lpRRXVRDV0QXxwVp3l3DGBf3QRf7_gqHn-d4yW_C6M1v2BWh3Fbksva2n08jWkY5S2OVaLYE-cbY/hehe.mpd
+#EXTINF:-1 tvg-id="300.astro" tvg-name="iQIYI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" ch-number="300",300 iQIYI
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViNEMN-dFhy48jzh514e11wE3NyPZYpxNqNtFpAJHukQsjyr1abmTNqOWiLixknm8SVj2r6vcBWGThuvMVgziBULUhCQhQ7B5EiatcquJQvVzDcHcdFzswyAHcpzdwLGuiy_xcDyfP54XAFVF8e7rlFrUXKKgvSnf97vmg1rCBEGq011XXxOoR4cSO-dWZOWnrwzMS8yJEhr4lJ0B2ebdsBQBec2oMMsmz0zmVmXD8HrEBfWPNc6a4QhbRdORdgN4VBJB3AhRYUhzH1S44MAkxhNVr55Z5kK1kqvVgWV9xzTdzqRhRzNz8TZErkaodt8kaBOK_A6qGQgFkyJCxH13_bJXgImsEMix72mBq-gqdrlUMImciF1y8o1GvlsMbEM5ub9o2kkwGM6wB6hJ45uaHh_KiYHN9vKUkkMF6LBnZgjheRzonTalnC4zCmqbTweXLl9eF5kgraedIGW4IKDCceliqgKazc6UIp3Bn7ki8vyqEHAWp36YF8-HoWhVO-igVSL3J6nVoAatLEYzPvFSWtNi1ceNHocJlkSDNVKfLFU5Pqik-4bJcyuxc0vF-Wo0TEB5HYXj_A3UBHYqtcrgplqWeYIRyXjNc4P0miyU7JRrg2rU4nBfYIQnZu6j8FiYw7D5NNuTi2wthECKeOyVkwQL1dC9Ljn-ZwaWEUlApr9jSEgRpphJVypWlSY1K7_zs48v1LND7ewwcVTOdOX8ADFs7QepC5E-3gSGkDffWNloMFjSAkHKP6lRaEfTz5CLsg/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="305.astro" tvg-name="TVB CLASSIC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png" ch-number="305",305 TVB CLASSIC
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViEkLttNpi-XNX2rvYdSSGcqOOJq-kECaeiuplOZaOsyJYoQY7LcvZ840D4oauD7Fi32nS_dEUYgmg9nPISDdbOhjVW6_OamxbdrLgC4hwmI1IVShyLEZ5aAC7meP51O-scQIDkFaRivN50l0M-J8ExoSrwSTE6bVDnZS9DTBM5VjEdQR8AXP10blPMkZDDVgojujq1ABma7eQIs04kOumVbs6vC7QFt-Tq_RahkvSPI5gq2M-0eLyEV3uZKQTXtZCGEg4pqeCLjfPYrsGyy8MkH53CuuRg95grx3VP2INcamCDXq7YeOOD5cahi_-1DmGYhfb3fyWVNrbmCreROzUVw/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="306.astro" tvg-name="AEC HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" ch-number="306",306 AEC HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViD0oiLnlHH7WTDvX0hU8Ej8WjWpUDHoQ9MVXi0IyIUkdfHPe5mfpFRPDkad-MgfHrwWCfsQ4atW__qR0_-L_C4D4-Ej4dU0BgHCa2UaT9ewc-rbK0WMDwds4nCq6vVXr2KHa4B9aznEZ6k_K-x7H5lGMw2xI5nzRiAiF88fGahC19vCMhUAAC2wInUAWHM7-4pfuVUOb9RaaaZq0bVxOd0O6lPDvBMN1bDm2z_hEunSAqIMxqD7-37U72ZUqZrohPTqtsfh69c5Rhsik9oDRZ5-6o1XZsg0q5mtaMA-0j2gFNyYazikAZ9B_rzRmr4fCnr7Y9btAgMuD_gVDyjNihBQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="308.astro" tvg-name="QJ HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png" ch-number="308",308 QJ HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViIX36r8ybX8T9lSOB-S3NQ6rEd6nRSDZ2bHo08bISeXWlM6AddwGahsaZ8vCheXYmCrpoizgPYp35wMJ5S7qv60N20GCW8e-cAy-lIX75yO-Ms6pNFAsI_jtjxI5S7k1MdvO-WHUuNbhg5lcE94lckjeWAXrM5wIWWixk2YJcVz3wsS2FmG6J3pqDQ3veKwxg_7PzpscUUWLpwMphipGOy1ylk9HjFt01Y2cSyYZBKwMZDdUyuLCcGJsPE_K8iuBPAcO2384_Lrd_7oqoOO2XyhBV9pk6W5rPGS5CyaKVV2F/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="309.astro" tvg-name="CELESTIAL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" ch-number="309",309 CELESTIAL
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViGMOz_CwBNUFadMYXfuLLzeaeFHLKvKeQePiNtilssiDmQJcZIcR1-F5_kB8Q8s8pI85blSd_y8YDRIzJLigF9enIo2wNV0-8YO6p6ljbq2Ztbap0mHuXxRZnRWyP8M7mgCSMw1qIr5TEz4qUckJpWqIjERdmhEjbRlI8H5HhI0vIoFSXdZD_TO9hw5aP1qGi0oty7rQ5TVEweZBvRYZY05f0r_4vqvWqAo4e58ufBidBKvKsN9Kh9rSMdPaHJyX4tJNfwUmShJN-6w3e7jeqU_tm2Xrr9Lw6kYkGBO8_Vh4b9uan69l8bvJ8soCjqso3g/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="310.astro" tvg-name="TVBJ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVB_Jade_v3.png" ch-number="310",310 TVBJ
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPalgysNcytE4rJSrEC8W1S4yIETEk3g00KaEyj3cyZTEzAm1F5DthzchgDeIwxGRUQStZgkDMghGitlsSi9PHiBHAKGs9GpgpZvYhM8ZkaFREAiiJbEgIHUt6fP70qC-oZIL4u0WZZ47whzlLVO-57rUA62nlaVt_cE881X8ASjreDoLyWBbYptC19xLKSA8LGn8m4GLIetLk0Gcusou9Z-VXy5W6wqUVSxP8SAtgqw-5cHcw68eNOCnOpbNzIWSLIZv_ayobscC-b-gIy6oeI8QiU06ls5jcniUGaLNyTP1HZPtpdXo6WIDsPNpOUTA5oPeRomLj3kyzMNPoFwbWM/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="311.astro" tvg-name="AOD HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" ch-number="311",311 AOD HD
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViLlypx3WSYhEbr8YR0U_TM7Zkwv0bCK7Ar6FsXFv9DcEv2vEY1CvNFhbMZU7gYAc9H56D_wato6g3yJBqvXhewj5Eronh3lIKdG3otn1Wy1kMsU3Zl_LK4UTUtCN9BGgsOW4LU_Xy4ABKk7em3qoGlzHx-ry0WXql1v-c43lHpyPr-MwC69F0VLK9hF-fUzRQcGbdme52feQ0Adj7LPlb-d4JickQlwrKGpgrobso7cdVYpXQiNzx6FkssEeagJX_zxNDzEawvxj7FwcN6msa0TTjFld7Gb620CD_vS6H7R5XHyLpJNa0K4y-0JarjAeZ8Fo2b49k_h1Q69CVItetnR4SQY9vGRVh5bbzT8ooGDmxEJad2cFisIIyhjbFJHDmClO_N0e44qBwcfRhMwvWL9vIb3DfjbEj-OVfQIlc-E4-y6-2YkUSTmxQ9xP0VPoeoaztiPO1xOBdoZc4-CBB0_-Oicwou9fBHybg7RZn1G1QoOOdBgVQXozcYCHF17roWFULBYHr-ta7xPrWMQ9SqnDmHsP5rZjcc6VmeRfBSwU-fdMNX1PQCwJMu75Y_Jft-jxEBpwHzWWPwWYxIuSx7y1oT5sZCsSjhpx7nXQ73qkEQB14ZbsCLsJTZQj86mSFXTUy1wAxl7vmm1w7M4L2GcF8iRqz-3Ph2fFFFn079xWUIUzGLqLI5FaHipq8H50WxRw0guf-FKeHls-o3-qlikAJ7pxQRF36AksE1A2JoGUTWQ3WxQxCRB68d0J0tm5-bLLDmSBGDrbn69mT1hyGgJqduXcEkRNZwBL45-nHVez_d8WvBf52qTXRKeZ006bkYxwwxvmwMEkyf6ZbMeTjVFtj1M2WyCMUUDaYxCxhPIZ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="316.astro" tvg-name="CTI ASIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cti_v1.png" ch-number="316",316 CTI ASIA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDHhcVwj107m3t-niXKlZ7FgzCSNK0CMpczjyMVOSo6o-QGLRij1zsbePDF1LrJ_uYOwJcY1UF7B611PQNWYn-20sGNrVTTn594fW5IyDSASmRrgzYGBvS9CCtTgiR5rzfm9RuxBJ1Ykk78zHwSkmjakSQjiYMQTI9Eq7fACD9MSV1we1Avw31Qag0_X3ZSV_HEXLNmp2IQh98iy6fSO593nU79nT6EBDGHhOTkD0PCu6ZWuee0nyQ9dO0T3YxFKMmNJQBhpSYVeFMYO6EyhDwslpfyehc-n5Voxr6BJs0wawMTUEGC3MhInSktJ8oW9DbmUtBjwtAeGDPdudNZJBmQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="317.astro" tvg-name="TVB E-NEWS HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" ch-number="317",317 TVB E-NEWS HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViMsctkPNhZ18MTdc6Ib2qB0P9YUTTg9PrJm4FyqMKexYEbCvIVnp55ItZprYZ7UmQBQByZr8fowh5i94lreeelDpAXFMO4ljzNB5ex477ssoe7EMYviZ3rGMWUXwFTMSnJd2Npe9X77QB_tgtUL5CFBABT2yjuH6HAcPXcVVb6LvaIeewb5n9gR65Y1PaFpnaAsQXa4MvPBRD9K4qqMJSZBqZ982LJO8ax4n-oG2n-ydRSsSiPcmSra34nsCZv0pLzqUDts5dm27lKZ5UJ7hR1emORijEdOzd_iizjVv0mrRM_sxIl-aFXLvRuR62eaPJ7MEG5HkOtbU5RkGO0uPW-M/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="319.astro" tvg-name="TVB XING HE HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVB_XingHe_v1.png" ch-number="319",319 TVB XING HE HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDQ9rLKZSVgLnYBEY3vvjkUA3uXnxeoINdT0teCTu-IBvTfe6Fh-klnLDbPdijj-jS01sZlMBb3ZH-UlVDJQT00h0RxVZ6pfUcLXMHy4U6x4gxT2s5qUQf5tftkmrAPclxvISfokLUS4VR0E9IlcMpfKnxXkDtiX35BJMWeqpqFGCdXxtCRSsyQWysghQopQkJqJLjFIH_SQYOUxVsaPgv1b2MqP5agUnaz_SYjvNLYfxO_5fEr-hMNm1YW4IJYJdwoHexd0J8A_e8St1sfsqi9mHLWTwiq11XAmKEZaEBUIoUgo6STDciADNGA3oPyMPjnjkOfgCYfQUgkp17LbVkU/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="320.astro" tvg-name="TVBS ASIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" ch-number="320",320 TVBS ASIA HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViOAfkYv0yz269GZLp_kScajMLx3rSKw2gaSsp1v4cf1If8rgXK7QhOCkfHLOnD9fvrhhJpL3LjOxYSSCnDWABL9nr7LpiIvCN07LRHJwyVQgMrmz1XXigz9VRDU_18OfVPSo4PhaRma6Y3AYzwzLR1esEHbgrA-l2FvQtuSRS4J1xG_8b1jWZHQEHN58zCc4K-X9R9PcZZn8MTxbCsxeRa-xXJFBA4tdknpTE-szHMIv5ZOUZf9VrUIjD9aYW0XNvnV-jFwo5Ee37mtOFEX8ZQEFn9BKwCqnLAqOr2c_cjCFwioE8SVrn5BXbA7roG-rRNXGl8rJ7gh9N7GAHW1WM5o/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="321.astro" tvg-name="CCM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" ch-number="321",321 CCM
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViC-CdBsrPcAUaGVpnfeyY0mly2u7autsM_D8xSY017UoKQYFkBpDjNTfN8AtitYgoy7gBFwHiPkQ9bBHEvWJvJf_dDl-qZdGzGHkGJuPtav-yfyZQYL8qnQCqY87h4OJ4Ot4Pk2DVxDXzraCGLd2pMr5hDdcnPmy0CXT5jfrA33lrCNjwQS9FZc1JYiW9zsiVA7nUDG48jP5QKIlpDPf2j0LRjASlzW4GDMrccOEBUUk6RhlUCpFfPGVcc8moCrcHrc0BwosrrvZ14c7t9BMPN7et26eWGfPzLXeW6ab3V7Vm78ng9KvgiRFKPrw0FWoNZz8TiiJla61go1aVD0BX0w/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="325.astro" tvg-name="PHOENIX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" ch-number="325",325 PHOENIX
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViCQiF92cEdpFDtQrs8ZJMzCmKZQQ_-lVSaKb4Cdoe86ODjvZAhNnlzCaUVa4gchWshNEjQSE6ibtCwTv2cq-SGPIbC4ypgTmrUPRXg-alxvt9OipPxptNJVWuQ4MP_ZvTI3I6P9lK2nqn8BQi35RFzxE9XR44usO2Pb5VzjRkJfrgH8zgBa7B1vXhJJmidsOlMAX8mnqo18c2I9UvwG9hkjIfSst-t_wkaLymLjM7Ozbo82S5_EDuvcnX61miMtbG32OlxcBBZ0vzgfCk8JrYoplAUqd1spJobtkU3jfteyh0EIBaJmUk-rjF_bC0CUvJoaKru1JJpYlKaX63qtszf0/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="326.astro" tvg-name="PHOENIX NEWS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png" ch-number="326",326 PHOENIX NEWS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViN60mHKTXf1_5DdRigCSJl7hQ46c1bmiW6vpi8CdSfvTLczin1L64sCfzc_Q6ADw5vQQ_EJAEqOItyDZdPKLC-8NQq33sq-WheQ4G11X9k9a4OGBYqOCS1iEviEEpplLf3CgCTGa-ZnlfvXc4E0XCan3lxeWmq52TOsFVDZK9ltH7aDWJ3Frm1MewBSzsDkTBI1YsYEhaY6Tjo7Zko-CjF1pYkOd8MMzuOVpQ2aNve86vnw6Dj6mAwwW2U9ow5l2IYSAOGn6oFWcD73-cDeDDV5VUpMf0tPFXIUYnLmwB3uPwO4MY8NwNV_OsRRkIt6YZzGbJRwes2FQYaBrvrqZct8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="333.astro" tvg-name="HUA HEE DAI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Hua_Hee_Dai_v1.png" ch-number="333",333 HUA HEE DAI
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViHQA4pE2TswBVOkItYdqFCX7j9u6YhYQDSbyFwYoJ58UZc3RJMO91K7zTF9PTuuvCrkTD8NMR8kkB6PqPLFeXTHibwl0sJrjsEImrN6umLaicP0MmEA0LOOX8QAFhZlbkKe4VBM32nLY6wZobPPOuqbfldbYiqP9oolp8XolNh02crYprfpaZjsbOiCmYh8DQE0v3nMeaO2-ylSB4MHsoJ2gShlVCn4n7uEjuSZBMQsQIaw5SYkS6iQT2VoYwKkYPRXouLqqTHG-UyDPYPMBGrXCiIFfpUMKmtmUIZHMwbtZYWeGtdKdTTy9Pm7aDy69Hkb78FmZ6PxWg-SjhMvjDLHynzESDzxHFNniN8uHxn0fO3DPB_RCSGfrp3GMmlP7k7kwHELiYHRY0qmatNSyQG0L1uIO44y0_r4_L0zv9SBXpo7H0JuAnoLwgDh7l8Lcx1s1qTw6TdZ8yVVs1MlEITsYv6_2VdyQk3x4umCL0_FZCh4KnNCwOTR4sEyq7vpqzUraqIUfpoXcujLw2KJJb7MuWRZhlpoJ7O8_mBDVLaZB5Jjne5VvBcCeLTyN312wCFiOSpw0tgBNT6zFkACRN1LQlgqj2567cj8YijwUrD8xiVGeyMkctFwTrGoWSMn2I7WTzog-0inwYWbHDAUpcsVVQ-BgviLJ7wF6JndgxUPTPPp2HYDlwV8wzIlV9mcaxi62UyetowBlcI_xLm4UTIbPqzLas8UzjSwPn-HNVWrbysktCMFwl0hSvC4ag_eoSw/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="335.astro" tvg-name="CCTV4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" ch-number="335",335 CCTV4
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViE_bjgXsakbHePT7pYpQFjHAS-btWNcl4zgNMyDgre_K8R5EkxhBpt5cVIdkoGqWdyyfSNC8ySL6a-9341U9jsCfeGLX4lyXw7TexKKyjFPL2VFEFLri0IWDJ2WyN1Y1iS4x5eXtTDwnp1Sz8HhYZpBMLm1E18HxeBX8yPTBq42dB-u3Nz-JTFrpCOk2RdCJcqJeFRKenejBSCPkbKi02eApT_K_OSToR0eKEFHrwr8vce3blewpaIz3h-K33lTL6Q0XLGiOfIG02S6LaN8tCZ09lBuZInKoTfIncJGBl4vUkNTLDLMSQTE4Xv0T-0M94QPcdvPJ1fioIx10VBHWH3Q/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="352.astro" tvg-name="AOD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" ch-number="352",352 AOD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViBgeDm_4n1BkPQAvE2FX1uFWR2jYhARYzwr-lEEp2DHA0zGgIUJCwERZTP79eWTtMTFWPGup6ZMAUHNiEP9HC54q8hwuzgm4Q_p1w9ysjdMUAY2tkQ4NGT8V4qwgGzRTvo0UgnlZm2KyL7hx2kysof2RL4jJDhDh53qrwV82A_bq0lR1gOvZUke41v7fPbc-Ck8zbj615WwwxYONjJ2zQqzPXa7XDfHP9X2TmfL54LRL0R6aatxgyvy8C-oA6wJ2QsjeOXZjzA-LDwFfaphCVi557XyAAJtBvO68JYSBuFR5eC0VsZqcJA6dm31hXAr67_8Vu9jf0pH2Eogck3tRU4M/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="354.astro" tvg-name="AOD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" ch-number="354",354 AOD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViCVyr4o1FU-fJ5OKHAqt7Lh31J1_xQWoaS53atKBpaoVrnUuiIOaLFCZEC3-SSfTh7IQP1ZHiEi6SYdiDC4LsT5hknypdDm_ler7ad1nOXqnSqTTK5daf5ssI-S3X5Y-L30LFLUVz_rQojkHtDTcBuPbKYVN3A3sRh7_HfoquYRq8gpwAwoNoBFXyUwyCg_xfHVu9ZQaUBPu0ogUIM1YvstGDyHdQG5q57bVUcDKxm_MobP30beITSHgD4BxyPe7FdsmJ2aSShBZOU021af2ZipnsUO4zgn262ONh4mESjbkWRapSaF3tt309dq5V5R_T4fwPaCx6mQw2uOIJFAORxQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="392.astro" tvg-name="KBSW" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" ch-number="392",392 KBSW
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViEWkc8t_byVpkoFr7ZE31VpgMpJe5XpljSa5lX0vCq_KySpWPDqJw00F06Iyt8-3nS8qEhT4pQA70dOgVwUEGAAUHq00J7Kd4qkW__CmJdA-Q_FLm7jCruNIAvvbT-ofWCNlx_w0wj2u5f61jQgogZqxOEFUI2aAq2DFGZ_GIp_MRYcDT_AmjVkOiiZ4eh_lCJJBH5h9fUtTgz9zSAovjS48etNXMhlJnbmjynT_pc6xXT77IUNOKgM1I9JXQsjBVrVeYCSkZf-GPjZ8wIiAhyxUidpBw6L-sc9_PZkJbSz6lK5676NGps89D8pRmk_I9B0fIIxLcdndwOXuC_ASCh8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="393.astro" tvg-name="ONE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" ch-number="393",393 ONE
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViGaNy_EfstRgwX3tMxjRuH995nRVrucFgnvB8l2eObWOcJxp6UUxYqkJXFFLVcexoG1Vq8bdI3t5bsdiTBwNkAZ0BzjFyCjz1ylpvieot9PKMTC0kKc6tgCq27PtVppQLTR3w9zXvVuf1C7kM7yGvwd6enN_6S8vwKbEO89aQD7EGvbSmA4aY83zCmgdnFse3mVkG17q0XGys1PDdiC7ghbLTayiOh3Ore8jkBcXgeJ3n3OJppsB5Si7nvKqWlClIOdRW6cU-budSJcfepDiJViO8taH9nYnXeqr1ZmBRueE83CHB-x8fL9Xc5a49zXqkchLzXHh_I7z7G8UMmcWo7g/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="395.astro" tvg-name="tvN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" ch-number="395",395 tvN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViNjzYbLCfbRQprRuBD1Ld1FoZ3QFmP3vQyeFkRQEtMiO9lQNK-ruqO3_rtW3hVjZLZsaHV-r2v-BtBxbEv1fRzg1Ujkf0_Eg6ChCqun2h6nFu-bDRb82vo_xXO1g-_V7DNevwGoDIOEz-R2KrNTXFhHua4rxIW_KhxIiAcepOUL_SXuXFLH0CqglJUTmoD1W2D-zyEKku5gKZ_7630ybRVXvbHd0MTj2d0jyb5MLQV3MlM-SrRiAsb8KHnlo1XzgsQsJnRuwZLJfRBJmSMUn8ctEbAvKQ6ZM_YiasA4odBauIeFgWNRuqZP1vjumVCFzUXAP7cS6tMCgAAa1IowUd7c/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="396.astro" tvg-name="KPLUS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" ch-number="396",396 KPLUS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViG46eDqohx9iKmKyl71JUL7djWEwT_odspuHY95f0tuDG_O6e1Mqe49n0e5d6072VRv8bsvCUlSMkQZ3uEH-vNviWbaQGGXkYrJ-dQNCY25cAXAey4_Vp1bot7emBuwxcZebFyXZ4PAT7QLDnDgYYOjUZA6USNecn7qmILYZsph3D0jingHC-6Jx_0uGa-8utti62mx0o9p8Ge3761VkE-PJUfSNbYtm4_mQ_ZrtuOy_kOzA_cxxgBPiRl7WdPA5aykkQLqKQ5JWcdQRMo7he9fy3-K8sFgN48z4x0mt7FOGAfFR-IGpdpWdl0EgahCzBuZYVsHZxLLxOJiLbYUftqY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="401.astro" tvg-name="HITS MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png" ch-number="401",401 HITS MOVIES
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJnXyTyU-itzSQ6gQZDZPBoxz0rs7X8a2vI7ZlweTmWc6LNKqks2MBJq45F2JnnXuL2g-kVxNtgiDZHz7pvp6vdHrTjbi9iT968XvwK3nHKp1HJkIYZxj530Ekguou1fMhEHaybqgqIT7ZetUpwtb1tyCbYh3tuNRL1jKL27kA84QTzrdrebP1AvfKNe_uLhcWk2FcfjNWEx9ckeAIjKoiwG5BDTW3mU3FNKHxuiYp5WedPGumt31Cg2zSE8z1lenWwYmL_5dpsmN-3t3Ea_bzTYN4S6HePBO1gcffSHx7x9HQF0IGbxKZqM5nVNVeQoQPGgrFb2zRUMop88y4qYL8k/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="404.astro" tvg-name="BOO HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" ch-number="404",404 BOO
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViLhTaULfmBQlpIyKQLarYat2-nd1QwQ70ORu9f9eKc2V8dg4L1XJcTTFZ5QFhtTpiZ4LSw04tAWrCJQF4GBWWNs8Qenxm_8NNu7Ta4hcjUEgITcQiuJQnCZT8da5SsivOfby49W-qgjisHuACC5xQA9xkbBsm1jxF5czMewlEk5WGnxSs4Mb3HWq125F-JIOILIPCt55BaCMvbvqHWTWBChQIR_Wjx7FH_RgPqlLO8Hpw6v5uR7qITluGhzqwmawcAymqcZje8oZrxd5270XhnMyYipJP6rdzxCEc_QNurKU/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="410.astro" tvg-name="ASTRO PREMIER" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Premier_2024.png" ch-number="410",410 ASTRO PREMIER
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViG9j1JQOJM9T245IhJrfCGGR4XRrQwcn6OaKtJco9DAfs6kPPHStotABt5qBpE5KISqAbb3P95ALN-vWO22dFlEebkXWTmlfR4KfbuwTVoXvIkmp4i4qEN5b1tb6YXk1U2xCtstJALSusa4gIKoQa9baZBYYXQIQrfd2nXzYSLtqmQRO0IBJLwNMOKvm7Z3SB9p_6BWhjOAXdw2Y1XTioXSmRN9flDRbmEmcAW_LJc4Fu7Luhq5hvUVYLAgtF5LwNFf6oL9WCekaEx9dNALXmwBD8LmiZw7NZ8ngIwBrITn9fqnKBT8ZGf32zflBM1rcyi0WJRSIPtwC80s1GBEBAreYRxYxg83pD_MyYcxaEW4HtLZBQP5roTEf6V8m9ogBlmaEDjgoXTI0sVISLcenijnM7bDKMzujD9zerQbj3R4mm1jZgqChLranGujLSupLUPuBAEI_kYQju4XGBfdvpV9ba1LZLnn8gFlt_-tcUT8S_zufi_jy7RYOLNGFvgdoqZ7Z8VuxWKA0YM6lJDqeZ7lJRVTD9R9KZHR1rUdxWmt0KcJQYL3tkDriSPY7-GE1gfqKtnNLbVE2c06dGy2NXI9Qq6udk0Hm8IPtG2frneKgJKFEqr6Wd3Jn0xyv8M3RAleOn4VtQtuFlhpTW22QDgwi19Uv5yJJByd0QoNrP_rR0lxNBVA067xX2L7Q7r4zSiEA_SfZyS91DUPIh9QFFu4wSx7yuSQFDeBtSg4EjZTgBUPEOe8v7q09TGIvKkwoqQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="411.astro" tvg-name="HBO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" ch-number="411",411 HBO
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViB3hyPYVicW68f_H-H9l_2DYCt_8hxQJ0e7aDB-C64dtq9OKsFfp6N1BimbT0_7Kj1ehfV0gvFTZptfaAkJ2QLBGkvs9SkVo6RNPBZ7WXp1MKyEUKIaSuZXgytkC5S1_awbV2K-ZqVLFh4bmhFLw6IFIhYrDHjf1IlAbE7ySKlwnDyWXRM1ZQ8GJq6ym1eHU_BzOoJEAJZSDuG1pKCU890bcyCQrYfOMpeIeccdigapXB2s_AVziylkeCWlRV7fQm1V5x2_kBy_TkVviP7rqMMHvwwAPkgwxBc7yAGNmjfpx4wfC4NPCm_v0wcb9pQz6Cu6DpPcpahR1dzhJQShmp7Y/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="412.astro" tvg-name="CINEMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" ch-number="412",412 CINEMAX
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKzi_q_I1GkogrboE0GtL9G8wfR5Rvj8PXf-NQ2EVw0Ptc27aKNR6unVJ3BoVQciZn1AIGYt8eChaKTUJ2BPLkA-rH09VL5iTFFmdm9et50NmgtSG5YQ1XLatEBxfBrdmWyUa8L5wuYefvWpSn2q8F72lk5NmRXZzUXFSXfmS88TfvtZixIrmn83HrntEnml9cFeBeSFJlh_bRpcQeh2Hu8jLrWIOkeIXapD4F_0vS_becR1dOeUwZuacLs_2wlRfvQS-Kga2P5o1P-oKao_yLuveucNP1_M-uv5Cep_LlRycow7yIMEKcETd70GGBnHgkdJPssIvCmq65q0eXhbmDY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="413.astro" tvg-name="SHOWCASE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Showcase.png" ch-number="413",413 SHOWCASE
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViEO5Fv1W8N8xTA1yVE7VI23qnabS8xVXj8P4bMIoydi6PbKmkZKt92YPmGreWtRMGY0mrFxtIWN_80LkCKD7nu49qoAzWYA3OA0hymvQplmGU97vTxGuTnr5RzVRePAyMHUDy23k5GDqHLEKDCnj0u-dtCNuvzNVTDEsbj4Y1-09uIReOP2vJPvd7EF5TT2lBQUoPExBpzPfhYCvrgMLXezMPuvHK4GhIf-c53rPJ-iaB_UoyQfEt9ZWE0j_t_J9SbWWydOcAqBIfH4z-6LHWaZZEyR309JsYxQ98jxDP3lN1mDHv-P-uKn5HpubEvwavO5M816161XJRL1b04UCQL6ecp_PFUPsA2EfuiytaFnbiChmvzCAL4psvXcd3PnBrQlha6oIUqadoOBrMyPtXLui5T9INYvp_qJyL9vBaDN3sBx2Kc9drcVKiU2rY9ejz9bZHmMHAGCTA06Qq2P7S4EMK-yFo3lqWhcO0ugdMeZOZDsp0wiMQweJ9yZ-hT5rr8PRLeaTjLxjDb0CMlNcyx7Yc8qTUNeVB7iyPQtuL_Llng6iB2ALZn6Jd6p7YKJR4wAqHxKW625s9-IVwPavl5Pfs585gvn9H2vwK0E3Ds7cJCjzfzuZ4Yd0spWtUa9LDFrVGsa2UDfZMSsGXWTP1D6uRBOxsbceQe59XplLwM4cfKssGQ6HPM-f-r_JaT_QNRJAHFfQQXB_hQUoSwiQiSNpD_TGt-m5qBU7hNqm5S2NCfd7e1nVtey_z-8BOpTbNA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="414.astro" tvg-name="HBO Family" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" ch-number="414",414 HBO Family
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViOLkStuY1XX_6wl0lvLPDAQi4pTtsooUzXsk5VaK7DFvUdT0_O17LM05CpBlBH0VJ3J2-LCTwK8r2drREKAfkyT5vAvuvWBcfa9HfE8V34yMj4prs0H3jtPPULSbEB5oN0tby8z5gFwNYkBppltIu8BSJ6sh6Cw4WSx6QpoQxlGEYe12veWD6omO_7YP3BzqTExmJ6WfAOxhuOYN4b6_vnxo_ZAhk5FPl1-GO2rSiIKlhmfnBqRlDL0ZnVryCmqb47uiLWSEFUIKrI8Sz75U19qUYq43aB7P7qIuLvWmpOBzu94v8CrTdRHhuY1KhJblrZ1p9j-GLYEQrO1mbZBeh0M/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="415.astro" tvg-name="HBO Hits" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" ch-number="415",415 HBO Hits
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViM2wBYQfmPyW--HjYD-Z9TqnXBvSNzjqEhlZdsga0X0EFY3Kds2EEEK1OZRKnLAj7EbCfqMA7PLDBVWdBzq2-sSOlVIwzULu22aNZtNsue9iycTfIcj0oBIv_wYvRrsQsMEnbmSmMp2p5Q8e_rs8bJeFsiAJYI0xNjnxQALnLRAfTLyZBXFfm2Ta974JaFdhgd1D6Ddc8Vs5auMP0di0lP5w8yPvf7kcEw5hlWKmIRYZ2BfO4bdti2D2gkuuHL0OAGfXQ3_5qsMEbg9VUley2kMj2apW-zwz5Phjiu3HyDdM0gxZWN6g-VyYm31yKFgoYCsDXC_ZlRnPeY-78TTjbgA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="416.astro" tvg-name="tvN Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" ch-number="416",416 tvN Movies
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViE98TdG95L8mGtp0epMdiR64Pnr00qTFILwW0E1_6EQYXhoJZp6bbgP1WDmyXzR3-39j7Nk9zwCMEN8oZDa0TLw--j9JMl577Q6agX_I3h2km2T8PeYsF6kVQwN1H9kKxq0oKnZ2fS0R-PdY3Gl-3c6XasqVFgc7aFcxJ0m8kO97zRo96RkpTN2vApJFWXsqNCVe6ZjZl_tlXKguejRzm_RX9j1LGyASN6_l6hcAOiROYjepPlyt63KiNbupIJsyeLQ2PDv0rjfJoDicyMyyd5A3Fy5ZpTXKRFw-BOfqzj0EuMz6fMGw7o1uvOiceHaxfhNHA4zNjQD2D5f7SCzeXu8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="501.astro" tvg-name="AWANI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" ch-number="501",501 AWANI
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViGWMvkuL74YzdGfqywiWbEsqC_Mx2vBh_CsM8oTwCyxsWSyAKIJMw-xI8OAal_g2Xz8jiiCBoXvCm7vfy1uR_bUM7jVQpjIWdryL479OYvhyJyqE7sihnPs-Vc-BdTy1aFH7zAJDPNC2P2yJsYpZlwXLcBKsxCU6b7u9WDq5w_nGpDcTO4ZKPoVZxVt3rroYeQEMwO-m_RivrnxlCYt_llIJAxZEWI-cXC_YQ_vOaNR1K7zh6Yuphskcf4dMLWbDLLLCBtykFoxaSpkKotIuhJtnbwwVk_8f6W1V52SPho0snzpJL_TBmi_cuhXODUL-FWk2Xq0kRMpImaWNIWbmvAzvWhRG9tmSonDPvGzwkxu9c9_nJgSZroEejrk5KVuOCGwFCt5U8KTMJaOZwQ_78w7Z_M6FzbmxDmfqIoLJ0pzKwVy5n_rkfKlXgBNw8oQ3vseXBfGSP1eEvwBMJf5w-gM2iVwaAsK-Sy2VllSw7IrNc0b_-76L2fjwsuur_jdNf3mn24kTQQTrdfRbg-saEfHhf-wrULyeH7bvPOuVDcvh1qvLqpIh5Z4KyPFX7eOAkkG2r3CJ7RP4ceKaR2HTsS2pWFXxHEZbdNsElbt2ED8eaSiOQTUfnpL71e1i7AUMlOPpa6m122-KL3zl6uiRGmAuk0cm9Y1vEi8EkqBGBsn9S6bV985VRIlKPb3X_9lKgefsFaC063gIfuvMDziby3NXP6GJAwFTkkGBSmoEUxdP5DCIAHfdiCvKY3fqlCKFgA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="502.astro" tvg-name="BERNAMA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" ch-number="502",502 BERNAMA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViHlGLeW4ZUR2WLnUPF_flAuz0_9-d6_0pDmdFwv1gBWc2-dw7alsd_svxBHMIQQq0SCg431oAGKHxw4mIbq4vwpCGJsRrvt5NnItXbh9w7iTgZEo7QGk6TkCEfcBcVKl-vJoiDVzo_NMVnFDQIiSxibxFO0Zm1gpi2zkYSuWMsY4ywJzifCw4KvASs1ACCecWka_9GHUpEk_XlFRE9jJfnNRAN0YzliVPlVXTM6wBCVUyERM2v5v5DBAFN05vcU2eDpfOEG2AtjyeMvPVMeBqCB6HjQkWIHzY82gkQOqRrpraIL_ZL1hV6XqdQpYaI9AgQioUOrk3G2aTy9h7tm4_SA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="503.astro" tvg-name="CGTN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" ch-number="503",503 CGTN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViOYikW5x43LH-xja8ZyFsXOQfP7uMZmkkCQhU6XiYKMX90E0Zoi6Xl5G_bWzlR1NBJv0WHfNBEJfwpEhWjEMf8ZsEOtvPNH4cI7GQGqr84Bc5mh_Oq4kN49yetNtnsyWLy4_gXcf70L8Qm7AobP4fOegGR2VfmRGLZapknx7Z-wtD895R3ahqOaoZXe75RpdHhIkZcZyRTB2M0-JHaNPhDuJFnXje0c8g7-zwxRic4KlyBcM45nI_BFwtIap49SfkvVaUqvv6VUEDkdipGtS_qPEk5Vw9LB6pD0wc261JIgYMgH0lfR5QktQGzgqspsuUO67brnIcVgniCvNAEef-0A/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="511.astro" tvg-name="CNN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNN_v1.png" ch-number="511",511 CNN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViB1q2M_nyuHlyrN3vuzUZk1HPNTUaRtu8sXCzPWJYwBhDm7NC6MoWVTW46BzlMmwGnn0pIvDKdbalQm1sj8ufCND2O7mwGWwYiXi6gani_dmaGkf6X_ENzz-uRuha5T41nGStd8w9mBqLyd8bf7oMYZafuw8UvgLhSTxwuw98SeLYUCMks9KvJzLeXpQ9XCuIoEV08wXbLru9uJKbKz2ZKRKpVCjlRjHQBS9-NSXWSfZsqBeB9fwIqKALTc0c8fiM-6fEBK08oWSL-DNdZapXmPQB6UBvPIsLKzL3VQatGeItvuawrVDoa6_d1ukdNllJ5PGRRL1MTvrPzZZPT6cbZs/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="512.astro" tvg-name="BBC News" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png" ch-number="512",512 BBC News
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViK50A5g2Gwt5RVnhP5V0ktoAM2_mGqPHkvZcocVgJ07ekaK3y4MbR255zrrzsXGC-yTGmCjmdwDDBjTGH-b-fLQlomDS4woIJTTMnJTR2WA-5rY9nc4rNPptn9fxsa74PVt8TOHqtNnwQhis5vxidxEIJM6j7yIZ8cyi-ex08J1feq6kgsnr4GOuKW3Xjd5lJPkN7M0SDrAUnLeDygzUpEC8QJ6FT8rKiW2HQMU7EUztCFwIHJfVMZBpNCKAfcLmoUkdtp29YnSKTVv00Vk7Z3ZxyB7cf2Ex7Jb3XUcfj8vPhL9xvC1s6tA2gFp3WSmPq5GmFVP9b9pdbl9lULgafCs/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="513.astro" tvg-name="AL JAZEERA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" ch-number="513",513 AL JAZEERA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPwPeYbS56bz3rKtQvCngP63P4-pDPgPMTuZFOJla6EpTYaKuXIggyf9vQMrZb-Y9vkcqcpRyJCy_CdUuYgfSrZk6Qfd5yTFeusOej3K6B5onfygedsLT1AWgNNvr2cOXlSC0gUxgzyokcBuE9LTTSR-cb8McSPUi9cQ4SEqrHP7Ni6XY7ezP6DPR_Upbk7VVtm_dcCB8M0ZpakGsfTUQml7yZXWfbZcy1J8W7SRadWtAP34twkbb5uKZNpjXYnYijUbBpe5jPtYLlbTfuLdaR4oTaHMCitKWpq2b541ZLDb-Hvy-fZA6_gwFR99RHmvXb-q-CA0_n10XtktD55GBcg/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="514.astro" tvg-name="SKY NEWS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" ch-number="514",514 SKY NEWS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFZkKUfhbJ4b5EfBwkEYXYgOjwEQAaJfp7UpEnTmHXPmaGfbvmuOG_tZ6WexVRhSVI5XSRedyc5cdy3kZHVPD8FJGXyCWwjyzf2RyUZSIblg3hg0KX4O1jsvHZG37WToBEU5TdnGT3xFlG1zrHQUpClpyiirGuC7zgVVLG5KUK7d4O8RbN_qQgKZFvzsue9mArIfeW77N40cyzlW2TCgzH8ze5X2y201to_VoQLwuHfj2NP35_dIeDFYJm-P5aSCSPafHtQahBPea2OCBIlSMApr9md9CvSRkhAXsYvczw1VwHcMefrkMLcZzX5ieEfWww4mCOZZnB9Amdj-um4rMQg/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="515.astro" tvg-name="CNA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" ch-number="515",515 CNA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViEt1UnKxnfdBJSuzT7oVy6Ti-XQNiVf-KHXb7lHwDY7_GN2XD8igsO_7yhPDWPWR4CSRvpnLYM1FHmlJ-CiXN_Zp5j14wwHL5n3_z5dExWaPScacPMm8USYLnMSsWAEwzdn0y3mqpw82WLH8N4culrtL9okIHKpzc-ZTKTxMzByB1D2RhqTFlrkKoSd4fDtnxWcUs-02pWNy_t7W3ORA6lum3r1zyN1b1ReSaBje1WFso_l5yEX63pBqCfmYro7vSfRw9UYgkB-aHOk-xjb2J4aF0e4QSPhS_BfQs-370oeDlrgYmojr9gVVDiNVl_f5bbaQWB8-4kXpS9bAAOK9qcI/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="516.astro" tvg-name="CNBC " tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" ch-number="516",516 CNBC 
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViF3WIF6K0ISAW4qVR8LMXYTRHnGrR1m91_f4iy8IH_skmPydrJJeBPxk7Ntm1jCnxCJxFy9fzxM4mIHyXjeTCwjS8v6FA_AfetH0Plslx6hqTmZ7QMsDbiGQRmbZ1n-1QE9R3O90PoE8lr-hv1l8-aMeaOM02twi8YkfyETEmQAUQwB-q27AmU5szXvp2a5LzqbK4RplUKeJTYP_Nh4uNVMUb1XHIIkEGt1br7wfLu1eR4yXZiZgUEGQVuhM0O81OKAR3X2Pf2TF7ihF8IGNY-BDpd3VGtTpisNqpQBcfsNDPfIkT4hS0Up4b2e2jeJegmhjNgA3ft2TEGRzpFGOcPs/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="517.astro" tvg-name="BLOOMBERG  TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png" ch-number="517",517 BLOOMBERG  TV
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViBqnmt7grEN4aBUAxIP_Z1z2LXHGWp9S_lMwLzebbPQCNIThKy0m_erCZscCUnMuV-vx21NKFnN4-ktrNTUoY2FEgEMTC4YFXfvhxQf4KGuy1H7acDYnEfpc0nLZxZZnKHyXa7lTA2plnD8xWKYjgVO-_P2pOBNnlw4G_6kmTzM-n2JbcyRexn_3NOArDsu-RgEQ9CEPzIVIkEdHBrHwrUizSzlq2SgjfRQTvTpaLfmC9NOd-GukdytFMzIe1lekI2WXlxcAOYGwl1QtRI2BgV9qnn0eAgb4VsxrmeWWm8UJT047LpPAJU9rMBtsY2lTnDPmNy2aBprFZU35Jvgoysg/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="518.astro" tvg-name="ABC AUSTRALIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png" ch-number="518",518 ABC AUSTRALIA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKwQdhcUCItS8u7qY61L3sp7fZ8GPdgDJEoXQnPHiXqDV19clbN5A9TKDwcVJ2YR7Y4CPPzdMwK5B_YNBrvkGWqSmenbZbM193onuq3VWo_kcgDk7qyH2dWvXxa_fQBpKfmjC1Ls3dmoLfizrrquGgUxlv6WDtV6KJMdYa_l867tGCPLYS75rOV5knA4qXSj8B7RzH1aUrup73sJrNQjeE1ZoxSilnCPZXKlWOZnG_ners22BJUYdVoIfFDDqIfx2p_sBPE2-ckONrxNHwMZc75xjzLtEwvFkXH6PKw70JBgcGzvuyV2vhRsE56yLoZ57sHvXpC5mwfm92rSFbTcc7U/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="521.astro" tvg-name="DW" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png" ch-number="521",521 DW
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViIQna8pe5pwjRB089LgTeCF5bxE12b5R3L1Gtop6Q6nqC1Aqq-t_2dyJo3jU6SE5R0A8a3lIUcCoGVeIMk9eBu1ovOthXq87ovfI4Rlrz_a6-qpXORpPsnWpYf_cRT9C21NbXSmKhZlM0umdVZ-a4n_1uHNqK2xBlbNd-qDQR9qrRYvUwZ7aohpQ1YolFVt10O149LoJV_7kMNmU-O135V1i_s_cRlAoi-HVAigChgZmKHfXlMevQJSzuZquWjfdetv9g2gtcFQGz754dJaI29C_2du65MEQwFxTIyJvXjOe1Pf5xBLXQwGU5Qok8foG8arACTyhG--NEkHgXhpfg88/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="522.astro" tvg-name="FRANCE24" tvg-logo="http://linear-poster.astro.com.my/prod/logo/France24_v1.png" ch-number="522",522 FRANCE24
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDktie44EvxkNw4bDT0GvurTQKXFm5_U3D8BDHFHos6JDtRqvSL5N7_INkx3-egcHrK_Hz1z6uk9ljrbgK5L02HLQVsWz_WLIrJjRt5px1ojaw8h0GHfZpXRhyt1nxA0z5IJLy9quKJv-ESymyV5vSMANjhm9fJWYwMmKYo3QVWrlOrY8dV0e1BFDLSb6lEPZUby3NlnsjHOYIn64d_vjvsO5-DFuGiDt27RfA-QTckTzD-2JeiJ51zhgRLBaPPzbUie2lj82psA8JFZAOloCY9ZieR5nKbkwFaG6splh6ni34hmfnLWLr8aqo6Pd3RsaM5oKHTLLurxz2ZTVs_8A9s/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="549.astro" tvg-name="Love Nature 4K" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png" ch-number="549",549 Love Nature 4K
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViBFdGKSMJMTzoHsQ2QoVFUr4wHwK3Fv2XqkJFw-rE9pss-7aJwlLD-aEL1SnouKTtHJoWZzF1IsX-tENz03KgcdotG4njjyXX_r5fpkCEoRxK48qkCxcxAhX34XlqSU01xzN6s2pZwBQQILBIKEcxdeSMLfALsrvCAid_sE-SUJHlBjyg0F7rgVMK929cJyvNQcvwYWfk82vWSne4raQO5Y4qHqX0IRgwfBP3X3t-mmKtFN2R7hIEz4sIFL1zvySXf8AsHd7l_8NIy0R7UAqcmzSOve3NRQevs0FGJFrQUPF3cqnyXBhK-Yqpifh8hh6_pol62mMzT-s8rX1_WeL8PA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="550.astro" tvg-name="Love Nature" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" ch-number="550",550 Love Nature
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViNYNELaI8cypZb81TGfEktSI0wZcWPR76W12eqvHDYbl06JlNmMve2eZyT-N1m8KQGJe-GC4dzGy0cM90gQOmYeOVM2-KdlOP117ZHGenBss3H7RBp2owjJNnqPyvcgvw8e1JYloknE8BUxEU89vf8gJNDIBrQm6vYqc-pZAe11CyAThqkWF7kGxUTDAmNI4e7CjCU_cEXF4wwL1Sri-G1KTrj_tepNOLo3TCZiHQYxiRyXoLmQUTgcLhTwTOsI-s3Qm_8KYOjXtpzmJxg2G6Av205KL7GclL0AmZ0wrdP0R32xlLfqZfOuuL5cW8fWMpUjnFU6nx5lni2-a3RAw-I8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="551.astro" tvg-name="Global Trekker" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" ch-number="551",551 Global Trekker
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViIobXjiuFOLECfoF5CxjJ0S4LMY_X8FnBS3zzgehOPKJb7T6T_t15n4tHrDlJ5A8zN3mAgHzI-R40DeLdmEAznGj7fK6WlETFBQIilFsUieCflRhzws2xn1re3ODato77Rc19D_6wUmSgxZU4hYBt-lVIET2wqp2ch7EmrVBKhoclGzT2RqOLthxk4w1RDTF3O9Qm_09sHIW3u3xeNs78g2d4801bfjd6WkJPYmV8Ug7RxEbsgKBYKZaR6c92YW8ZB-HSHsVwB5ZEjUW4ePyVEH8Kjg2rlHfOCoWJahPTDLTuMm1fNtqmAn9RzeJBtvuZvYuygyvwxiTJ4pC2_fT4ns/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="552.astro" tvg-name="DISCOVERY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" ch-number="552",552 DISCOVERY
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFSrXZ1WdfrqrG0yB8cRRT-SsyKM_QVe24dz4SZEyxm14-SdufP7LtNu_gssvg4uWE5V_hmHaET2CuoNv8FJLI5a9UxvXwkdj4sYE-m1NpybPLYfrckvHsLN6-AmnPKRPcWwbtrrN1TfxNXol1oTUf_67DpDYU2STNX0rINLVKYrBaVOP8S8D0I2WL0Q_iCzTH-974KzZl7et58sOAG_pH9MTRlnJC3Pcfv4hNaEZFvEIY6wD2tkF4G8zExEfQjhGJDRQHX7oI5G_ifYmgvq46sv1gd0JcDHZMo6RPP0t9q7ZZeSkJp5_h_bq3jFvbl3yjAPPsBP9IZKbXfJ7Mm-b3E/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="553.astro" tvg-name="DISCOVERY ASIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" ch-number="553",553 DISCOVERY ASIA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViBQgupTfY08G3fPFJT0fnDLZXayb-TZZl0uLZ2gsrlCnihqFP5Xhm_6lHYagKMt3-c_oQZN036N76TumJ67PhMUOiP_Eax2vRYdc2cfWYAtqpayNInJSYI0trMGerptXpTXh1c7azEWIwuZVVrISMf4fUxX7LT-h2RxTJEFyrowS0A17pAxze-wS2gPLd-wGWYv07nke_M_lawh-JrE_vwjIDDToMpWZL2MmQ-c-2tRxyvoF72m3CRWVyb2BU4eXVHl2eXJkU5PcZzaGJu4ZV0cCdIJlPS2d9Fvtmc2rqHskJ1GCNtzOG8bEUlTzBU3OtuUyBq3oZ4iIFAhhVAYm4s4/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="554.astro" tvg-name="BBC Earth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" ch-number="554",554 BBC Earth
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViHrkqvuHOZIQSJLOxpNASwFcI5DcaijKlSRmbbA6Y2qw8B_obdmVsCwqcA-9Rukzh5_NRGPWRcDH25g-nQPMELGqT4Axk86JFkWj5vL7ZI_qL-UhLJAiFNwfK3X9Qoy0IUXqZhVR1PzCrV35bWMrGJY4D45V3pryySIotbcyLCxJcsKmh-W12m3Ua732VLSQRjvKWyViB7c49gATih_s562zSnfqcv_YSkKokHmA7Ipe2LywdLn7lB8itipqSr8LPB3Z9dM89PEDMa-VTR2lExT6hO-U3q8c7Cbcsi0aRXWOs_K19p3cSBCmLcL97pT7lraoFfIWtBbpZwYMPdPLj3k/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="555.astro" tvg-name="HISTORY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" ch-number="555",555 HISTORY
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViA8rt8Ax1KhFQPEKVzTNvHiZGQcJXfQF_VNrtQM-zHYVBPYPhGZNcmU3DTH5sfS-PaWZAmePtI4-BYE2ROmXCKsoji2k9G6JRO8dGMJMUu5lUc6Mpxcgyec_1rmpq4ATCJ1ODac0yXowkxANnC_CvnC9amLkGoevS4W1hzfnieCAd2pC5-EkjHcFdq0dDRxsSq12XY1BV7ZA7flqnlTPlN3yD4-3EtZRCaaYIeWgoHMmRmwtR7uQlRfI9e1BV7s3TNACuvl0OX9L8QMEMZJSZXKWtRAV9JNHpBVBWVZSUcCcIQ88fTkM9UzWVq7FetcitM0iIL7aEhBlAk8FOAzyVqI/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="556.astro" tvg-name="ANIMAL PLANET" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" ch-number="556",556 ANIMAL PLANET
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPdDRqlVMLdb6X-g_Qv7OYBAQcLUSS3otDTv5yuoUJHTW_VoKRUmE6_lzkWJK940rRYfwPeweAFnpg6SsFP79FdxMD6ZUg2AeNNxLst74fY6mLSlAukcVVcFMd6Mi6sniZFLDJnjsKmBnWj5knOTL0BxTVrIPXRvEWMPwVTiWr_v3coNbMQ2hFB4lvK7jGOfAqWI_eBjk9PDosT-Ex93HwKBaImojWsE9RwjDW-oBFrcdfRhyncS1poGSGsr6mR5cEynwZJzrRUVo1huAx5jkEucWR6WrcruKhvrsxIP7RFZt5j0vGEPAsbLUSh6Ua0PA8FBq_T0pFX36YhS6oiFWKM/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="603.astro" tvg-name="TUTOR TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" ch-number="603",603 TUTOR TV
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJ_si8Yaq8wSj_1fgqvim-PuyjZuZxPpNl4GvT0FmV62-wFvR6N6CEK9y7s7sEtfASAeWZfaZsasvryoTIQljpznVlTu78k8pEaMUcWgtg_x65BX5PKDW5Au-f0sIaloCyZ1743S85iJOlCDH5fbzIfdJdfMqEex5QNUhw0tux7sGjVaZhK_67BC5VmWgPtjpiZJ79FbRMdsLODKTSQzFPF0HrU_tZAVWyeCyE6KMeGNwOYlwFK7IclBFp6gRlCup-Bo2KsXs3RYOI1xFEIg7Jr4e0VyeHOSPHQ4LkyTDEiTx3eiEqmOdwP5ljZiSB31xalIpCBbl1dzXEMk3OO0aLg/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="611.astro" tvg-name="CERIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" ch-number="611",611 CERIA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViOypdUeUDlRPbvsTqEK_mkBZCw1M4G97KI-8y1rUXXniiYDytzTKo_BVTpF7iBxvKWr9PM2PpCYsrueMdI85lbsuX_JVA_Wgh4hSlv81WaXN0vH70nbJMfejtFlKipyKIxtQcFdm_uEDxarY_8khSMn1Zg23ro3gHuhUx5_6No0kV7KO-MHiP5os80_wpyDNawgDX1fwBJBWFfJeRHntKobvTOtdYmjRft7HNIGAmUfCfEd3bLsqs_7fy__S4IvzZLXbc7OTbBQYnj0wKFA34N6isXFzpKC2F1fKK5dDmoNQboR5W-Tfr6zgWJ4cRtcagYqgQeVoO-B_5RdZpLfCjig/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="612.astro" tvg-name="DreamWorks" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" ch-number="612",612 DreamWorks
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJXwsY2jOF5_3f9seH9BbcqSUHNpYkfQaucOtIc2xe0RilyeMQznpwv3S2bxnx37UCJRhIcQ4y8zvbTyePwc1d27rc9nQCOOvY2to4xR9BgmblKAqX93IvMqQhCegqDis7JWMAtAuXI8Y7-0jRZij-DzifZj3-SE19EEetkBWL4bzmLKWVG0pjmWEZksBduUJaW8Eg02RAzZz54ANrZqKhAw5n_sZc5KWI4kGsHf1waHDozbSMkJ_Z0KV85xRzjbWpBinvlAaWh7gGDSMki8_bMyuaiygdNECFpclMGBvpjkUm-6kjRH9-O5gjEiExIqRwp25uE4gSJ1oakoTBP3f9c/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="615.astro" tvg-name="CARTOON NTWK" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" ch-number="615",615 CARTOON NTWK
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViEfZlxPQ8Yt-0yN_4ZVLFldy-Z3FQv7jMBeuZ_z6hiBIqWzUWIOHee7f_ZszPea0pAx4ZyNS3je5Qh_l8xJWWemS3JJkFWvfy6KuIGN2NtQvAet6K-rdm8aV_bM26gtFA3i2P2q8hlTiM_bQKFw5PWnja5yT50pgprNc17Gq20nv9eNwnc3TdDrymcQL5lw--XaC-Qu0uNbIupSRHBiSulKgUA60cNiGQNkod2PvGnIyRQtcNO-CqmsClu0ssXBPPjY_3ZZfcuC1MU4C3Shun6Z4ffa7U_gHXIMN66VTPMGT1VAtFSzH-gZdhA4fn3KHClkjsCJaHp9i7_Amq7PqTjs/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="616.astro" tvg-name="NICKELODEON" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" ch-number="616",616 NICKELODEON
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViC4QaWBUHfVZU6ePa0mYBoH6h19l7DgCsKE7hjzwsYeO0CNLZEaxa8XprClmhQM5PztZgBpMZNLwFENIRLUhO3owNcFbSB_wgRWPxLxdAXYy4djwtKdhGasymJJUmei5EkcnFIyRwJT-RPcK497sTIJJF-L7o94x6ALzaSf4aB1IOaT2e9kkh-M93yyfkQNK25mzxM5CoTICMIuiDyxw5LSdLVEBVrdLLuJXk5zlW6-JiyWn8CdPexOG50xrd-o7SP6a7pqgZmQt8yDXPTToetwdUYCOC0geDczGhHzILb2r5HHL3R-d7QgXOtNskT7tkTY9N4yuXWSS2Ot4RT9LN24/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="617.astro" tvg-name="NICK JR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png" ch-number="617",617 NICK JR
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViOkM3IT6plBfpjRqlCM2s-jsr82LNYKzTkUe7I1BP6GEzdRjNRor8ELBOgnwDgLxhQTVLLNct6m9DfhbwGEx9OydbRRf1MYP632bFcjK-6YeOj_6UFNzUdIZC1vlyThPqEjr3mtV_GAHO6SuhTmeJ3DJWCVkK0LZkEyhrQz9yqCtJMng8E2lx8f_GtTYSiwwefrg1NUgSt7UebNclUqShSVAFM7MP7uoAJ0naNgSfbzM4fFdIp9wPF60T2gwlpcyL6Np02JUZv-y62he5urNuBeiTk-QXsQA6rGi4S5PxxBwCeBTCuPtKdIl-vyl_UmRevlz4-z0X1-3UKJMi9dPgnc/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="618.astro" tvg-name="Moonbug Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" ch-number="618",618 Moonbug Kids
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViE2ORu1CyijKH443kNz79mc0uKY2ra_jHAm2SedCPKFgRdnjEbRipkZJF52tP1bi_p-P2JbcgN6RHzoylW9wtuKYwYVkKqd2v5U78FKALvEkRjf-dRNzikb4VXe5zVOwd4D98bWmx6Gk7eGnToo9whdRwnd3guE-nbZ6jMouhPD4BCuNmn0PZl5ICTwpzqCvsexuBbfmIfYAzdchqNrtZfbj7Ytv3EKBkJ2ZbtsS59xCH7ULNEmtBQgxcHgtiwdFcyMX8afed-6GwvClJfGVUrY4rmXxSwbVoKCdWT4UTfBNym6yNyLPIRjERwMUbD6cwYxyV7pWyCsjhuHAeqeU_zA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="620.astro" tvg-name="CBeebies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" ch-number="620",620 CBeebies
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPcXpZRjDFWx-ETBJNb_Bn_YehdduAREFmvBvGg6E4HIhmLC3oHVBHsMD9VzJI8V_kG67hzgLus8flTj4xKsR7e-zbuw8t-y45o0ytj5HtVINtk5aaxzblS6We2rxtZh6aukRDM9elT3UPbWez1mW4wzmZK0aYHCSUi8mWt-NKyodYwpdvly4pieiuI-rXHrvsDPGKXE4lOThQN0wDJV-ZTIAxcZQifBT67SA_4fwJeXGr4zEA7CUCWa8Kw8q_XvkJAjuz0Li4zh1t_tbdzcr5bfmJEoVEHQnGi4_WxMqQFlHg4SQoGo_NtsyXkfIAjKeCbAY6TuGpHfjrZo_ddmWOg/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="701.astro" tvg-name="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",701 AXN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViD2jlTJhFbYg-7-oPnGXJ6K2mSL1J9QhwDumbWJ9ry599BS_oFNAfO-iprfZElpgcagkqPtmdEucMwFeKVYkTHBXnP9Kr-x2d-POKiQ5LHu-uJqxrt5cJGwktBIdaof3cjYMnPa33yan59G6uL5aqE5bZUZR02yxW9-oot6YQEiwIRA8IL4zmpDys20wB6xclxk4llvjePy7ZBAyx3R2i83Bx9Mdr9g7xSqFpb-ppyz06TrfxqnzBFi0YpoZJ9GREFCMlzbL-DO4TpKN1-4QgMCMBLnGSZuL9RZxEy6CqJ4EQOmsts2e9kZwa_RgMKLaSGfKiUMn2cMtB4qQBlKwTdM/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="702.astro" tvg-name="HITS NOW" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" ch-number="702",702 HITS NOW
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFU1ZzzFoN-W9ZfiRFKFDUvdUL9GQj74cJocBwp138PYoznc5t4IqP_O33xs51sypSsYYGhPrgS9HZzAOHYLfRbFP-Ef3r7Hd1-VGw-ziQ1VO67tLFiFLiQjw-QkAC_AVbIIS8D7iV1dk3WNMks4oHYyeigZFanivCyVHvKHV_eoPd8AQtYBDcMkUKAO-gD_uL7dxObCss_RlC3QKQ_IcdnfNoClcOOFakrSF0WUzYD0eoCBlmQWkirX7myjwClfj_mjDc0-P1rSyQbCoiiMsKqX0shNJJfu0X1DNZqCzzb7Lh37L_jhpIbiw5Z6ULtWbmqnOc3C2PgnMUi_i-DFw7Q/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="703.astro" tvg-name="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" ch-number="703",703 Lifetime
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViE22mLRrQFk661LtEMlVY6-bjPixw3lxaxIVd2w9_BzjLD46zBDpSixEK8dVCxJN4HtcovtxMvdi0zfdDBIeQXJQyyUIqT7dsB3kxilhKfGbpJcHdSQwNnyfUV43VdX7ZZcpGzIRh5yCL7suiv-nWgWomoUdVqR9j8EU0SVcXTTVMCx6c0I8OPpK2lJ1xVH_ibbscfGTW_kLwKUARi6xYO0J4fDqkVT2rN4PEyEDzAKd2gJ75xya-QVYFU0jPsXvWtd-oEMpCteGcEg8YK1bsIce9D9V7TVdoXIAXu1xs0gf9jclDKHv1fD5eCuOyHttnPnFICWGCcuvRLCpRXZ2Q28/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="706.astro" tvg-name="HITS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" ch-number="706",706 HITS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPTlYepNj9NyvdNLGyNtB3aT9v-vM51UFQVtjgmGwadPZSLXbhLWnVOFY1zWYzSNyFiMXlCs95yUzXhUSeY_Jui_ZDiH25jXDLT-o1uNGhZesrNY_sduK5Hue7QsDygM7YH5XFJRuFweGblbuVHDAaWuQhaI51o188ACiWZeSzsAdyiP0nCaMjXfrtPuY7W0eooPAAGrKtbtLk4vdel-qAaYGNbLvlWH5VhKeoklhXjR4aF_IU3sHqF3L-HQTliFhM_Nmv1Sz4qqIg1oxbm_lf8cF0t5KWNatQEgV49ajEi4DYElmIuBx9PRUa2H_frLAOLMFxIVgygdeWAbTC_-b08/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="707.astro" tvg-name="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" ch-number="707",707 TLC
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJ_oJB9DzZwQW7gyLYrCpxX10KPcoIKDkb8NpZFsex9ySTyMwVMu6xRFtI6nUMQaROJN8j5diGqRt2nMuc_QpV41QWYPs1EiZbmIqxdZQ9TzRUumwFrH8cT8Cu-y0FbbHzAiaQnRjrbOKezP8qHAYjUSFFfbDghRvsvIDhBNDXR_A6Gdack7TJdL-kVwFAFjxv4RPmTDP6ADy7k_tYWNnQzbjP-U0lSotEEPYJKyFCDjSr9DHCjxT3NROXMbsiDwnBlK4La1Cgo0HZtlunsicSPI7TItqIMw-sZ3iSLIWZSKPbw9wM3f0ixRxjHppexUpqiFW6TNkr8ExfienE2aRgo/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="708.astro" tvg-name="FOOD NTWK" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" ch-number="708",708 FOOD NTWK
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViBJzx2Z-WKeIsl1klN28US0lFA7uikxuagWksjSdl5kRDSyObqLw_D9EQL2i2BWLYUErcuexKPQCPRpGnGKtAoZayz7SFN-Ytg5io7Jw5fHnAIulO8S3m21F8t8pLqiID7P9nohflB5MlTMd0Mcid9gOKmvQ0TmEogiOTAmQTJn7Bc_2PzNCb3_tMkitx_4cV_Ay1i78OW66R1HdKo4sHNVR82xfyozMppi1CVS2s7A0dOy1x7qOYoLkvdDAnAP-P7Q-WSdyHkpBr3YvuOJ_fqtY7ewgvpK9INDEk-u5u6bAztxbJwd9UkeAkIdrCO1WVRIASk_0sqH90ZK8x__Fbno/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="709.astro" tvg-name="AFN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" ch-number="709",709 AFN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViCRUEPkKWsvu9oJQVNvzfyYdPQ_BFGdCyQQ2_7umg1l9Etu7lZy_qrRkBFxUg2cf0ozyqT12IK9reAzQO2a4Ed72cv6C_VofwMt8qIyXoShVlCkceTKL8P2uRKpf083IjM7AcnJ4-zm7rgWcf10JmtzIgODX6Y76tCg251m8BIMXnCxK-HeXg0bzXBJoDCf2aGtv8E9M2LV8nLHXG19lopOM0v83Zh63i9x3yKFyQOYVe-oe9nL4SZQxs62779eNDvmr0WJ9HhDHx-NGs1Uni39rO0ShGTQY66ykmX5O_CLriuhTcXEcRN6F9evAaUUPdCB_376l6E2Y4lFW9oxjsIY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="712.astro" tvg-name="WARNER TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="712",712 WARNER TV
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJAJR4mTzn28gjlGVyPiQiO_K3k4D4Gn8yFGslASKGLKkiOm2leqUJI30mdIh4_RnIu0b6XORJus7FJMOBJU9F3v-zhPQX8W8iw0MNQU50O2Dq2rRI_4YRtu0RQ9zdk_VXbTPzlsQ8YJCEpSQ-tcJ-pGUxsq-_0Owi8V38_Mfqy4E-aQsgVaUx7f0YWpSy02eJTR2tEIXp_eDYIoPLRRBuZiRN5GojN87PI37hUAe5ckSmb8Od2V-3nj1qq39vr8nIcL4fxcNxSwpC_ATV97t8vOhNowWm4waJoKZDlgV-2PUfPV7V4UbXcFctDf2bh-u1XtiB1bRTCY-knMMds0gSY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="713.astro" tvg-name="Paramount" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" ch-number="713",713 Paramount
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKD30RkRxLWUOcBCUeJJ_SKfO9vFyjyTjZ8J3XwASsVyPOU85uys2OszYpW018DOK7suth8pW_JH9nZ6Zp71R0VgKfmwjmzlhAcw0FhMkGZGdsKUb2DAq3kAxshp4J_Ky_51I_ao2QpaB579LbkMNcyLZhhPO_nqz3GCUmPuccP-2jphblIWiDcrhvqlA9HoKRQpw3uNCt-CLE4cVteF8GAfQOG202TtOgRVQSJ_-50BNSewkuTXYadP-zOSZaGRpojV1Rdt3vL_s2Wtg5neB2igyLUbMkoRVIBuQNRAwbx7XqL9Sx3VG0Ppb3mOocA3F92hJkkay9PV0Ws0_6rJNR0/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="714.astro" tvg-name="CI " tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" ch-number="714",714 CI 
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViErFznLGNLAkmXdZhApEQ1KuT-HvmbsbvTI3GKa02yv-ALif5V6L-2_Cwem_--xfjkZ0aJwwH-4WBUYAA0iLBnDt6HJXY_fvxCSbdiGPImnuWopoYTx_42SbgGwj0awD41XmEObHoSLy-r-vrOr-wtUnyviLTP3OgpCB4YsdUWd8oZUin1CqdrSAgFW-Kx0itg0CM3FPW11_RZ10lHGa-XVKZPjAElGjJNbD20m4t8AyPfeHMhcF2aw06BxRksSLfyEe5aMrxdSN3rTfS2d9_W8uwYxK3R1FLY1klQ1-TszfbRD_MP1LSOawW6khPlqfy82hFxBlO9WIy09KtW4-T-k/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="715.astro" tvg-name="HGTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" ch-number="715",715 HGTV
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViLa-CuKnzpew_jnB_Fv5dZ_FZDFB9SDwpQsYWZm0YzMDZczbR7Hw1b97YQWoBfBf48prsjwnXN2hYZsE6wZcZ_o189-OpW9gv3dRMBbNSgsT6SrxsWZpcdIqfWkC5DL72KitYB-2WD64cP-_ABe1HvVYEdfC6FDl_QpnH0kDzdf5Kz0K2O4gPAc9A4ohjtE-PUPyPpbZh1Rq35EmZheGYq0oGYlSneOxvqKowFZgmxbp-DIgTD3HNLnNO34cnWtt3jAQmKZxYHZhqZNsh_mD49gkuh5ld1rKQhivPMw_Pc_RsY9a6vrPnZmG7a8pb73o0UvzGAGjYgR3lF9CnF4hhkw/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="716.astro" tvg-name="DMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" ch-number="716",716 DMAX
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViAg8366v_7YMTjM30UiKrxjO5fBMeiO7bHg3AHs0dGKEdRaErtcSrrm143ZwaOFsobuuS5cz2Ka56I1PynQFQGm2tmY4wrcdFk4G34hntFMzxmvpsttSBK3X1HaV_Z10WxL8Ir53Z9c5PPvxONahl2oAO0Xf3Gel-zEW-VUqzVJCpiPKHMcpeMhL58Vbxu6OzS2x3tDTWUFJL2By2cMGyRGHjbVEYdgYk0Nt4HAh5CcqZDx5ODjT3pFJvqRgO-SY4DdKcRtGcAv0sWX4x6AP6s0vxnTy1Q1gNnrLdqswv4dgsDgCfioBub31JwMP-_V9G5cZ0gVoXSm0ztrmXlcre_s/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="717.astro" tvg-name="BBC Lifestyle" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" ch-number="717",717 BBC Lifestyle
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViL76f-hoxPL1BDBhGlWkIV03eOFtQG2cGerkv7ZXvKviQ6BEnLrHlvtFasgVT4aJXWl-clUuWrKZSnYTHrvwAs5d6jJ-605w3q3w64ALNSrFxikzlvrCmAEsRx5DzzC9vBJk-on-ewrK0eFG5wKbDQKu9WOhilHUmrajPtE7Z0prp84lFtcxlbzFYGx_RIhYivnk9sGFvr3sbMe7B5ibB4VjxSzrWOWQKpQI6JHDr1UWzuzoGktWqxPYelAddyn3-TSLSQCQ4ToQlGMOMwkY88dYX-xzsWtVumTZn7-boF5bLNCPAgMCObi88DH4_clg1RzHzCNqeZCtxuRsmQEgP9g/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="718.astro" tvg-name="MTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_Live.png" ch-number="718",718 MTV
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKq0OoDUej8xl-4DVhZ2zh7zIRsqQwP_bhVE887pmz17joPWcbfKzQREh8rZjNHo136Da2YcoLcdhUYBV6FxqJEx6vEWMRTgWCkY3ZsxgNH7oFeMQMAduhlOkX5xmfhirsjRiVZvlN-_9k_Y2xEix4GVAn6brlTtt3bIlbJFYeS8Gprqm8m6fAivYUn-KprYg58fptKyQDFtJzZHHX93GiuhFS8_XmSTXL2C6tczi279b1VPgd1KgZl90UmGrMIn6GqGvJfZgVhqC2hLXnPrgX1aT_B5kKC5BFS1gsl9dSSnUz4dpYrCEznqBz65Gjr3nqlH6XUIoXtBsD28UPYVc70/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="801.astro" tvg-name="ARENA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" ch-number="801",801 ARENA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViIx0m-rdWncJzTqrUlorcyzqSx0AT5LgYqHOXcbxoblWTNLavjkSRiSXf1QJN_TKpx5V1X0iKXteCycRTgfyxtVZTSIuIAxNFbV67DZqW8hvnMNMYzNBUspB8_Lveig9624yw-OsHrZTbuphpXXVukMg0p8QE9Su-iHDC9sq46BU_E1L4p_oeA-3ygzaea9bqIYZZBuz7feIwi2bjsTComteyL57IgGyBkzLDJ2Nqk_AP2IUsYbO1VLgg9iBnE5LNxwxc9EKav3QsxVUtvFsxKJSOo4uqKgkxkSaJQ40CaWR/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="802.astro" tvg-name="ARENA 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" ch-number="802",802 ARENA 2
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDRXeibIT1S1vo-BEtyf6CaE5QrHpKwTYkNiSrXYm_45o32cz2Npx8W0coXmZsk1daCAY-8cnfPxf9Xhlc8Mrbx6LtHA7Utqo2GE9UJB3TFTk60BsR4N86RRwmCTJOPQlsp_L5BmABjyekgI0r3u4ZAYA6GLbkxEfonfzB2LsHRXX_EuD1u7E98EPn4d8oNYgB34R46w4KeZAEFJiWwDw34qePEtG331S_zLAIbRCcvbgsKydX1C2Kic8a-MyodE1a6s951IOGY-teTGNAtVq7jqNEareEK7TnhbHU9z-sQU/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" ch-number="803",803 ARENA BOLA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViN0h70-ZhjOcNRwlFPLic3EWbtqRe3ATTKJBRzdWu2R1uHCKyXL-1rZdoeBjVT9ZYm8hKqDtWN2omXbCCX-pfbYZkpDjGr_QK5sUNSGjrpUtSrSqeZjULQulA1kFtF35oK-KfjsLFFeHV8j6oO5CYRKgP7tS7xS9guzgGq1FxX5LTIq_gjaeGzf4_oSACN0oAMfB7PwE3SqvxSGdX8xmY6Rtc8R5kSpcRrlvlsSYSzZLNAcgv75nsGfcgrXdpFejuTLJ0O84LUxbPN2nRaY0Z_KVHMfABUpynhi66Fh_aWem/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" ch-number="804",804 ARENA BOLA 2
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKWMgPvjBPuQo984uT_RHEJ-dwGx91ZkHel5pGmdlGBY5Vvo7z-Vs0xOBR93JWToxqqGf7yGVraa-VlLtuzmzRyZ23iKter_KuGo4Wj_w7xHkHQE6beKrv9I8pzWDGm8b1yMp82biuANaxGOuNnxuQEFYgTWBCFb4uv7gv0bW341uT07I6KaaPj8Dq9ZCuUF88zocTzkHs8VBxW8Adr3ux5svBVurlodZBwbegy-FaUCTKyWo-MwYEuj9DBkbiGvfSZVs89PpEU8IovI5mXfpvXikE4To20KwRcTfx6ONwMc1rQOSxaXtzLyzOONADBaVg/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="809.astro" tvg-name="Bein Sports 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BEIN4.png" ch-number="809",809 Bein Sports 4
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViIVd1N-WFJ3_V9YZ6Z0H6-uR9B8TjT-x2hPQOfyHSHy1Jh9p1uOTzxs_u1BU1HjyzN55RtHpQFXoKlY_mEru0jFl12-P2rWw1yidIv255uEQItlzJfCcxHByvxYXOxJZ0lSzgIp6qrO9d5MUZQUO5I46H44oN7g75k9QHniHP9eJCxvws2XIpM8P47Dmw84gww3EwwK-5PjxwicWQswJG-zFR_UIdtZ_omdLGDdXj_tGMgRh0lwcBqmxFZ6HjKn3lMs-mOMVTcAJJCGGJKlmCuUBk6r9jHUSh3NoSXYQPjSpG47JB-GNGYzNu201K4w-gC7lB-ZP3kByLU12BrGF4lk/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="810.astro" tvg-name="SPOTV2 " tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV2.png" ch-number="810",810 SPOTV2 
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViBpnHs7-UT-sva1K8gxcYLrN3aKiJfpPGQ-a8b_7pQYzqJUN7ZMvmBVQoox33II_62IJH4lDahnuRyWbWngovoYYfDf01RraMI5fj_V4IqDVqCZhlrlAiOZqRVEa44kRyUNIjQqCKsX0QfUJYifaNrxxHGIlhZ64eHmc09oPFTeghud2z65wNWZq6Ry0Z543csyvofC0UIG0EMoqei2dHKw16eaiQ5MyA_7PbUsx_WJ7DvxRr4yETVX8cPNwakNJk7qZ1xS10hrSWidgw1XZsV_anZvi-WXn2Hlr6GLatpTcMEAOJM7STdJsSB3tOD04HkXjJ19jsJLZ1N82hDeKSJ4/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="811.astro" tvg-name="ASSP HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" ch-number="811",811 ASSP HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJ9JcKK1hBTKYjlVaSUKjPpjrXIFpp-OYxHkxuydeSFkqEM2HQ3Lp5AmFWIxs1RnLdaeeesIrnLbV9QEb-nB6rrJDOCS01ronhSlmpGAcF4o74Cpe9e9vqrpqagr1FDNq2xZ_oAoOwxyJ9JjBHeAnRLDem0-Ujb_8l-0Ldr3RBBfyuts-lHDp-s-jeimuClFyitJfgj_NPgLzry7U5XlkJKk7zQsEK6wtwSTBV5fquJorQX4TV9pZuStGc0sboQX8vZbbMscdUxUlhC1BxPPg2PA4S1iJ8Gp8kKl74RaUXCO/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="812.astro" tvg-name="ASSP2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" ch-number="812",812 ASSP2 HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDeF_Pr_eJyTUKnFRztxPJPKL8fJKUPLE5q8QoHbWQbOHIXfV1gOZjcm6Q6cxQlK3dDNgN7KHpVDryX1KRzIm43QQNfJOQL-twrCEn4XxsSbV--OYBNvKqvlNztk14VZP3-8z0cw3i5E-NCOyLfo55BLbENxnPfDI9kHwYT34JgJkQbY0F2wAS4PBYz4l-qVSJUZ6jnfVQ85fW9zSDPL9T3j-11R4OUBNU8atdqlmXlOt3qUuUWoQZSqA2dVpmXXa6b_mRHeaO6h1b2LRe2kkWw15rJ8dN9STgIznQ59kBzb/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="813.astro" tvg-name="ASSP3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" ch-number="813",813 ASSP3 HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJdblyN3XdASlImMEXGsrfSKn7aOLT6-UvKOUbGPZ3jwFnJCgpSHySTbHfs6tfbCAQrkqj9HfaJa9Pq0FnsYJlcTItBuhKPRmax0nDpWL0QHc54hau_ljcrTEYOcJjS0Vnn5qgfOiAkMnC_2gtWBQ-Yt6rym2Pmbe6Sw0TDf1QRD60TUjJEE_l6sVXt3n-gXh9ZK2ErrOo0HObNSqTmRaGX1uka88CrdCiOmJp_qd1HP5CIpEN7FuLxx6vtZw2JNU99CYZNyCkk-vnF2WRYiyBQoyRGxtGpeA-fjgtfHGjQ0/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="814.astro" tvg-name="ASSP4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" ch-number="814",814 ASSP4
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViNyCOL2zGL8_LEFLbeYs2-_-xh8_dvcWkN9FrRkdMMCgAxc3-R56XyQ1NrYySnkAO6qZlsoOIWl_1s_QvY4-gXSJlD3Qsp-KXgxxrgTgWW0INdkD3PmYkhDXOnOnbN8p7bNQTbTHiE6ZaId8eHOlshkJ9BxgGStTSkc3LzqiqjMgTcKynJlSGd4jw40gZbcby_Nl9wx4aUjrPoF1siilpnzBun4l5XEx1m01fTJPZj1Ir_FYogsJUfd02NmjsREd7lkRnlN6gT-DhMSwbLc3A0Z8W-o-rFwD8KOr8V-zfXd1/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="815.astro" tvg-name="W-Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png" ch-number="815",815 W-Sport
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViE58w1btYN7JStEGTX8ytuzIJ-h0CzUFnr25eQov-__bv1cG_nAf9pmuZISpZCv0LW_uIqG4aTHqxxvDnmuLnHR3qs6s9pYoTzBOlH7ZyzE0nViRXIfR7QVi5eYxpibmNiAF2DEMAFfjrCzeA1euHdth-ESOwj2NDYaWynlhAeRUXnKt-qJjou0GlxR7Id_VRdPKcVXmhtp2477jw-KBWNcRys6hPNSTqK5Zq8tXQWmlCI73_gbgcZZN2Jfdkf3c0GsvHzQSickpjFu43kpB5T8b0UhD2MUr7rVKZcimWo1jDAS7A6u_7LFAgLz2SWWPt8rzbLYiAdxEOkACjenCGyI/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="816.astro" tvg-name="SPOTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" ch-number="816",816 SPOTV
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKghoZj_wgcl7FpdvU3o6JiXjPkD_HtUlaHZNSELRb_7hW09V6_Yuq9GgLTXF1WOeDQmdtc5gTOwtf5XuJHvmH0c9fwjNVt8-HijLzTw31brLnKDV3wedwsaWYlF0CHU1xjQdY8NX2zwL0VType17xQFGuS85KbP0-QudZKIe9kLkeUB7BBGnBF4jNyyuIhOiFALkxgF7Y8_N_SBWn7___K0A9w2oXc-4xswUieJXleekKRqUrvq-vStnDQB6OoPPFaOPFtdD8aWOj8teLPRJtNmqJp5DTaXQoQfyDVKhbMcpF2dT5MaYTdnaxZgUdjoTKauIRl2hM7_hSLdf4O-l_Q/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="817.astro" tvg-name=" beIN SPORTS 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" ch-number="817",817  beIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViOnXJwyuVGo5L60jwJfsuhphIY5R8H8wkciS3EQ_0i9jFkJagFGTeEhN5vT1dGE5PBjbbEHBlet7W8s66pRIvCqY94rjUHh4F2lL5BtbT59B_ezd41fBrt2tNEQTsru7pzuh7xTXVXkEm7_sfrxJEkHM9NzuZxoIfCvK_J0ZPoKpqdAsjyy8c187I8nMLBNTN6TKvPPFd9g7pQN55gamOtvR7Hgj1ZoQuQF21QC9xRtlCi-3fmKywIO-3IMaCjEwm0hoPEfvE6vZiGAAwtcr9cL5glbyXttTiXeEta0SfgAUn_-9Qv-FLkE5abzCnjBkSVHyHRoGMZBvypebKeoyy6I/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="818.astro" tvg-name="beIN SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" ch-number="818",818 beIN SPORTS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViAPQbYOevROupE13xD8aK8FwaFDsCdbvywYZS1r9iaF1m2oorfUOYG_sp28aHzadM048nDl4sggXDJd6z-1n9FHD7L6Ffyc0zG7xbC5HTttP00Vb2crkYJetE2KHmcGRZgW4r-BJ7o3a8zEY06E1RsIJlxoLSB-7Ojhph1OvvG9ClYd8EuW-mL7Q2MAiRZMiAHpj198KQVS3vSHHRcYA5u-hh44NSa01ktMhZzSPZZw8MJm_NSv7re1xjXKFTiK4rKFWa0ZyanD_eZVFYgXgRLypPKTpdfPjcdDGoF9o4Y-qyyOQJWwgwe65Tzz7IutswnnJOEaLhrDdCPaaMYeMJW8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="819.astro" tvg-name="bEIN SPORTS 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" ch-number="819",819 bEIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViMGIeruYqhAaYiu2r4x6A7ZozRgYP2qt4IWOfykB311R_77b0Z53Ji-INt3cyx83sVz2BJCICRrrVoQUGUz-DkR9mYdfzw5qepFKLoIqKaDhIuK5p-rtWySkW2VG-TLh6JUzWEqZ4Ffzwby8DHoaqsQ6JS1lhce_C9T7K6PRr4iKqzuSHRrI_8Jsc9wuHTjCflS2-ykQARuiHjIGHPAvlgQtNMp1G-hsRYuzshT2FULTNq-QF6H3l89vRj-KDeplZ2WM--iO8V9FPUTfvzW0SNKkRZbh3A-RSdtAZHvZp56VGvpG1O6UQK1-muiAT97_Fm6EyrdHgSGvK0BJBo3O6qs/hehe.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="820.astro" tvg-name="EUROSPORT" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" ch-number="820",820 EUROSPORT
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViGtkAbkWKY4rzetDDINH-iL0vzHTKx4LcpV-2aB76p4VzHdlH0lcIvRmZEkeSOFVWJ5fAKXGILjJGZc_X7BYtIk6vPReFtj47D72HCdrLSLHQFpDRREJATH_PVuVYPwurL0bO6CGd8ec5rXJvB3jAU8_s_r5Hj9BGAJ1R27g30vjZCLO4OJGxjh5RA7r76HpgY55kzE5VSL_ckY_o_hl_ljjTAtk2NnTIyePzpR8UtdI7wECozmMH5NPeoA-qiXxEBCP-AzRjHtPRjL63BlCKeLqJRVuqyMpFA44VDFMiRfv5EaBv8enqviAVcX9MWJkJOQL9mpZKBnBUCXkNME2ul8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="821.astro" tvg-name="WWE NETWORK" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" ch-number="821",821 WWE NETWORK
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViBCB33TZohnII1XxAswahFGFqtkC454b91lbXRKE5P3lHvr5rBvdUHADhFVuxAhWUQKIavNuZSDLx05-xWWJuv8p0rs4XPi2H_m-W3arSc8PR92qD5Dxeh-Bh9yTUm0gGKy2kbvgCxrGxAPvAnH4PbnIHMLugf4gpVtobASMbndtltQ9ynGehsRiGdBsSgc1N3Dghx5XuYfBvaI5cC7qPd07Kh9v13YD2PpXA48dg6WACnRbAD2GVw2V9EhHRaEtAV6n4wKPQpZUmisi3m_oX6QxmHdXrfe19V2NQv7tnxvI3PIJGnMzyQOD9-SsZxHATtdrrTF3DgZEjWtRIkBAZzo/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="822.astro" tvg-name="GOLF CHANNEL HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" ch-number="822",822 GOLF CHANNEL HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViNOx8aLTBXv_3T-gM5MbahdgpBU0QyHCrvTqEd5r3vv1svwXf764cHrPf-LrnzDJx9QfAbmwmWsQ8xezrAiHawyT-Eobr8mV3Y1La0FW3UETc8KeF-sV5Vgay4lqbfAcTHOqKXMATNJcpKs40S5FQ4S372AVyPoMArULY9N7fCvtKZjMvXsgCsC70FWHrnNuNwW97D6CDESmVOeRIAAXMp3pttpkFOTde-z-YP5WtJ54KbL2S2xfF21HejT_Fe8rps0n2IM3y8BgytyH1kS6UyWx5smLTIU-YHROoqJFlARW/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="823.astro" tvg-name="Premier Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" ch-number="823",823 Premier Sports
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViNsM2w0wzK7do7w97ancoP8Cy3phRxKqp9Vt0Te1b_nKFFCy1oyz54GX7IKpMW2S8KDbuMbwW_u-ZvU4QhUcQ85h1LJkkWUSfCAjNJjAPiLo_txRukOg80Ut39K41bWjt-XVZCZWbPEbKk6pIEVdbG0XvojUbORZhW7qFvk3yy5ZIkfyJQBBmMuVEXj8Mf-1Ty2o860X0IO2THLc1IyaCkgtfvsIsrlKg-d8UbTy3HHxXEMQnC-Ve9oD2xSzGBmcR59J-zDPHfCb2GHzUHVlSO_X-c6-Igx7AjNcTIg5twyIJh4yAqN9bLQjjDwm44wWBNawGSni4sqQ9CU0824cB-c/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="824.astro" tvg-name="ASTRO CRICKET" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Cricket_2024.png" ch-number="824",824 ASTRO CRICKET
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViId3DYCl8pJRpWu8OWpOH_iPVPWg45iYaHp19bNELCdcR_ZDFNqWJI_eTB2CvXeHh1imaCg0vV3sIC8Cj9Vxh70dirUk7WwtVqrEpaLa1OxzXonl-4NxuMm9Uzj91E6Ldx-1lawgWq79ZKNeSNQPVWqhtqUWGciLy53IPDsb047HaImdUfA_5wHfBY6rQinGQYcUjdcj9tagUYeaAR9-3kh8krIYR0bXttyl29Bt9I0Ra2RLhESK2qEyyncnt3PQhctKtZw_k9FjKKkPrRZ3TNouhTKMh_6-3LJy6vEAPkzl/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="852.astro" tvg-name="HITZ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hitz_v1.png" ch-number="852",852 HITZ
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViMC0HCeoNEDZDNTqsnbK-ab-piFNIRDkfsT9qzN-OZQ8ECGh_q8jx1-OWMygPifSAEQxHxCnFepf8VleWlS9K2n9QJL7iGOZV3McHGsYHpAo0rmkXCkfBhTP5eYK86qG0h3KiVsz804FFrCX4t9fi3PryIZ12XHimkr9OXft3kLH6yywfNG8B4twTlwQWm-wWC-9Ar6uYHjmS5ZbFjgK-W-BaT0rsyPxK3U9DywvgG7GV1SvtoGUVSSZNDD1ctLdbR2w8DIBBQViYlO7V0zy1row8OgOoQsz6zmMsgGFXmZWJdw1QqhbhhqaQvcNuNPSwkGahYCUL9ty1vHRMt0VuEM/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="853.astro" tvg-name="MY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MY_v1.png" ch-number="853",853 MY
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFSwW7V-dwatrSB6sEbfHPup-WWVNRve1b08A_82NxLC-MXX5eS-nhVuG9vK-JO0fUrqW-UzNRwRpLDSSJnYMSGbfInyXl-HEcNVVRooMXYBEtk3aDgShHJT5Ad0d9IPt0zlkfUunF5aIQFHXmJGdJB3NqQBUTobcnulkr36dcTCUfRvjFgVz4nSn6i6SrWm84iPAWb38gBIgTfudo3_TzfUrYzjZzMEycRVf90NE_KKIbL0KbR21QEYk-G-J7Vx-I_-VtAR7e1LkRq1PW8JjaCmsUD8M2fIn3tQDA4tfbHUChCZzZUt2TsjCZh4N9gzRElszz1IiCfWpyyG3qWXnyY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="854.astro" tvg-name="LITE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lite_v1.png" ch-number="854",854 LITE
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKr1_YUz_FVuDQbdRSxjeMsHRLpQdcNn3BldmDUOheAmnX4SpAe7Arn3bHQ4O1jPMr4mhoSbU_h3GKvAGvzeHUnhc4lC5hiorFCZH9lFl_TFNWYKGpafK1d6QMltNE4C9Y79OAI2jII9qSNiRXGCGCBYLhKmH9MHRMtqk4OmToRj1n8rtvqgDXhp780SoiO0M52qUX4-r_mwHc7sj0KEw0XW5GNUDlBNhT3AVBmpHeDB9Ed2XLX4UXpIoOrM-IO0KNETaaHYIuIIg3bS1WPkAKF2v_glnN4DRGkpLCWjIkhthCcwUiByq7HUVory_9hA6IDX6tFJYRWUt3Edj4oNfgI/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="855.astro" tvg-name="MIX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MIX_v1.png" ch-number="855",855 MIX
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViAM5JbyEZaaeLD4FZBYo21NSxWRbaXmYH008ATWBF6-MloTbu0QD5q6BstZ6uzCf8564cLQ4YmHrjhqtVvfpn4HUspEN3xEZjfQVp7clGOvTFj7OfKlP7-zKsn5mC-P7Rb2B2AFcwcRNv_TZey25s7owRzFAQkmidSUHpz4m9c-Gw0ElXY6a_KXjgP8ejgZDrKuRMe1LSp6rahZy0jiNblgNbjccq5OifLcC0SfFPdCy4_08E5T2wYbFQDNiYA0iQJvu_It5hEKPDsL7-lxxG6S8epPGWkspul6dGQRxy1cskhLOT3CUFJcS5sec7FvdZMXJfZSSlcfQZBIAiMWhbck/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="856.astro" tvg-name="ERA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ERA_v1.png" ch-number="856",856 ERA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDPIaLmDooNeCM_pH7QDVc4J30tapIw4jRUToTsAMKGV_qpmWXUJJWTIyKE2ChiA7YE00BXxWczRGST6kDrq06aVdvH-mQT-3TZ-NX-2OEIVoz4qw4bx_Bgw0ZCD9J6NYCV9ATORXl5KKT7YGkaV08Mvv8bxVDZ68hzXEBdhEKemFnWWzJmQmKoTia90F76M3iojyY9Iu6DtABU91wZqLDhyKKoydsaXpbBrGIOq9Jw77Nx2C5-cFYs7g7YQhA9XT-wLPGMUwK0Y7Y8EilMXgiNXI0andChPd8blqC98WMyVfCsrkK_wizqwrJoritVSp1-Bd1qQPLXeNXYY5xMq2Sw/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="857.astro" tvg-name="SINAR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sinar_v1.png" ch-number="857",857 SINAR
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViHlsKpcUzxQwig_WVCGoY5cVyzMGn2cVbwWvARqcF_HhmgDxRG2iKZA-jE6FarAFnzTELgoUOo-G4NixXD53ovH4I3ZRn-3wokpAhlPQAYGxb63Mf5CpkkQZ35qvdw1QjtqnxbM9R8gZo_b-N-ku-HNA_czDVioELF0Ns5Fv92rlCnqXofZHtszOPYSaNx28Zj-SvUpNMfC-0RlcwYeT1X4KtHxQJ3fLefyPpxdCRQEMf0eQK6tJkBhCjb-z-AzMQyVYgMU0VjnQHa_2hV8OKs9kdyF0sAvwMEqbj7tgvC82eyEBd6bY1azg52ANvIdSD8RysUS5auSxonLZtoiOoS4/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="858.astro" tvg-name="MELODY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Melody_v1.png" ch-number="858",858 MELODY
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViJsGKnP6Z813SolCN1rg9H3rIp7xPh-Z23BD6fC3aF3UX0HpQBA-EK350QVmVpCVL-2tyW5b0qoy76XuXkOTgnoUzNfL87l5Yd2OsQ45zj2RyxYo2eKv5f_1bOX3ooc0LcwKkjrARGp2wjwXA6vxmD40SfYCgi11Gy-keqIJYWi1NRKzk7s9nm475S1dvLHmElOPj5jMP-YLApobriFDs7U567Tzm_T6KKa2L-piPqAQI92CqjKssfu6sVOHo7rqENz6migWP5H7nWAu9gFy1da1npKNDjS-UUorCwTHH3jkXcZvT7GV5rw-2zU3lT1iUgEmJu4E4p2fIEabvypTuP0/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="859.astro" tvg-name="RAAGA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Raaga_v1.png" ch-number="859",859 RAAGA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPCp0ya3q0SPRrKD5g0Uqoz4o6pW68szkvSTMw-pK6tgZVMS1CXt3Y2aHuvI7VdwekppzMgB47VCGBIND1i_fMHCOxe4AiS-hSWo_FywHxVLC6WvG13JrpIs0bl3PhIPfSoPvS7m3k9e_CKJXiakm_tdrQwikCEMuV4ZRCLYrrktOIxvY3g9PVjJILvKs-TjoeM3rxGG-hUARzvrHYnlJ82ycL1TlQbaChAnd4TxRv3W3WY__yV6P9WZ4-mxcZtkxo3Mdxs36DavIeFsyIQwCrEHCd9j3tcCfcmAa04qSdNprm_Wp9Scy-qQY7d8esG1u9iKF6b_nnLNtNFR-vhxtmI/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="860.astro" tvg-name="CLASSIC ROCK" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Classic_Rock_v1.png" ch-number="860",860 CLASSIC ROCK
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViLb7iBatXZKKE05asRZmIZZ_y1tTTVw1bG51QswX-Mqf-GpAW3YlIe3rZPq8Jykx72hIbDyEOM812dbH1-MI2_tVkBNci0rd9MSf4PvRfngFFPaeNGJd5zHaOCjSXn2d-eh8oU1d1RgaICpqVKMMA6na9tDHWptMD1l9K3GRJuKKt_NwalqMY-_lYl5Gbgrcdki_SVlaGiKPVun6jsp8-cpSF12Selx2rymbxrzzXbFnAEDiH2TtPtFXwLfa8UfSe2toYDOe2dbKXB4lJcHhAIuIjCdrXgC4lQROwlm2dQ951ft7zRPOU-E8Hk2rL70dryTforwXgohkEO-utSlkD8I/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="861.astro" tvg-name="GOLD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Gold_v1.png" ch-number="861",861 GOLD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViC_CiPgav6M7_VkzexXI2zKb-JD8asgtSU4izfTW2Wj-8B8EBxAP_MBEoSQBkKpOL4Od9MwnghymOvqnu2fadRWZpGmJx3oepKZyFes9Cx1FCiforixyBF8MUSfWmRvl55N37Co25fUCkty1pW5VijiakJwzLuJpHdvbz10SF5iLkPCm2E5D7idbJHTyBdsIXKUPo1VZ3ZyUjnjuK0ciAlC-Hk97mzXojL2XorHgb9E4cD3pmJLgPvsZV5lqn1SNmh_xvsf9YCgIRWumnVuS3UTwA0G4s7iK6f6HCyaxWhUpmEiTfEfXMDOrnMfSShzqS9PqLg27mJmae_5k6_6L_xc/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="862.astro" tvg-name="OPUS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Opus_v1.png" ch-number="862",862 OPUS
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViI_SXu9ConaIfMaCShpeZ-JloCLE2tBc7uWB8aVfYReLvBONTZoJw2nUFWiGyMp856-DflQv_Zlk8Idu90xaO7JRDmQOAi2T73h4oHE5c_ZtzYwQC26giaGmRnCfRlUt7ihy8cz2y7BfK9cDAGhqHAFB1sjw5LQyRT-3hsjFZ2jW_HIMEp4Ic-f85YQPD5EnAnVEXBYYhbtSGs5tLgkB6aVv4LqjwkU9MQMd8Py_xEYR3qVMBO11ucEyseZBQgSFn00HLsypIC-ghiB7_9jdYrUTn8CoTRgoKg_rdvaQGBmb8omTRLRdBGUELJ3ud54biul5sswI9krQW57XuiK9DdQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="863.astro" tvg-name="GEGAR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_2171_v3.png" ch-number="863",863 GEGAR
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViGqcdn8rqVWA39epLcK7L8liVfqvTS34CT-jt7M_XUb5G41uqDgfj3mxXOkfQdNH8m46zhE6dhHvqQ7Qkhxa-0mRfbz79V4Y-zEuXnmwhcoUnsqcsx6abSzXc8rkbW6g1G3SQOmLhz4QIckFZHce29Dh25T2qzmb0P4UGbDTJv2U7qnvaI8nshvkiBffN0i56b4l4aNIQJ3dvAZvjnv85BzsWh008ct7GniAJ5LOkHpa4Q8OY2dlUMU-fgXGGqH29NHpC9qh2EsHAVJ6eR_ZOhe6l7lUpetXAi_cPZCNOOhaUli1kr8tBjSCcXrynE8pfC3QuFcTVOrQG7GAFKNrZ2k/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="864.astro" tvg-name="INDIA BEAT" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_India_Beat_v1.png" ch-number="864",864 INDIA BEAT
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViKyznJmFmh_lA7RwQ8s6K9M9UPBnlA8wJ1abAbYYxLnS9H-nJoG_E_ar-6TgMhx9yjQTfi3wMzjIUhcVsDEoqIET1dSi87ncGOn8RSFV-y_vgHF1yqqrB4iSjmv_9RRWMJkliuArxcaUZJLMtMvkeoCU8PTfY8M2-p_0iPx8TdxPSjTqHQgQ5Vrv0dyu9iq5crazpW8hE2Erg8xmepUR8nAIlIr4YEqlqK2isAF8iDbEG3TamKcr_4woOeJMjXeN5wvdtA_-XvAnKdvgfmUVpmI7xFDLb-LtFT34AOWU7c6n5eiLiAlv6DIvlIQ-E1vxW7fmTO0VaXULYJtz1XbSrF8/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="865.astro" tvg-name="JAZZ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Jazz_v1.png" ch-number="865",865 JAZZ
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViP76A3KOzeCyLtX--D31yXYJDloo9oBmlMZFKhk3x5HUecyGFO8Ks5uJeS1Gp0yxGpoGslhiPZeRiwOeUpjboat-q9EAkbeBgXM9e2MZ9FxKrtjwgklqvI978WkD5OfU1HZNXbvdJvpoLBsRsNSqWU7JnniL_0jbpmc5oUztWDGuPk8Y0v3Kc5yn7z90K-NnMGyDnRLyf2R_BkCcGusEwZhF_0XAymjvMpH80g1rnjuyKlIrEUkq7VYR6Nh2sTEWS-aabWc4HqCAHr_nD5OaiipMH8I_99PeMLyt7I--a5uZxDbvHhsamXim6hj5uxdJkOAPRPKGzAiG2LGtAMxj6GA/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="866.astro" tvg-name="OSAI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Osai_v1.png" ch-number="866",866 OSAI
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViGqHti9eb7MbE_lLRqe7iNxRX9RBxyJahBWnWAhBrmeuTnlHojUuivhevkYiHU6oNwPnLcqQYcQQ43HvvlHLep3syX4YmX27Xz67A5C8dXXcISOOR_g3SAeaDEO9HaJw_taWyf7QkXSJMHXNKlIHxlxYwAvVOQ_iQODLJkefJwYAm9U7KH-4Gsl3SJ0QzmX-pr9bWEeuv_qjN9T0hc3nEHAv-Y0-COl1dGueMH2rVxgTlyW-aYaYXJDAY9I962FqUdo-xZ1Z3G_oY6YOBYwrSd7xyJFLQGL3xMefrzdsx44TqJMQ6ebFKEaKMvY0_H3GL-wseGYiHXndFkRN5veGaqI/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="867.astro" tvg-name="BAYU" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Bayu_v1.png" ch-number="867",867 BAYU
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViNUJBS3vqBwxD0_D8yzVJfbEa-5S-coZLWE73a272gOVqWUE_Bpkk4Kl3jjlqIjyCn6USfbPQiWznYvQDK1zh29DpcTkjDaIkNhWB9whLgGqGPs0PzlvsMpCdRcB24w0PwIav5JYG7x2wfGXINUQK23EDtGaO90uycQdpdIdCVPxTmcBIYJM3lfyNQQnHactip_dTd17hOztFjKGI3heRsU5O8Ihj26JLglSzBiwgDIu-VnTpiyCiYchflJxWHek1juvTgfiJsivMPT8brSlNKuk1tSpAR25NUGnbZz80MUSC62iXU4kSiJvxQoJKMaeui5AGfyzKSX3q1QJb8Vze1I/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="868.astro" tvg-name="KENYALANG" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Kenyalang_v1.png" ch-number="868",868 KENYALANG
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPAEQOyURBHXYCgAZx2WrdjT-d515H5N-gFy0fKPkEi6lm-tc5bfWQoA-1kZtcMlZDA8twB7aWBuWkS8CBgVpxLnlkQbpN1vLVG3V9N8EgO-ULijJH888WAut8dy2iH861nzksRP9FjwGdhCVMOdht76sLo-1LiGfKkT5gqvFJxDFTNi60J0uqt1Zl0Vkhio4ziaEtgUWhc_KzdJ0LdUeFv63Z_rHWoTFAJ7dIli8lGQV3L2IiOCSh9XhWDZjOAVBgQkr11HyKIFQtWCGVfr6oTHr-UFzzCwyzk4O5GgbBb3_MzXnYm3ezB_LOG10GNFyKsRHS7mugYLAzyxgIa7QGk/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="869.astro" tvg-name="NAS FM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nasional-FM_v1.png" ch-number="869",869 NAS FM
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPeOzqe297Z8WAezI_9UieX5_EGUDABWCL6ibOnFnv0s6Ff3Zfsu3-R5pjkIMeDezlmP6Z4rTGDI0asTEduBl0HK1AWUlEgqI1gbsophkX4EJOhhARjZcQ_fqrPkIw9lsHnNiJHRPOjMtEgMukGVYWBeFjSWRxrV9ZtAFwEug7SHNn5aJhZl0wSC0CrAkWPo2mERXQHMLGpauXab8HUTFsStW5NBKAhK_G1YjIjTnICdkSZxWiF93FzWAX3rJQricQHTEr5iNWCsqQOrjzeaQxyxO4x9IyFQKlg7Xc7-u3avJeRtgot-WKmH8kCuwduDf3CVqztMJSVUoi2-Et5REVw/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="870.astro" tvg-name="V FM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sabah_VFM_v1.png" ch-number="870",870 V FM
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDthZv7BKdAHX37fGsh-YLNvWl6dkEM3KjAcoLQQBSvdtujLF-Qb4ycqj2UXZU1rlvVbbVOUm22GgK8xwYZN9Rbkg-_m4DtR3iiGJqDlD3U0vxGYRlmjbBzb7ZnEWFK007PttVZXcVuQFHAOjm3sRUYlf8JaZJUzyySZtYGHSA8JNL4iTO3rrcqf8XkqsuPR3Q5RNjI_MpquWntlGtvhDz9zN-en06WXWJ0LFQBczIUonOsb2c-nJXnX7oBwvd-dyeGSn2Ab6NckTkBfmkPI5BShqxQ6Xjla2Hm3zVaoxswtt1mnomkkmLan9iyNOzUQmQ3VxBuGE8s9JbRwwwdb7Qw/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="871.astro" tvg-name="WAI FM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WaiFM_v1.png" ch-number="871",871 WAI FM
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDcoQ6ip4b5oYFVVv_VFAab_vPXT2GYV79kAqKKueyLG7cyvKcQFDook1xri4lKksBWET9kwBSL-zmiPKZBRK_eQmXMG5boQmru3P0zEOHXpkpjxf4Hi1lCllfu9IGAsbNssqS0Ib376odbzgU831a5q1uyuS3EGzjIz9gzINqw8qP2QRp3Y4zK3DVi6gAy1zjBj-ql9kIN0FG94NuE-3UTfN59vdw8TfS9ueZ8GfG7OuieSTWurhCYtLKNpms8SBhJJPkL48wsV7KSTGOYzsA2LQcLjIXYbZpuONhF_jDZOgMJ4Tj75sf0Urny9edWHSHBmuAQcKPzjAG25xQGOYoQ/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="872.astro" tvg-name="TRAXX FM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TraXXFM_v1.png" ch-number="872",872 TRAXX FM
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViC4zqKZ6zm-nhh5ijfbevfguaelBKcC7ch_k5rzkygiEqSHLMY0wMpOZXJrIyGX784Z5MOxA9KIZm9JkJ9BG1hToIVDHF6NAmvFfMo49YzM8Fptyhp5JSxRKTUtDXBNCOdMgVL8ls068u0kQ_tfMLu2jRwcqqkDQmlyyFRV0mR_kxONPI7r0lsTQ0F16lhiwZaOTfranbmYzBNF2wjnv87tdyS_DDI0ZsqETBRg_UDy-7lNBwOtefZdTt_CbA2JJ9xAdRaiiHZPdxlcS-moU3IzDdZX3rc3hTEjQp3KrFLTvLO11j--7AI17_PkOMXU8T8VoyLiXZ001FxFcutczcuI/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="873.astro" tvg-name="MINNAL FM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Minnal-FM_v1.png" ch-number="873",873 MINNAL FM
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViAi-065CFCIrmfQfS0wQNMZ7VtRicVnqRQ6rsuf7rcNzefRPBzCHKmrb9tWYovx5TkZpjWnEv41V0LENNyp703AhqkyoAicDE_vqk2duPFZvnriLdu60yhK7_7ToRKCkg5_pCrKvYtHiPSVwIERvzk6Ya1C7Van7Rxp8JNjdRlcsDpLUtYL20TjLaM4eCwSTX1dLM2mSuVw36_r_S9JSH9cjZGXaaI2BsGh4Md5EbCwA_Cl3JGu0vDIrdmsOmp3yoNOw6eV9mk9eLQJo-S73qUnDMlOO11oIY8i_Q3lKBsllvQC7ZZmO3yuz7nQwX0gIilFzGf43GTAweMb0aidAcBM/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="874.astro" tvg-name="AI FM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Ai_FM_v1.png" ch-number="874",874 AI FM
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViPENtfzgFPYjgoSA7MaCeJ_2RRNpf7a6uAa7RR5FLXTOSReY_Frd5WdP8vTbdCXW_4yLRwh57zxsa5pKQpDGFc8DTWfGxI1DHQ3PVA7UL-xc6sHZY3FazXsaTVRh4BfKbWRT3D3vnMeH0OfhRzSAuY2mgySbXX-kMWYuGaPRdbAtLPPHd483ZuZ9zYCivkX0NlglDzBW_5qDGdQPzaXTYv6eVyi_xiAieX7lfXKYwR9n7XUcjU_D5u1_IRXVdPG9xOII3Bd9B7eH8nwk0oLt652CIoYy8hpIGs_5Qoy9fTL9os_vJhblXIIvV26bDHIXOTgmxYS6krY6B6QSDKiICZc/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="875.astro" tvg-name="ASYIK FM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Asyik_FM_v1.png" ch-number="875",875 ASYIK FM
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDWdk3duhM4EN04_StQ6lDaGY57iGe3aJqEHByKg3K-0IOUHze5nWFERnfLvQHwfLaD1tvGDAhc8DYIngMSABwc8lp_8IjAfosFfWzcDpH1HTvuS5_XhCjvZlFyfqjQVA3W33vIjvfOeJzumBUzjYuBpx4cMP77bEe7FAQzsLJ5j8U0As3WEZtbdYWjUscMQYDHS_vqe-BrLtvkM4kO1Ygl8ZR5MSh6x5_IIaZyR6RGuTn93fWpwk5ZaFwHBDqnR7IYvycwZZiBNqm4P-R0T3RXYV2VGmtOg4IyZtma2h1wme9fnBzhiIZjYMYEkCOB7KqBhhF2ZjvupIWnlnvm9pzU/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="876.astro" tvg-name="ZAYAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Zayan_v1.png" ch-number="876",876 ZAYAN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViFi0-VaZgkqeNGw96C1gWk7JoWPLmEhQl7spvVwqHAAMEojMoB4OTx0EYK8KUYu9KQQg3zTaJ935_QVHEnmqKZHEDvg9j3F-XOi698-vU4fS-kkqsl7vXT4vmy2wemFC5JgnvFxv_ZguAduJGpUtKokEMzQh40Jq93hO8nxGQjbeAnPpqTWcExol925d1rHvk3g0l6u8j2Pi2_tHEO1PcRHo-1LlH41BT1JFn7Zw8mTSfiIbzJzoUSU786ulRruKlidDlsDlxX3DXeqD4vd2UThRj_tf_1BFEIQEMRmBtDA2Yd17dKpd5Ba64w3q012StT77DmtIPrCBmf7G8B0blIY/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="877.astro" tvg-name="GO XUAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo-goxuan_V1.png" ch-number="877",877 GO XUAN
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViL7UhwPvKv6Y1oFyL3Yy5XAbkW3zvrd11s6JKTHrE0JIDn321aKhig7k9znY1IzrqakObcBkBlIul42CIeZOvkYi3DxwM82uTgZY9N_CsCZfiezH7uJphAYjo2I_HRD_3HZDjImZmqCixgcJ4-3BCRSnk4AgaXl8VwuNJHLcdjnZvxzQL3Ti_26fQ8raoGOeM5vzBIRcjGxZzvINg2Bh125sUj27LP6JA2dJ-H3gzHKkHQcg0gjd18xjaoX9pdF_TBzYuDtomHiBlCtx8eK5vML8ny9g1SYVRrGjCENjod6eBscPLf-u4sJn8lLUqr5ljsbMHFUZkD3DmqIdN6VaKZU/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="471.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png "ch-number="471", GEM
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViIN8lu1KVGnz8JWHJaMiSABcJ0qlJfexLtfwDNhr81zvTaX6e0zasGEaU-CInhkgIEB9FwqHlwqXHlc-5GLd5D5q4iiPW4UhZW0eSL5MuOBEqeu-tmwVTjFAYrr1p6_wVujQIe_-oNuQgGtNikdcj2bPHYwLH0iaQK7jtoGr81N8KF8rue-fU79re1pn9E-8Q3H9R1-ykLVVW9RMWIczUf4ZzPPptvFkSk0U7ecGrr8nLlZL_2GgOOAX4NKH2ejWGB6nbat3x0dVe5Yy_MM3XKhOk5rTd3j6AMpsk-6EEICd/hehe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="121.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" ch-number="121", SIAR
+https://tv.sxtr.me/teUPblkwAtXlHNiQd_RViDkc8t7wbVUvGaoIyGHOpdAKSnDMiwqFFR9I3OmdrU3e5ioY0zujtOC9bbixqcSZcuWYIjvLNd3fyeqLyeY3ARgF9BGFxYPnJkk7L_pOn0zT6IUaP_oU8rk_VPC1r2qQ8kuxYDCH0Exge_-1y8jui4-RoNFyejxEgeUxwX7HA4CVuQGjhrufHQ_dB1IxrgIptIsp7XkMDxHFyhaPbHQyt3FYpFQCi2BfAGBKKwvuA5OoGM_KimnhuVlZwH4V3E2VtApCArIuZ6Y5BdHSi2G8SAP4aYbts3Dqi07VFYpZrEgb/hehe.mpd
