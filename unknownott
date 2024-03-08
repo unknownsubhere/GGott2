@@ -126,7 +126,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="BB.OTT | Astro Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" ch-number="103",103 TV3 Astro 720p
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="BB.OTT | Axstroks Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" ch-number="103",103 TV3 Astro 720p
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 
