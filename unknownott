@@ -130,26 +130,91 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 
-#EXTINF: -1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="BB.OTT | Indian Channel", Star Vijay Super
+#EXTINF: -1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="BB.OTT | Indian Channel", Star Vijay Super 
 http://starshare.live:8080/live/123456/654321/1614.m3u8
 
-#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMoviesFHD" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",Star Movies FHD
+
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 1" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="BB.OTT | Indian Channel",Star Vijay HD 1
+http://watchindia.net:8880/live/97869/86543/846.ts
+
+
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 2" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="BB.OTT | Indian Channel",Star Vijay HD 2
+http://watchindia.net:8880/live/97869/86543/2140.ts
+
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="BB.OTT | Indian Channel",Star Vijay Super 3
+http://watchindia.net:8880/live/97869/86543/2190.ts
+
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="BB.OTT | Indian Channel",Sun TV HD
+http://watchindia.net:8880/live/97869/86543/843.ts
+
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="BB.OTT | Indian Channel",KTV HD
+http://watchindia.net:8880/live/97869/86543/845.ts
+
+#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMoviesFHD" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",Star Movies FHD 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesSelectsFHD" tvg-logo="https://bit.ly/3IfGD1F" tvg-name="StarMoviesSelects" group-title="BB.OTT | Movies & Entertainment",Star Movies Selects FHD
 http://starshare.live:8080/live/123456/654321/98843.ts
 
-#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="BB.OTT | Movies & Entertainment", & Flix HD
-http://watchindia.net:8880/live/72695/24354/2088.m3u8
+#EXTINF:0 group-title="BB.OTT | Movies & Entertainment" tvg-id="andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%26flix_HD_Leap_forth.svg",AndFlix  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://89.187.177.137:8081/&FLIX/index.m3u8
 
 
-#EXTINF: -1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="BB.OTT | Movies & Entertainment", & Prive HD
-http://watchindia.net:8880/live/72695/24354/2103.m3u8
+#EXTINF:0 group-title="BB.OTT | Movies & Entertainment"" tvg-id="andprive.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest?cb=20200430075830",AndPrive
+http://89.187.177.137:8081/&PRIVE/index.m3u8
+ 
 
 #EXTINF: -1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="BB.OTT | Movies & Entertainment", Movies Now HD
 http://watchindia.net:8880/live/72695/24354/2102.m3u8
 
 
+#EXTINF:-1 group-title="BB.OTT | Movies & Entertainment" tvg-id="hbosignatureasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ 
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+  *http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/221948
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png" group-title="BB.OTT | Movies & Entertainment",Sky Cinema Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0009899396bfbe13641249c377c79747:19955ba8f23feaffec600471f9b61c1d
+http://linear401-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemaaction)/manifest_1080.mpd
+
+#EXTINF:-1 tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-PREMIERE-June-2020.png" group-title="BB.OTT | Movies & Entertainment",Sky Cinema Premier
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007264a228eb8f0a8aa7125c554b28b:05f2d10cf08f756fca27f9721d9c0533   
+http://linear407-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemapremier)/manifest_1080.mpd
+
+#EXTINF:-1 tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-HITS-June-2020.png" group-title="BB.OTT | Movies & Entertainment",Sky Cinema Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0009f3362c4d0114d8e95fdb5fe2e558:cd19929847c50087f9d4a3708653cfcf
+http://linear406-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemahits)/manifest_1080.mpd
+
+#EXTINF:-1 tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-ANIMATION-June-2020.png" group-title="BB.OTT | Movies & Entertainment",Sky Cinema Animation
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007e0030cc8e5ca019215c320ee143c:5904d4ec4a13a7d86ba29c3cb0ec5c1c
+http://linear401-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemaanimation)/manifest_1080.mpd
+
+
+#EXTINF:-1 tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2016/01/Sky-Showcase.png" group-title="BB.OTT | Movies & Entertainment",Sky Showcase
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003fcc6270aa86dab9e8b82276f03ca:d7a797019cca2955218c21a7eba284a1
+https://linear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="Sky Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Comedy_DE_Logo_2021.svg" group-title="BB.OTT | Movies & Entertainment", Sky Comedy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005e54fb6a08a532ef93a60370c001e:4562f26e212d7ba93c95556d722abe2c
+https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycomedy)/manifest_720.mpd
 
 
 
@@ -164,12 +229,13 @@ http://watchindia.net:8880/live/72695/24354/2102.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="BB.OTT | Axstroks Channel",104 Axstroks Ria 01
-http://mku0414.oknirvana.club:8880/6mmk050023/37168895/1702
+http://mku0414.oknirvana.club:8880/6mmk050023/37168895/1705
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
 #EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" ch-number="104" group-title="BB.OTT | Axstroks Channel",104 Axstroks Ria 02
-http://50.7.234.10:8278/Ria/playlist.m3u8
+http://mku0414.oknirvana.club:8880/6mmk050023/37168895/1705
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
@@ -184,7 +250,7 @@ http://50.7.234.10:8278/Warna/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310":"8412f444ffbe350cf2ece051f9152e90"}
 #EXTINF:-1 tvg-id="105.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="BB.OTT | Axstroks Channel",105 Axstroks Prima 01
-http://mku0414.oknirvana.club:8880/6mmk050023/37168895/1705
+http://mku0414.oknirvana.club:8880/6mmk050023/37168895/1702
 
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -669,6 +735,7 @@ https://tvp22.sky4k.top/index1.php
 https://tvp22.sky4k.top/index2.php
 
 
+http://xplatinmedia.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/93026
 
 
 
@@ -682,8 +749,13 @@ https://tvp22.sky4k.top/index2.php
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="BB.OTT | Movies & Entertainment" tvg-id="" tvg-name="", Colors Infinity HD
 http://startv365.com:80//live/D85A79B4/55A7743D/378760.ts
 
-#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",Star Movies HD
+#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",Star Movies HD 02
 #http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
+
+
+#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMovies" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BB.OTT | Movies & Entertainment",Star Movies HD CN SUB
+http://xplatinmedia.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/93026
+
 
 #EXTINF:-1 tvg-id="StarMoviesSelects" tvg-logo="https://i.imgur.com/0rFA2Cx.png" tvg-name="StarMoviesSelects" group-title="BB.OTT | Movies & Entertainment",Star Movies Selects HD
 #http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
@@ -2154,7 +2226,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport HD" group-title="BB.OTT | Sports Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/601/default.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
