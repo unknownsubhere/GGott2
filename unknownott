@@ -144,8 +144,7 @@ http://starshare.live:8080/live/123456/654321/1614.m3u8
 
 
 #EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 1" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="BB.OTT | Indian Channel",Star Vijay HD 1
-http://watchindia.net:8880/live/97869/86543/846.ts
-
+http://vo01.mohdtv.com:8880/ALLChannels00226e0e56ef/53600763/55297
 
 #EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 2" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="BB.OTT | Indian Channel",Star Vijay HD 2
 http://watchindia.net:8880/live/97869/86543/2140.ts
