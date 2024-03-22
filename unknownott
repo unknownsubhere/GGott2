@@ -16,10 +16,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
   
-#EXTINF:-1 player-buffer="2" tvg-id="101.unfi" group-logo="https://www.dropbox.com/scl/fi/mg7abt8jqvxbb40c89s3m/1000012349.jpg?rlkey=fjt3hvv9lvplh3zakb0loplao&dl=1" group-title="BB.OTT | Axstroks Channel" tvg- go="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1 Unifi
+#EXTINF:-1 player-buffer="2" tvg-id="101.unfi" group-logo="https://www.dropbox.com/scl/fi/mg7abt8jqvxbb40c89s3m/1000012349.jpg?rlkey=fjt3hvv9lvplh3zakb0loplao&dl=1" group-title="BB.OTT | Axstroks Channel" tvg- go="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",101 TV1
+Unifi 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 player-buffer="2" tvg-id="102.unifi" group-title="BB.OTT | Axstroks Channel" tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2 Unifi
+#EXTINF:-1 player-buffer="2" tvg-id="102.unifi" group-title="BB.OTT | Axstroks Channel" tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png", 102 TV2 Unifi
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
@@ -372,40 +373,10 @@ https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
-#EXTINF:-1 player-buffer="2" tvg-id="ONE" tvg-logo="https://www.dropbox.com/scl/fi/mjdbx9vwsu2akca4npdpx/skyvid-network-one.png?rlkey=qll46rfor6by3tgcml1ny4xpq&dl=1" " group-title="Unifi TV",ONE
-https://linear05-playback.sooka.my/CH1/masterCH1.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+TZMA5oAfez1lcmKWMMjCQ", "kid":"fLhAK8wnRmOYFYmFcQMnNA" } ], "type":"temporary" }
-#EXTINF:-1 player-buffer="2" tvg-id="K-Plus" tvg-logo="https://www.dropbox.com/scl/fi/h36yztqwghpxwc0cs0bjm/skyvid-network-kplus.png?rlkey=25nn2s90cs1ir8nol2ent7e9z&dl=1" " group-title="Unifi TV",K-Plus
-https://linear08-playback.sooka.my/CH5/masterCH5.mpd
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=edf1a715de9748638dd2fad75a419af2&key=2f5a3199b26e9b693ae881af7ff864cf
 #EXTINF:-1 player-buffer="2" tvg-id="Animax HD" tvg-logo="https://www.dropbox.com/scl/fi/rqe8mkrkiy0zoa2qt2tuo/skyvid-network-animax.png?rlkey=9opm6zszh0rmvn34z0u171j2w&dl=1" group-title="Unifi TV",ANIMAX
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
-#EXTINF:-1 player-buffer="2" tvg-id="501.unifi" tvg-name="BBC Earth" group-title="Unifi TV" tvg-logo="https://www.dropbox.com/scl/fi/191ml2stohuvd23wd4eki/skyvid-network-bbcearth.png?rlkey=tgtfxnaryp5dfvbzmah8imj6g&dl=1",501 BBC EARTH
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
-
 
 
 
@@ -2394,6 +2365,21 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 player-buffer="2" tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="BB.OTT | Sports Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",ARENA BOLA
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 player-buffer="2" tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" group-title="BB.OTT | Sports Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",ARENA BOLA 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 
 
